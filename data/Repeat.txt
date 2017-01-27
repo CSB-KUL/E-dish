@@ -1,0 +1,220 @@
+P08622	UniProtKB	Repeat	144	151	.	.	.	Note=CXXCXGXG	motif
+P08622	UniProtKB	Repeat	161	168	.	.	.	Note=CXXCXGXG	motif
+P08622	UniProtKB	Repeat	183	190	.	.	.	Note=CXXCXGXG	motif
+P08622	UniProtKB	Repeat	197	204	.	.	.	Note=CXXCXGXG	motif
+Q24247	UniProtKB	Repeat	38	105	.	.	.	Note=FG-GAP	1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+Q24247	UniProtKB	Repeat	121	186	.	.	.	Note=FG-GAP	2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+Q24247	UniProtKB	Repeat	193	245	.	.	.	Note=FG-GAP	3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+Q24247	UniProtKB	Repeat	254	303	.	.	.	Note=FG-GAP	4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+Q24247	UniProtKB	Repeat	304	366	.	.	.	Note=FG-GAP	5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+Q24247	UniProtKB	Repeat	367	422	.	.	.	Note=FG-GAP	6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+Q24247	UniProtKB	Repeat	432	494	.	.	.	Note=FG-GAP	7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00803
+P23325	UniProtKB	Repeat	381	410	.	.	.	Note=ANK	1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8014990;Dbxref=PMID:8014990
+P23325	UniProtKB	Repeat	429	458	.	.	.	Note=ANK	2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8014990;Dbxref=PMID:8014990
+P23325	UniProtKB	Repeat	477	506	.	.	.	Note=ANK	3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8014990;Dbxref=PMID:8014990
+P23325	UniProtKB	Repeat	525	554	.	.	.	Note=ANK	4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8014990;Dbxref=PMID:8014990
+P23325	UniProtKB	Repeat	573	602	.	.	.	Note=ANK	5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8014990;Dbxref=PMID:8014990
+P66948	UniProtKB	Repeat	309	342	.	.	.	Note=TPR	1
+P66948	UniProtKB	Repeat	344	376	.	.	.	Note=TPR	2
+P66948	UniProtKB	Repeat	377	409	.	.	.	Note=TPR	3
+P66948	UniProtKB	Repeat	427	460	.	.	.	Note=TPR	4
+P37650	UniProtKB	Repeat	62	95	.	.	.	Note=TPR	1
+P37650	UniProtKB	Repeat	112	145	.	.	.	Note=TPR	2
+P37650	UniProtKB	Repeat	269	302	.	.	.	Note=TPR	3
+P37650	UniProtKB	Repeat	303	336	.	.	.	Note=TPR	4
+P37650	UniProtKB	Repeat	351	384	.	.	.	Note=TPR	5
+P37650	UniProtKB	Repeat	385	418	.	.	.	Note=TPR	6
+P37650	UniProtKB	Repeat	461	494	.	.	.	Note=TPR	7
+P37650	UniProtKB	Repeat	603	636	.	.	.	Note=TPR	8
+P37650	UniProtKB	Repeat	710	744	.	.	.	Note=TPR	9
+P0ABM9	UniProtKB	Repeat	222	255	.	.	.	Note=TPR	1
+P0ABM9	UniProtKB	Repeat	293	326	.	.	.	Note=TPR	2
+P45955	UniProtKB	Repeat	143	176	.	.	.	Note=TPR	1;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20455268;Dbxref=PMID:20455268
+P45955	UniProtKB	Repeat	180	213	.	.	.	Note=TPR	2;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20455268;Dbxref=PMID:20455268
+P45955	UniProtKB	Repeat	217	250	.	.	.	Note=TPR	3;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20455268;Dbxref=PMID:20455268
+P69776	UniProtKB	Repeat	24	34	.	.	.	.
+P69776	UniProtKB	Repeat	38	48	.	.	.	.
+P0A910	UniProtKB	Repeat	201	202	.	.	.	Note=1
+P0A910	UniProtKB	Repeat	203	204	.	.	.	Note=2
+P0A910	UniProtKB	Repeat	205	206	.	.	.	Note=3
+P0A910	UniProtKB	Repeat	207	208	.	.	.	Note=4
+P0AFF6	UniProtKB	Repeat	364	414	.	.	.	Note=1
+P0AFF6	UniProtKB	Repeat	439	489	.	.	.	Note=2
+P19934	UniProtKB	Repeat	224	229	.	.	.	Note=1
+P19934	UniProtKB	Repeat	230	234	.	.	.	Note=2
+P19934	UniProtKB	Repeat	235	240	.	.	.	Note=3
+P19934	UniProtKB	Repeat	241	245	.	.	.	Note=4
+P19934	UniProtKB	Repeat	246	250	.	.	.	Note=5
+P19934	UniProtKB	Repeat	251	255	.	.	.	Note=6
+P19934	UniProtKB	Repeat	256	260	.	.	.	Note=7
+P19934	UniProtKB	Repeat	261	266	.	.	.	Note=8
+P19934	UniProtKB	Repeat	267	271	.	.	.	Note=9
+P19934	UniProtKB	Repeat	272	277	.	.	.	Note=10
+P19934	UniProtKB	Repeat	278	282	.	.	.	Note=11
+P19934	UniProtKB	Repeat	283	287	.	.	.	Note=12
+P19934	UniProtKB	Repeat	288	292	.	.	.	Note=13
+P02929	UniProtKB	Repeat	70	71	.	.	.	Note=1-1
+P02929	UniProtKB	Repeat	72	73	.	.	.	Note=1-2
+P02929	UniProtKB	Repeat	74	75	.	.	.	Note=1-3
+P02929	UniProtKB	Repeat	76	77	.	.	.	Note=1-4
+P02929	UniProtKB	Repeat	78	79	.	.	.	Note=1-5%3B	approximate
+P02929	UniProtKB	Repeat	80	81	.	.	.	Note=1-6
+P02929	UniProtKB	Repeat	91	92	.	.	.	Note=2-1
+P02929	UniProtKB	Repeat	93	94	.	.	.	Note=2-2
+P02929	UniProtKB	Repeat	95	96	.	.	.	Note=2-3
+P02929	UniProtKB	Repeat	97	98	.	.	.	Note=2-4
+P02929	UniProtKB	Repeat	99	100	.	.	.	Note=2-5
+P02929	UniProtKB	Repeat	101	102	.	.	.	Note=2-6
+P29131	UniProtKB	Repeat	115	120	.	.	.	Note=1-1
+P29131	UniProtKB	Repeat	145	150	.	.	.	Note=1-2
+P29131	UniProtKB	Repeat	197	200	.	.	.	Note=2-1
+P29131	UniProtKB	Repeat	220	223	.	.	.	Note=2-2
+P0ACB7	UniProtKB	Repeat	118	151	.	.	.	Note=TPR	1
+P0ACB7	UniProtKB	Repeat	328	361	.	.	.	Note=TPR	2
+P0AB58	UniProtKB	Repeat	35	68	.	.	.	Note=TPR	1;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P0AB58	UniProtKB	Repeat	69	102	.	.	.	Note=TPR	2;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P0AB58	UniProtKB	Repeat	107	140	.	.	.	Note=TPR	3;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P0AB58	UniProtKB	Repeat	142	174	.	.	.	Note=TPR	4;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P0AB58	UniProtKB	Repeat	180	213	.	.	.	Note=TPR	5;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P0AB58	UniProtKB	Repeat	214	247	.	.	.	Note=TPR	6;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P0AB58	UniProtKB	Repeat	249	282	.	.	.	Note=TPR	7;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00994
+P25665	UniProtKB	Repeat	2	370	.	.	.	Note=Approximate
+P25665	UniProtKB	Repeat	371	753	.	.	.	Note=Approximate
+P39371	UniProtKB	Repeat	40	84	.	.	.	Note=Kelch	1
+P39371	UniProtKB	Repeat	86	137	.	.	.	Note=Kelch	2
+P39371	UniProtKB	Repeat	139	173	.	.	.	Note=Kelch	3
+P39371	UniProtKB	Repeat	174	219	.	.	.	Note=Kelch	4
+P39371	UniProtKB	Repeat	222	265	.	.	.	Note=Kelch	5
+P39371	UniProtKB	Repeat	287	336	.	.	.	Note=Kelch	6
+P39371	UniProtKB	Repeat	338	367	.	.	.	Note=Kelch	7
+P0ADA3	UniProtKB	Repeat	66	73	.	.	.	Note=1-1
+P0ADA3	UniProtKB	Repeat	74	81	.	.	.	Note=1-2%3B	approximate
+P0ADA3	UniProtKB	Repeat	82	89	.	.	.	Note=1-3
+P0ADA3	UniProtKB	Repeat	90	97	.	.	.	Note=1-4%3B	approximate
+P0ADA3	UniProtKB	Repeat	205	211	.	.	.	Note=2-1
+P0ADA3	UniProtKB	Repeat	227	233	.	.	.	Note=2-2
+P0ADA3	UniProtKB	Repeat	239	245	.	.	.	Note=2-3
+P0ADA3	UniProtKB	Repeat	246	252	.	.	.	Note=2-4
+P32712	UniProtKB	Repeat	73	106	.	.	.	Note=TPR	1
+P32712	UniProtKB	Repeat	144	177	.	.	.	Note=TPR	2
+P31600	UniProtKB	Repeat	81	114	.	.	.	Note=TPR	1
+P31600	UniProtKB	Repeat	612	645	.	.	.	Note=TPR	2
+P31600	UniProtKB	Repeat	646	679	.	.	.	Note=TPR	3
+P0AFB1	UniProtKB	Repeat	62	95	.	.	.	Note=TPR	1;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00339,ECO:0000269|PubMed:15634341;Dbxref=PMID:15634341
+P0AFB1	UniProtKB	Repeat	96	129	.	.	.	Note=TPR	2;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00339,ECO:0000269|PubMed:15634341;Dbxref=PMID:15634341
+P0AFB1	UniProtKB	Repeat	234	267	.	.	.	Note=TPR	3;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00339,ECO:0000269|PubMed:15634341;Dbxref=PMID:15634341
+P69434	UniProtKB	Repeat	98	131	.	.	.	Note=TPR	1
+P69434	UniProtKB	Repeat	165	198	.	.	.	Note=TPR	2
+P69434	UniProtKB	Repeat	279	311	.	.	.	Note=TPR	3
+P16916	UniProtKB	Repeat	330	352	.	.	.	Note=1
+P16916	UniProtKB	Repeat	353	374	.	.	.	Note=2
+P16916	UniProtKB	Repeat	375	417	.	.	.	Note=3
+P16916	UniProtKB	Repeat	418	438	.	.	.	Note=4
+P16916	UniProtKB	Repeat	439	460	.	.	.	Note=5
+P16916	UniProtKB	Repeat	461	481	.	.	.	Note=6
+P16916	UniProtKB	Repeat	482	502	.	.	.	Note=7
+P16916	UniProtKB	Repeat	503	525	.	.	.	Note=8
+P16916	UniProtKB	Repeat	526	546	.	.	.	Note=9
+P16916	UniProtKB	Repeat	547	567	.	.	.	Note=10
+P16916	UniProtKB	Repeat	568	588	.	.	.	Note=11
+P16916	UniProtKB	Repeat	589	609	.	.	.	Note=12
+P16916	UniProtKB	Repeat	610	629	.	.	.	Note=13
+P16916	UniProtKB	Repeat	630	650	.	.	.	Note=14
+P16916	UniProtKB	Repeat	651	671	.	.	.	Note=15
+P16916	UniProtKB	Repeat	672	691	.	.	.	Note=16
+P16916	UniProtKB	Repeat	692	711	.	.	.	Note=17
+P16916	UniProtKB	Repeat	712	734	.	.	.	Note=18
+P16916	UniProtKB	Repeat	735	758	.	.	.	Note=19
+P16916	UniProtKB	Repeat	808	828	.	.	.	Note=20
+P16916	UniProtKB	Repeat	829	850	.	.	.	Note=21
+P16916	UniProtKB	Repeat	851	871	.	.	.	Note=22
+P16916	UniProtKB	Repeat	872	894	.	.	.	Note=23
+P16916	UniProtKB	Repeat	895	930	.	.	.	Note=24
+P16916	UniProtKB	Repeat	931	959	.	.	.	Note=25
+P16916	UniProtKB	Repeat	960	984	.	.	.	Note=26
+P16916	UniProtKB	Repeat	985	1019	.	.	.	Note=27
+P16916	UniProtKB	Repeat	1162	1186	.	.	.	Note=28
+P16917	UniProtKB	Repeat	330	352	.	.	.	Note=1
+P16917	UniProtKB	Repeat	353	374	.	.	.	Note=2
+P16917	UniProtKB	Repeat	375	417	.	.	.	Note=3
+P16917	UniProtKB	Repeat	418	438	.	.	.	Note=4
+P16917	UniProtKB	Repeat	439	460	.	.	.	Note=5
+P16917	UniProtKB	Repeat	461	481	.	.	.	Note=6
+P16917	UniProtKB	Repeat	482	502	.	.	.	Note=7
+P16917	UniProtKB	Repeat	503	525	.	.	.	Note=8
+P16917	UniProtKB	Repeat	526	546	.	.	.	Note=9
+P16917	UniProtKB	Repeat	547	567	.	.	.	Note=10
+P16917	UniProtKB	Repeat	568	588	.	.	.	Note=11
+P16917	UniProtKB	Repeat	589	609	.	.	.	Note=12
+P16917	UniProtKB	Repeat	610	629	.	.	.	Note=13
+P16917	UniProtKB	Repeat	630	650	.	.	.	Note=14
+P16917	UniProtKB	Repeat	651	671	.	.	.	Note=15
+P16917	UniProtKB	Repeat	672	691	.	.	.	Note=16
+P16917	UniProtKB	Repeat	692	711	.	.	.	Note=17
+P16917	UniProtKB	Repeat	712	734	.	.	.	Note=18
+P16917	UniProtKB	Repeat	735	758	.	.	.	Note=19
+P16917	UniProtKB	Repeat	808	828	.	.	.	Note=20
+P16917	UniProtKB	Repeat	829	850	.	.	.	Note=21
+P16917	UniProtKB	Repeat	851	871	.	.	.	Note=22
+P16917	UniProtKB	Repeat	872	894	.	.	.	Note=23
+P16917	UniProtKB	Repeat	895	930	.	.	.	Note=24
+P16917	UniProtKB	Repeat	931	959	.	.	.	Note=25
+P16917	UniProtKB	Repeat	960	984	.	.	.	Note=26
+P16917	UniProtKB	Repeat	985	1019	.	.	.	Note=27
+P16917	UniProtKB	Repeat	1162	1186	.	.	.	Note=28
+P0AFU8	UniProtKB	Repeat	1	97	.	.	.	Note=Lumazine-binding	1
+P0AFU8	UniProtKB	Repeat	98	195	.	.	.	Note=Lumazine-binding	2
+P16918	UniProtKB	Repeat	330	352	.	.	.	Note=1
+P16918	UniProtKB	Repeat	353	374	.	.	.	Note=2
+P16918	UniProtKB	Repeat	375	417	.	.	.	Note=3
+P16918	UniProtKB	Repeat	418	438	.	.	.	Note=4
+P16918	UniProtKB	Repeat	439	460	.	.	.	Note=5
+P16918	UniProtKB	Repeat	461	481	.	.	.	Note=6
+P16918	UniProtKB	Repeat	482	502	.	.	.	Note=7
+P16918	UniProtKB	Repeat	503	525	.	.	.	Note=8
+P16918	UniProtKB	Repeat	526	546	.	.	.	Note=9
+P16918	UniProtKB	Repeat	547	567	.	.	.	Note=10
+P16918	UniProtKB	Repeat	568	588	.	.	.	Note=11
+P16918	UniProtKB	Repeat	589	609	.	.	.	Note=12
+P16918	UniProtKB	Repeat	610	629	.	.	.	Note=13
+P16918	UniProtKB	Repeat	630	650	.	.	.	Note=14
+P16918	UniProtKB	Repeat	651	671	.	.	.	Note=15
+P16918	UniProtKB	Repeat	672	691	.	.	.	Note=16
+P16918	UniProtKB	Repeat	692	711	.	.	.	Note=17
+P16918	UniProtKB	Repeat	712	734	.	.	.	Note=18
+P16918	UniProtKB	Repeat	735	758	.	.	.	Note=19
+P16918	UniProtKB	Repeat	808	828	.	.	.	Note=20
+P16918	UniProtKB	Repeat	829	850	.	.	.	Note=21
+P16918	UniProtKB	Repeat	851	871	.	.	.	Note=22
+P16918	UniProtKB	Repeat	872	894	.	.	.	Note=23
+P16918	UniProtKB	Repeat	895	930	.	.	.	Note=24
+P16918	UniProtKB	Repeat	931	959	.	.	.	Note=25
+P16918	UniProtKB	Repeat	960	984	.	.	.	Note=26
+P16918	UniProtKB	Repeat	985	1019	.	.	.	Note=27
+P16918	UniProtKB	Repeat	1162	1186	.	.	.	Note=28
+P02930	UniProtKB	Repeat	23	230	.	.	.	Note=1
+P02930	UniProtKB	Repeat	231	446	.	.	.	Note=2
+P45508	UniProtKB	Repeat	919	920	.	.	.	Note=1
+P45508	UniProtKB	Repeat	921	922	.	.	.	Note=2%3B	approximate
+P45508	UniProtKB	Repeat	923	924	.	.	.	Note=3
+P45508	UniProtKB	Repeat	925	926	.	.	.	Note=4%3B	approximate
+P45508	UniProtKB	Repeat	927	928	.	.	.	Note=5
+P45508	UniProtKB	Repeat	929	930	.	.	.	Note=6
+P45508	UniProtKB	Repeat	931	932	.	.	.	Note=7
+P45508	UniProtKB	Repeat	933	934	.	.	.	Note=8
+P45508	UniProtKB	Repeat	935	936	.	.	.	Note=9
+P45508	UniProtKB	Repeat	937	938	.	.	.	Note=10
+P45508	UniProtKB	Repeat	939	940	.	.	.	Note=11
+P45508	UniProtKB	Repeat	941	942	.	.	.	Note=12
+P45508	UniProtKB	Repeat	943	944	.	.	.	Note=13
+P45508	UniProtKB	Repeat	945	946	.	.	.	Note=14
+P45508	UniProtKB	Repeat	947	948	.	.	.	Note=15
+P77736	UniProtKB	Repeat	5	34	.	.	.	Note=ANK	1
+P77736	UniProtKB	Repeat	38	67	.	.	.	Note=ANK	2
+P77736	UniProtKB	Repeat	71	100	.	.	.	Note=ANK	3
+P77736	UniProtKB	Repeat	104	134	.	.	.	Note=ANK	4
+P77736	UniProtKB	Repeat	138	172	.	.	.	Note=ANK	5
+P77736	UniProtKB	Repeat	176	201	.	.	.	Note=ANK	6
+P76402	UniProtKB	Repeat	10	58	.	.	.	Note=1
+P76402	UniProtKB	Repeat	61	109	.	.	.	Note=2
+P76639	UniProtKB	Repeat	372	405	.	.	.	Note=TPR

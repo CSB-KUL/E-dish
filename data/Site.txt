@@ -1,0 +1,405 @@
+P0ACF8	UniProtKB	Site	12	12	.	.	.	Note=Interacts	with	Hha;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21600204;Dbxref=PMID:21600204
+P0AES6	UniProtKB	Site	337	337	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:9657678;Dbxref=PMID:9657678
+P0AES6	UniProtKB	Site	449	449	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01898
+P0AES6	UniProtKB	Site	452	452	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01898
+P15042	UniProtKB	Site	487	487	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17466627;Dbxref=PMID:17466627
+P15042	UniProtKB	Site	492	492	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17466627;Dbxref=PMID:17466627
+P60472	UniProtKB	Site	69	69	.	.	.	Note=Required	for	continued	chain	elongation
+P60472	UniProtKB	Site	137	137	.	.	.	Note=Important	for	determining	product	length
+P0ACJ8	UniProtKB	Site	97	97	.	.	.	Note=Activating	region	2	(AR2)%3B	probably	contacts	the	N-terminus	of	RpoA
+P0ACJ8	UniProtKB	Site	102	102	.	.	.	Note=Activating	region	2	(AR2)%3B	probably	contacts	the	N-terminus	of	RpoA
+P06134	UniProtKB	Site	128	129	.	.	.	Note=Cleavage
+P06134	UniProtKB	Site	178	179	.	.	.	Note=Cleavage
+P0AES0	UniProtKB	Site	131	131	.	.	.	Note=Increases	nucleophilicity	of	active	site	Cys%3B	for	amidase	activity
+P0AES0	UniProtKB	Site	316	316	.	.	.	Note=Transition	state	stabilizer%3B	for	synthetase	activity
+P0AC78	UniProtKB	Site	90	90	.	.	.	Note=Important	in	orienting	the	substrate;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:11832520,ECO:0000305|PubMed:17237164;Dbxref=PMID:11832520,PMID:17237164
+P0AC78	UniProtKB	Site	91	91	.	.	.	Note=Important	in	orienting	the	substrate%3B	probably	interacts	with	magnesium	or	manganese;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:11832520,ECO:0000305|PubMed:17237164;Dbxref=PMID:11832520,PMID:17237164
+P0AC78	UniProtKB	Site	156	156	.	.	.	Note=Could	be	required	for	catalysis;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:11832520,ECO:0000305|PubMed:17237164;Dbxref=PMID:11832520,PMID:17237164
+P0AC78	UniProtKB	Site	159	159	.	.	.	Note=Could	be	required	for	catalysis;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:11832520,ECO:0000305|PubMed:17237164;Dbxref=PMID:11832520,PMID:17237164
+P0AAI3	UniProtKB	Site	225	225	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P23837	UniProtKB	Site	202	202	.	.	.	Note=Plays	a	critical	role	in	the	switching	between	kinase	and	phosphatase	states
+P0A825	UniProtKB	Site	55	55	.	.	.	Note=Transaldimination	and	stability
+P0A825	UniProtKB	Site	235	235	.	.	.	Note=Transaldimination	and	stability
+P04395	UniProtKB	Site	218	218	.	.	.	Note=Determinant	for	substrate	specificity	and/or	activity
+P76491	UniProtKB	Site	18	18	.	.	.	Note=Appears	to	be	important	in	orienting	the	phosphate	for	catalysis
+P22333	UniProtKB	Site	221	221	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00540
+P0A6A3	UniProtKB	Site	182	182	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00020
+P0A6A3	UniProtKB	Site	243	243	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00020
+P0AAP1	UniProtKB	Site	253	253	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P60061	UniProtKB	Site	208	208	.	.	.	Note=Proposed	to	be	the	sensor	amino	acid	remaining	protonated	at	periplasmic	pH	but	undergoing	deprotonation	at	cytoplasmic	pH;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A955	UniProtKB	Site	161	161	.	.	.	Note=Plays	a	major	role	in	determining	the	stereoselectivity
+P75820	UniProtKB	Site	174	174	.	.	.	Note=Transition	state	stabilizer
+P13016	UniProtKB	Site	162	162	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P25718	UniProtKB	Site	565	565	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P04825	UniProtKB	Site	381	381	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P26612	UniProtKB	Site	332	332	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P02924	UniProtKB	Site	87	87	.	.	.	Note=The	binding	site	for	the	sugar	molecule	has	not	yet	been	established%2C	but	C-87	may	be	involved
+P60844	UniProtKB	Site	20	20	.	.	.	Note=Involved	in	tetramerization	or	stability	of	the	tetramer
+P60844	UniProtKB	Site	43	43	.	.	.	Note=Selectivity	filter
+P60844	UniProtKB	Site	174	174	.	.	.	Note=Selectivity	filter
+P60844	UniProtKB	Site	183	183	.	.	.	Note=Selectivity	filter
+P60844	UniProtKB	Site	189	189	.	.	.	Note=Selectivity	filter
+P77398	UniProtKB	Site	102	102	.	.	.	Note=Transition	state	stabilizer
+P77398	UniProtKB	Site	140	140	.	.	.	Note=Raises	pKa	of	active	site	His
+P0A6D3	UniProtKB	Site	408	408	.	.	.	Note=Modified	by	bromopyruvate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11171958;Dbxref=PMID:11171958
+P0A6D3	UniProtKB	Site	411	411	.	.	.	Note=Modified	by	bromopyruvate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11171958;Dbxref=PMID:11171958
+P22106	UniProtKB	Site	349	349	.	.	.	Note=Important	for	beta-aspartyl-AMP	intermediate	formation
+P0A6C8	UniProtKB	Site	8	8	.	.	.	Note=Transition	state	stabilizer
+P0A6C8	UniProtKB	Site	217	217	.	.	.	Note=Transition	state	stabilizer
+P68699	UniProtKB	Site	61	61	.	.	.	Note=Reversibly	protonated	during	proton	transport
+P0ABA0	UniProtKB	Site	9	9	.	.	.	Note=Mutation	prevents	the	formation	of	a	functional	proton	pore%2C	but	has	a	small	effect	on	the	binding	of	F(1)	to	F(0)
+P0ABA0	UniProtKB	Site	131	131	.	.	.	Note=Required	for	proton	pore	formation%2C	as	well	as	F(1)	to	F(0)	binding
+P17445	UniProtKB	Site	248	248	.	.	.	Note=Seems	to	be	a	necessary	countercharge	to	the	potassium	cations;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00804
+P0A951	UniProtKB	Site	85	85	.	.	.	Note=Could	be	important	for	selectivity	toward	long	polyamines;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9KL03
+P0AFP2	UniProtKB	Site	52	52	.	.	.	Note=Required	for	phosphate	rotation/nucleotide	flipping;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9UTN9
+P0AFP2	UniProtKB	Site	66	66	.	.	.	Note=Arg	finger%2C	required	for	nucleotide	flipping;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9UTN9
+P0ABB0	UniProtKB	Site	373	373	.	.	.	Note=Required	for	activity
+P12995	UniProtKB	Site	17	17	.	.	.	Note=Participates	in	the	substrate	recognition	with	KAPA	and	in	a	stacking	interaction	with	the	adenine	ring	of	SAM;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P00722	UniProtKB	Site	358	358	.	.	.	Note=Transition	state	stabilizer
+P00722	UniProtKB	Site	392	392	.	.	.	Note=Transition	state	stabilizer
+P00722	UniProtKB	Site	1000	1000	.	.	.	Note=Important	for	ensuring	that	an	appropriate	proportion	of	lactose	is	converted	to	allolactose
+P31551	UniProtKB	Site	111	111	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31551	UniProtKB	Site	131	131	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37028	UniProtKB	Site	72	72	.	.	.	Note=Important	for	BtuC	binding;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01000,ECO:0000305|PubMed:12475936;Dbxref=PMID:12475936
+P37028	UniProtKB	Site	202	202	.	.	.	Note=Important	for	BtuC	binding;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01000,ECO:0000305|PubMed:12475936;Dbxref=PMID:12475936
+P0A9H9	UniProtKB	Site	147	147	.	.	.	Note=Enhances	dephosphorylation	of	CheY-P
+P37019	UniProtKB	Site	148	148	.	.	.	Note=Mediates	proton	transfer	from	the	outer	aqueous	phase	to	the	interior	of	the	protein%3B	involved	in	linking	H(+)	and	Cl(-)	transport
+P37019	UniProtKB	Site	203	203	.	.	.	Note=Mediates	proton	transfer	from	the	protein	to	the	inner	aqueous	phase
+P17411	UniProtKB	Site	112	112	.	.	.	Note=Increases	basicity	of	active	site	Tyr;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P64467	UniProtKB	Site	44	44	.	.	.	Note=Interacts	with	H-NS
+P25524	UniProtKB	Site	247	247	.	.	.	Note=Activates	the	nucleophilic	water;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:21545144,ECO:0000305|PubMed:21604715;Dbxref=PMID:21545144,PMID:21604715
+P0ABI4	UniProtKB	Site	253	253	.	.	.	Note=Essential	for	ion	permeation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WZ31
+P0A6L2	UniProtKB	Site	44	44	.	.	.	Note=Part	of	a	proton	relay	during	catalysis
+P0A6L2	UniProtKB	Site	49	49	.	.	.	Note=L-lysine	inhibitor	binding%3B	via	carbonyl	oxygen
+P0A6L2	UniProtKB	Site	80	80	.	.	.	Note=L-lysine	inhibitor	binding
+P0A6L2	UniProtKB	Site	84	84	.	.	.	Note=L-lysine	inhibitor	binding
+P0A6L2	UniProtKB	Site	106	106	.	.	.	Note=L-lysine	inhibitor	binding
+P0A6L2	UniProtKB	Site	107	107	.	.	.	Note=Part	of	a	proton	relay	during	catalysis
+P77790	UniProtKB	Site	71	71	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01924
+P0A6K1	UniProtKB	Site	159	159	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A6K1	UniProtKB	Site	208	208	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0AEE5	UniProtKB	Site	97	97	.	.	.	Note=Interacts	with	membrane-bound	trg	signal	transducer
+Q6BF17	UniProtKB	Site	258	258	.	.	.	Note=Increases	basicity	of	active	site	His;Ontology_term=ECO:0000250;evidence=ECO:0000250
+Q6BF17	UniProtKB	Site	310	310	.	.	.	Note=Transition	state	stabilizer
+Q6BF16	UniProtKB	Site	14	14	.	.	.	Note=Orients	the	nucleophilic	substrate
+Q6BF16	UniProtKB	Site	154	154	.	.	.	Note=Plays	a	major	role	in	determining	the	stereoselectivity
+P00370	UniProtKB	Site	168	168	.	.	.	Note=Important	for	catalysis
+P29680	UniProtKB	Site	77	77	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00218
+P0AEF0	UniProtKB	Site	69	69	.	.	.	Note=Probably	involved	in	the	interaction	with	the	DnaB	protein
+P0AA89	UniProtKB	Site	43	43	.	.	.	Note=Involved	in	oxygen	binding	and	important	for	the	stability	of	the	Fe(II)-O(2)	complex
+P0AA89	UniProtKB	Site	60	60	.	.	.	Note=Important	for	oxygen	binding	and	stability	of	the	Fe(II)-O(2)	complex
+P0AA89	UniProtKB	Site	65	65	.	.	.	Note=Critical	for	restricting	water	access	to	the	heme	distal	side	to	avoid	rapid	autoxidation
+P0AA89	UniProtKB	Site	338	338	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+Q47155	UniProtKB	Site	13	13	.	.	.	Note=Substrate	discrimination;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P33371	UniProtKB	Site	35	35	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P33371	UniProtKB	Site	95	95	.	.	.	Note=Interacts	with	tRNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P33371	UniProtKB	Site	176	176	.	.	.	Note=Interacts	with	tRNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P33371	UniProtKB	Site	272	272	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P33371	UniProtKB	Site	274	274	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P33371	UniProtKB	Site	279	279	.	.	.	Note=Interacts	with	tRNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P33371	UniProtKB	Site	295	295	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25902496;Dbxref=PMID:25902496
+P32695	UniProtKB	Site	111	111	.	.	.	Note=Interacts	with	tRNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02041
+P32695	UniProtKB	Site	198	198	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02041
+P32695	UniProtKB	Site	201	201	.	.	.	Note=Interacts	with	tRNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02041
+P32695	UniProtKB	Site	314	314	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02041
+P32695	UniProtKB	Site	317	317	.	.	.	Note=Interacts	with	tRNA%3B	defines	subfamily-specific	binding	signature;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02041
+P05042	UniProtKB	Site	331	331	.	.	.	Note=Important	for	catalytic	activity
+P0A6T3	UniProtKB	Site	28	28	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00246
+P23522	UniProtKB	Site	75	75	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23522	UniProtKB	Site	89	89	.	.	.	Note=Increases	basicity	of	active	site	His;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P15067	UniProtKB	Site	443	443	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P63228	UniProtKB	Site	53	53	.	.	.	Note=Stabilizes	the	phosphoryl	group;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20050614,ECO:0000269|PubMed:20050699;Dbxref=PMID:20050614,PMID:20050699
+P63228	UniProtKB	Site	110	110	.	.	.	Note=Contributes	to	substrate	recognition;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20050614;Dbxref=PMID:20050614
+P63228	UniProtKB	Site	111	111	.	.	.	Note=Stabilizes	the	phosphoryl	group;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20050614;Dbxref=PMID:20050614
+P62707	UniProtKB	Site	184	184	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01039,ECO:0000269|PubMed:11038361;Dbxref=PMID:11038361
+P36553	UniProtKB	Site	175	175	.	.	.	Note=Important	for	dimerization;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00333
+P0A7A2	UniProtKB	Site	150	150	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P62707,ECO:0000255|HAMAP-Rule:MF_01040
+P09372	UniProtKB	Site	183	183	.	.	.	Note=Interaction	with	DnaK
+P0A6X1	UniProtKB	Site	99	99	.	.	.	Note=Important	for	activity
+P21599	UniProtKB	Site	223	223	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A720	UniProtKB	Site	153	153	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P60720	UniProtKB	Site	135	135	.	.	.	Note=Lowers	pKa	of	active	site	Cys;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00013
+P21645	UniProtKB	Site	290	290	.	.	.	Note=Involved	in	determining	the	hydroxyacyl-ACP	selectivity
+P0A7C2	UniProtKB	Site	84	85	.	.	.	Note=Cleavage%3B	by	autolysis
+P00914	UniProtKB	Site	307	307	.	.	.	Note=Electron	transfer	via	tryptophanyl	radical
+P00914	UniProtKB	Site	360	360	.	.	.	Note=Electron	transfer	via	tryptophanyl	radical
+P00914	UniProtKB	Site	383	383	.	.	.	Note=Electron	transfer	via	tryptophanyl	radical
+P77366	UniProtKB	Site	116	116	.	.	.	Note=Important	for	catalytic	activity	and	assists	the	phosphoryl	transfer	reaction	to	Asp8	by	balancing	charge	and	orienting	the	reacting	groups;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77366	UniProtKB	Site	147	147	.	.	.	Note=Important	for	catalytic	activity	and	assists	the	phosphoryl	transfer	reaction	to	Asp8	by	balancing	charge	and	orienting	the	reacting	groups;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P07117	UniProtKB	Site	344	344	.	.	.	Note=Involved	in	high-affinity	binding	for	sodium	and	proline
+P00550	UniProtKB	Site	538	538	.	.	.	Note=Stabilizes	the	transition	state	in	the	phosphoryl	transfer	from	HPr	to	EIIA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9551558;Dbxref=PMID:9551558
+P37745	UniProtKB	Site	62	62	.	.	.	Note=Important	in	abstrating	the	protons	in	C3'	and	C5';Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37745	UniProtKB	Site	132	132	.	.	.	Note=May	have	a	key	role	in	proton	donation	to	C5';Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37634	UniProtKB	Site	4	4	.	.	.	Note=Interaction	with	substrate	rRNA;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P55135	UniProtKB	Site	132	132	.	.	.	Note=Interaction	with	RNA
+P55135	UniProtKB	Site	149	149	.	.	.	Note=Interaction	with	RNA
+P30014	UniProtKB	Site	29	29	.	.	.	Note=Important	for	substrate	binding	and	specificity
+P30014	UniProtKB	Site	73	73	.	.	.	Note=Important	for	substrate	binding	and	specificity
+P30014	UniProtKB	Site	77	77	.	.	.	Note=Important	for	substrate	binding	and	specificity
+P30014	UniProtKB	Site	124	124	.	.	.	Note=Important	for	substrate	binding	and	specificity
+P30014	UniProtKB	Site	146	146	.	.	.	Note=Important	for	substrate	binding	and	specificity
+P16456	UniProtKB	Site	20	20	.	.	.	Note=Important	for	catalytic	activity
+P37678	UniProtKB	Site	64	64	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37678	UniProtKB	Site	67	67	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AGJ9	UniProtKB	Site	231	231	.	.	.	Note=Cross-linked	with	tRNA	by	periodate	oxidation
+P0AGJ9	UniProtKB	Site	235	235	.	.	.	Note=Cross-linked	with	tRNA	by	periodate	oxidation%3B	predominant
+P0AGJ9	UniProtKB	Site	238	238	.	.	.	Note=Cross-linked	with	tRNA	by	periodate	oxidation
+P33570	UniProtKB	Site	25	25	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P33570	UniProtKB	Site	260	260	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P25396	UniProtKB	Site	262	262	.	.	.	Note=Important	for	gating%3B	obstructs	channel	and	prevents	ion	flux	in	the	closed	conformation;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06612	UniProtKB	Site	33	33	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	168	168	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	169	169	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	172	172	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	177	177	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	184	184	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	321	321	.	.	.	Note=Interaction	with	DNA
+P06612	UniProtKB	Site	507	507	.	.	.	Note=Interaction	with	DNA
+P11868	UniProtKB	Site	175	175	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01881
+P11868	UniProtKB	Site	236	236	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01881
+P07913	UniProtKB	Site	148	148	.	.	.	Note=Important	for	catalytic	activity	for	the	proton	relay	mechanism	but	does	not	participate	directly	in	the	coordination	of	zinc	atom;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00627
+P14294	UniProtKB	Site	61	61	.	.	.	Note=Interaction	with	DNA
+P14294	UniProtKB	Site	170	170	.	.	.	Note=Interaction	with	DNA
+P14294	UniProtKB	Site	178	178	.	.	.	Note=Interaction	with	DNA
+P14294	UniProtKB	Site	185	185	.	.	.	Note=Interaction	with	DNA
+P14294	UniProtKB	Site	330	330	.	.	.	Note=Interaction	with	DNA
+P0AA25	UniProtKB	Site	27	27	.	.	.	Note=Deprotonates	C-terminal	active	site	Cys
+P0AA25	UniProtKB	Site	34	34	.	.	.	Note=Contributes	to	redox	potential	value
+P0AA25	UniProtKB	Site	35	35	.	.	.	Note=Contributes	to	redox	potential	value
+P27302	UniProtKB	Site	26	26	.	.	.	Note=Important	for	catalytic	activity
+P27302	UniProtKB	Site	261	261	.	.	.	Note=Important	for	catalytic	activity
+P0AG11	UniProtKB	Site	24	25	.	.	.	Note=Cleavage%3B	by	autolysis
+P0A8F8	UniProtKB	Site	630	631	.	.	.	Note=Cleavage;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P07024	UniProtKB	Site	117	117	.	.	.	Note=Transition	state	stabilizer
+P07024	UniProtKB	Site	120	120	.	.	.	Note=Transition	state	stabilizer
+P67444	UniProtKB	Site	31	31	.	.	.	Note=Essential	for	affinity	and	specificity
+P67444	UniProtKB	Site	93	93	.	.	.	Note=Essential	for	affinity	and	specificity
+P67444	UniProtKB	Site	272	272	.	.	.	Note=Essential	for	purine	uptake
+P67444	UniProtKB	Site	304	304	.	.	.	Note=Essential	for	purine	uptake
+P67444	UniProtKB	Site	430	430	.	.	.	Note=Important	for	purine	uptake	and	affinity
+P67444	UniProtKB	Site	432	432	.	.	.	Note=Important	for	purine	uptake	and	affinity
+P46139	UniProtKB	Site	291	291	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P42620	UniProtKB	Site	253	253	.	.	.	Note=Lowers	pKa	of	active	site	Cys;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P42620	UniProtKB	Site	296	296	.	.	.	Note=Lowers	pKa	of	active	site	Cys;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0ADT5	UniProtKB	Site	100	100	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9B6	UniProtKB	Site	182	182	.	.	.	Note=Activates	thiol	group	during	catalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23827	UniProtKB	Site	104	105	.	.	.	Note=Reactive	bond
+P23895	UniProtKB	Site	4	4	.	.	.	Note=Required	for	proper	coupling	between	the	substrate	transport	and	the	proton	gradient
+P23895	UniProtKB	Site	14	14	.	.	.	Note=Essential	for	translocation	and	for	substrate	and	proton	binding
+P23895	UniProtKB	Site	40	40	.	.	.	Note=Involved	in	substrate	binding
+P23895	UniProtKB	Site	60	60	.	.	.	Note=Involved	in	substrate	binding
+P23895	UniProtKB	Site	63	63	.	.	.	Note=Involved	in	substrate	binding
+P0A6P9	UniProtKB	Site	120	120	.	.	.	Note=Interaction	with	RNase	E
+P0A6P9	UniProtKB	Site	376	376	.	.	.	Note=Interaction	with	RNase	E
+P0A6P9	UniProtKB	Site	408	408	.	.	.	Note=Interaction	with	RNase	E
+P04995	UniProtKB	Site	18	18	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	66	66	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	113	113	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	124	124	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	128	128	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	142	142	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	148	148	.	.	.	Note=Important	for	interaction	with	ssb;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18591666;Dbxref=PMID:18591666
+P04995	UniProtKB	Site	164	164	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4HCC,ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	181	181	.	.	.	Note=Important	for	activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	207	207	.	.	.	Note=Important	for	interaction	with	ssb;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18591666;Dbxref=PMID:18591666
+P04995	UniProtKB	Site	214	214	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	257	257	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4HCC,ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	284	284	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	304	304	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4HCC,ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	311	311	.	.	.	Note=Important	for	interaction	with	ssb;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18591666;Dbxref=PMID:18591666
+P04995	UniProtKB	Site	338	338	.	.	.	Note=Important	for	interaction	with	ssb;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20018747;Dbxref=PMID:20018747
+P04995	UniProtKB	Site	368	368	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P04995	UniProtKB	Site	371	371	.	.	.	Note=Interaction	with	single-stranded	DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23609540;Dbxref=PMID:23609540
+P09030	UniProtKB	Site	153	153	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P09030	UniProtKB	Site	229	229	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P09030	UniProtKB	Site	259	259	.	.	.	Note=Interaction	with	DNA	substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77399	UniProtKB	Site	118	118	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77399	UniProtKB	Site	140	140	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P08189	UniProtKB	Site	175	175	.	.	.	Note=Required	for	stability	and	transport;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABZ1	UniProtKB	Site	160	160	.	.	.	Note=Part	of	the	EHPQR-motif
+P0AEK4	UniProtKB	Site	201	201	.	.	.	Note=Involved	in	acyl-ACP	binding
+P0AEK4	UniProtKB	Site	204	204	.	.	.	Note=Involved	in	acyl-ACP	binding
+P0AEK4	UniProtKB	Site	205	205	.	.	.	Note=Involved	in	acyl-ACP	binding
+P32055	UniProtKB	Site	107	107	.	.	.	Note=Important	for	catalytic	activity
+P32055	UniProtKB	Site	109	109	.	.	.	Note=Important	for	catalytic	activity
+P32055	UniProtKB	Site	140	140	.	.	.	Note=Lowers	pKa	of	active	site	Tyr
+P21177	UniProtKB	Site	119	119	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01621
+P21177	UniProtKB	Site	139	139	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01621
+P07658	UniProtKB	Site	141	141	.	.	.	Note=Important	for	catalytic	activity
+P07658	UniProtKB	Site	333	333	.	.	.	Note=Important	for	catalytic	activity
+P0A9B2	UniProtKB	Site	177	177	.	.	.	Note=Activates	thiol	group	during	catalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2659073;Dbxref=PMID:2659073
+P08190	UniProtKB	Site	166	166	.	.	.	Note=Required	for	stability	and	transport;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P10121	UniProtKB	Site	14	15	.	.	.	Note=Cleavage;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18281057;Dbxref=PMID:18281057
+P17115	UniProtKB	Site	52	52	.	.	.	Note=Catalytically	relevant;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P17115	UniProtKB	Site	104	104	.	.	.	Note=Catalytically	relevant;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P17115	UniProtKB	Site	145	145	.	.	.	Note=Catalytically	relevant;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P17115	UniProtKB	Site	186	186	.	.	.	Note=Catalytically	relevant;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P32056	UniProtKB	Site	123	123	.	.	.	Note=Critical	for	catalysis
+P0AER0	UniProtKB	Site	48	48	.	.	.	Note=Substrate	discrimination;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0AER0	UniProtKB	Site	200	200	.	.	.	Note=Substrate	discrimination;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0AER0	UniProtKB	Site	206	206	.	.	.	Note=Substrate	discrimination;Ontology_term=ECO:0000305;evidence=ECO:0000305
+Q46851	UniProtKB	Site	61	61	.	.	.	Note=Important	for	catalysis
+Q46851	UniProtKB	Site	66	66	.	.	.	Note=Important	for	catalysis
+Q46851	UniProtKB	Site	97	97	.	.	.	Note=Important	for	catalysis
+Q46851	UniProtKB	Site	138	138	.	.	.	Note=Important	for	catalysis
+P0ACE3	UniProtKB	Site	25	25	.	.	.	Note=Interacts	with	H-NS
+P0ACE3	UniProtKB	Site	48	48	.	.	.	Note=Interacts	with	H-NS
+P51020	UniProtKB	Site	14	14	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P24232	UniProtKB	Site	29	29	.	.	.	Note=Involved	in	heme-bound	ligand	stabilization	and	O-O	bond	activation
+P24232	UniProtKB	Site	84	84	.	.	.	Note=Influences	the	redox	potential	of	the	prosthetic	heme	and	FAD	groups
+P24232	UniProtKB	Site	388	388	.	.	.	Note=Influences	the	redox	potential	of	the	prosthetic	heme	and	FAD	groups
+P0AC75	UniProtKB	Site	130	130	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AC75	UniProtKB	Site	208	208	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P13029	UniProtKB	Site	102	102	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01961
+P45395	UniProtKB	Site	59	59	.	.	.	Note=Catalytically	relevant
+P45395	UniProtKB	Site	111	111	.	.	.	Note=Catalytically	relevant
+P45395	UniProtKB	Site	152	152	.	.	.	Note=Catalytically	relevant
+P45395	UniProtKB	Site	193	193	.	.	.	Note=Catalytically	relevant
+P0A707	UniProtKB	Site	107	107	.	.	.	Note=Important	for	30S	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:1457399;Dbxref=PMID:1457399
+P0A707	UniProtKB	Site	110	110	.	.	.	Note=Important	for	30S	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:1457399;Dbxref=PMID:1457399
+P37595	UniProtKB	Site	178	179	.	.	.	Note=Cleavage%3B	by	autolysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11988085;Dbxref=PMID:11988085
+P08200	UniProtKB	Site	160	160	.	.	.	Note=Critical	for	catalysis
+P08200	UniProtKB	Site	230	230	.	.	.	Note=Critical	for	catalysis
+Q46822	UniProtKB	Site	104	104	.	.	.	Note=Essential	for	catalytic	activity
+P0AD59	UniProtKB	Site	88	88	.	.	.	Note=Important	for	lysozyme	inhibition
+P62617	UniProtKB	Site	34	34	.	.	.	Note=Transition	state	stabilizer
+P62617	UniProtKB	Site	133	133	.	.	.	Note=Transition	state	stabilizer
+Q46893	UniProtKB	Site	20	20	.	.	.	Note=Transition	state	stabilizer
+Q46893	UniProtKB	Site	27	27	.	.	.	Note=Transition	state	stabilizer
+Q46893	UniProtKB	Site	157	157	.	.	.	Note=Positions	MEP	for	the	nucleophilic	attack
+Q46893	UniProtKB	Site	213	213	.	.	.	Note=Positions	MEP	for	the	nucleophilic	attack
+P0AD61	UniProtKB	Site	220	220	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P02943	UniProtKB	Site	31	31	.	.	.	Note=Greasy	slide%2C	important	in	sugar	transport
+P02943	UniProtKB	Site	66	66	.	.	.	Note=Greasy	slide%2C	important	in	sugar	transport
+P02943	UniProtKB	Site	99	99	.	.	.	Note=Greasy	slide%2C	important	in	sugar	transport
+P02943	UniProtKB	Site	143	143	.	.	.	Note=Important	in	sugar	transport
+P02943	UniProtKB	Site	252	252	.	.	.	Note=Greasy	slide%2C	important	in	sugar	transport
+P02943	UniProtKB	Site	383	383	.	.	.	Note=Greasy	slide%2C	important	in	sugar	transport
+P02943	UniProtKB	Site	445	445	.	.	.	Note=Greasy	slide%2C	important	in	sugar	transport
+P02920	UniProtKB	Site	126	126	.	.	.	Note=Substrate	binding
+P02920	UniProtKB	Site	144	144	.	.	.	Note=Substrate	binding
+P02920	UniProtKB	Site	269	269	.	.	.	Note=Substrate	binding	and	proton	translocation
+P02920	UniProtKB	Site	302	302	.	.	.	Note=Proton	translocation
+P02920	UniProtKB	Site	322	322	.	.	.	Note=Proton	translocation
+P02920	UniProtKB	Site	325	325	.	.	.	Note=Proton	translocation
+P30125	UniProtKB	Site	145	145	.	.	.	Note=Important	for	catalysis;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01033
+P30125	UniProtKB	Site	195	195	.	.	.	Note=Important	for	catalysis;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01033
+P21517	UniProtKB	Site	448	448	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P26616	UniProtKB	Site	270	270	.	.	.	Note=Important	for	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABU0	UniProtKB	Site	97	97	.	.	.	Note=Important	for	catalysis;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01934,ECO:0000305|PubMed:21830810;Dbxref=PMID:21830810
+P0ABU0	UniProtKB	Site	258	258	.	.	.	Note=Important	for	catalysis;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01934,ECO:0000305|PubMed:21830810;Dbxref=PMID:21830810
+P0ACE0	UniProtKB	Site	552	553	.	.	.	Note=Cleavage%3B	by	HybD
+P28306	UniProtKB	Site	218	218	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_02065,ECO:0000269|PubMed:26507882;Dbxref=PMID:26507882
+P16384	UniProtKB	Site	108	108	.	.	.	Note=Interaction	with	substrate	tRNA
+P16384	UniProtKB	Site	130	130	.	.	.	Note=Interaction	with	substrate	tRNA
+P16384	UniProtKB	Site	280	280	.	.	.	Note=Required	for	specificity	towards	tRNA	substrates	containing	a	purine	at	position	29
+P77044	UniProtKB	Site	114	114	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15663941;Dbxref=PMID:15663941
+P77044	UniProtKB	Site	192	192	.	.	.	Note=Catalytic	role	in	ketonization	of	the	dienol	substrate	(substrate	destabilization);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15663941,ECO:0000269|PubMed:17029402;Dbxref=PMID:15663941,PMID:17029402
+P28224	UniProtKB	Site	71	71	.	.	.	Note=Directly	involved	in	lysozyme	active	site	inhibition;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9I574
+P28224	UniProtKB	Site	85	85	.	.	.	Note=Directly	involved	in	lysozyme	active	site	inhibition;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9I574
+P25745	UniProtKB	Site	128	128	.	.	.	Note=Interaction	with	tRNA
+P25745	UniProtKB	Site	344	344	.	.	.	Note=Interaction	with	tRNA
+P0AF24	UniProtKB	Site	55	55	.	.	.	Note=Orients	the	Asp-11	for	proton	transfer	during	catalytic	turnover
+P0AF24	UniProtKB	Site	146	146	.	.	.	Note=Confers	substrate	specificity
+P0A759	UniProtKB	Site	151	151	.	.	.	Note=Part	of	the	allosteric	site
+P0A759	UniProtKB	Site	158	158	.	.	.	Note=Part	of	the	allosteric	site
+P0A759	UniProtKB	Site	160	160	.	.	.	Note=Part	of	the	allosteric	site
+P0A759	UniProtKB	Site	161	161	.	.	.	Note=Part	of	the	allosteric	site
+P0A759	UniProtKB	Site	254	254	.	.	.	Note=Part	of	the	allosteric	site
+P0A6L4	UniProtKB	Site	137	137	.	.	.	Note=Involved	in	proton	transfer	during	cleavage
+P17802	UniProtKB	Site	138	138	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P83847
+P75949	UniProtKB	Site	174	174	.	.	.	Note=Important	for	catalytic	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00364
+P0A7B3	UniProtKB	Site	175	175	.	.	.	Note=Responsible	for	conferring	strict	specificity	to	NAD
+P68739	UniProtKB	Site	73	73	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00801
+P13738	UniProtKB	Site	133	133	.	.	.	Note=Essential	for	antiport	activity
+P13738	UniProtKB	Site	163	164	.	.	.	Note=Essential	for	antiport	activity
+P13738	UniProtKB	Site	163	163	.	.	.	Note=Essential	for	antiport	activity
+P13738	UniProtKB	Site	241	241	.	.	.	Note=Important	for	pH	sensor;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P13738	UniProtKB	Site	249	249	.	.	.	Note=Important	for	pH	sensor;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P13738	UniProtKB	Site	252	252	.	.	.	Note=Important	for	pH	sensor;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P04391	UniProtKB	Site	31	31	.	.	.	Note=Important	for	structural	integrity
+P04391	UniProtKB	Site	147	147	.	.	.	Note=Important	for	structural	integrity
+P06960	UniProtKB	Site	31	31	.	.	.	Note=Important	for	structural	integrity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06960	UniProtKB	Site	147	147	.	.	.	Note=Important	for	structural	integrity;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P20083	UniProtKB	Site	443	443	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00938
+P20083	UniProtKB	Site	446	446	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00938
+P20083	UniProtKB	Site	497	497	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00938
+P20083	UniProtKB	Site	615	615	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00938
+P31677	UniProtKB	Site	86	86	.	.	.	Note=Involved	in	alpha	anomer	selectivity
+P31677	UniProtKB	Site	156	156	.	.	.	Note=Involved	in	alpha	anomer	selectivity
+P37001	UniProtKB	Site	67	67	.	.	.	Note=Role	in	lipopolysaccharide	recognition;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00837
+P37001	UniProtKB	Site	172	172	.	.	.	Note=Role	in	the	phospholipid	gating;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00837
+P0AFI2	UniProtKB	Site	39	39	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00936
+P0AFI2	UniProtKB	Site	75	75	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00936
+P0AFI2	UniProtKB	Site	77	77	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00936
+P0AFI2	UniProtKB	Site	119	119	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00936
+P0A794	UniProtKB	Site	153	153	.	.	.	Note=Transition	state	stabilizer
+P0A9J8	UniProtKB	Site	278	278	.	.	.	Note=Essential	for	prephenate	dehydratase	activity;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P69783	UniProtKB	Site	76	76	.	.	.	Note=Important	for	phospho-donor	activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735
+P69797	UniProtKB	Site	89	89	.	.	.	Note=Involved	in	the	phosphoryl	transfer	between	H-10	and	H-175;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:8262947;Dbxref=PMID:8262947
+P23857	UniProtKB	Site	93	93	.	.	.	Note=May	be	important	for	providing	the	necessary	conformational	flexibility	for	enzymatic	catalysis
+P08179	UniProtKB	Site	144	144	.	.	.	Note=Raises	pKa	of	active	site	His;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01930,ECO:0000269|PubMed:10433709;Dbxref=PMID:10433709
+P0ACP7	UniProtKB	Site	190	190	.	.	.	Note=Is	the	key	determinant	of	6-oxopurine	corepressor	specificity
+P0A8K1	UniProtKB	Site	253	254	.	.	.	Note=Cleavage	(non-hydrolytic)%3B	by	autocatalysis;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00662,ECO:0000269|PubMed:3042771;Dbxref=PMID:3042771
+P09323	UniProtKB	Site	554	554	.	.	.	Note=Important	for	phospho-donor	activity;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P69783
+P09378	UniProtKB	Site	246	246	.	.	.	Note=Interaction	with	sigma-70
+P77215	UniProtKB	Site	298	298	.	.	.	Note=Increases	basicity	of	active	site	His;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77215	UniProtKB	Site	345	345	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AG30	UniProtKB	Site	326	326	.	.	.	Note=RNA-binding	2
+P0A7J0	UniProtKB	Site	136	136	.	.	.	Note=Essential	for	catalytic	activity
+P0A7J0	UniProtKB	Site	174	174	.	.	.	Note=Essential	for	catalytic	activity
+P00452	UniProtKB	Site	225	225	.	.	.	Note=Important	for	hydrogen	atom	transfer
+P00452	UniProtKB	Site	232	232	.	.	.	Note=Allosteric	effector	binding
+P00452	UniProtKB	Site	262	262	.	.	.	Note=Allosteric	effector	binding
+P00452	UniProtKB	Site	462	462	.	.	.	Note=Important	for	hydrogen	atom	transfer
+P00452	UniProtKB	Site	730	730	.	.	.	Note=Important	for	electron	transfer
+P00452	UniProtKB	Site	731	731	.	.	.	Note=Important	for	electron	transfer
+P00452	UniProtKB	Site	754	754	.	.	.	Note=Interacts	with	thioredoxin/glutaredoxin
+P00452	UniProtKB	Site	759	759	.	.	.	Note=Interacts	with	thioredoxin/glutaredoxin
+P39452	UniProtKB	Site	178	178	.	.	.	Note=Important	for	hydrogen	atom	transfer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	185	185	.	.	.	Note=Allosteric	effector	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	215	215	.	.	.	Note=Allosteric	effector	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	415	415	.	.	.	Note=Important	for	hydrogen	atom	transfer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	692	692	.	.	.	Note=Important	for	electron	transfer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	693	693	.	.	.	Note=Important	for	electron	transfer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	709	709	.	.	.	Note=Interacts	with	thioredoxin/glutaredoxin;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Site	712	712	.	.	.	Note=Interacts	with	thioredoxin/glutaredoxin;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P09377	UniProtKB	Site	241	241	.	.	.	Note=Interaction	with	sigma-70
+P09377	UniProtKB	Site	250	250	.	.	.	Note=Interaction	with	sigma-70
+P76469	UniProtKB	Site	74	74	.	.	.	Note=Transition	state	stabilizer
+P76469	UniProtKB	Site	88	88	.	.	.	Note=Increases	basicity	of	active	site	His
+P0C077	UniProtKB	Site	54	54	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24251350;Dbxref=PMID:24251350
+P0C077	UniProtKB	Site	61	61	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24251350;Dbxref=PMID:24251350
+P0AF93	UniProtKB	Site	17	17	.	.	.	Note=Stabilizes	the	substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AF93	UniProtKB	Site	120	120	.	.	.	Note=Important	for	catalytic	activity	at	high	pH;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P00579	UniProtKB	Site	562	562	.	.	.	Note=Interaction	with	anti-sigma	factors
+P0AFX7	UniProtKB	Site	108	109	.	.	.	Note=Cleavage%3B	by	RseP
+P0AFX7	UniProtKB	Site	148	149	.	.	.	Note=Cleavage%3B	by	DegS
+P0AFZ5	UniProtKB	Site	169	169	.	.	.	Note=Essential	for	degradation	by	Lon	protease
+P60651	UniProtKB	Site	163	163	.	.	.	Note=Important	for	catalytic	activity
+P0C0K3	UniProtKB	Site	36	36	.	.	.	Note=ATP;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01497,ECO:0000305|PubMed:17302814;Dbxref=PMID:17302814
+P0A7F6	UniProtKB	Site	111	112	.	.	.	Note=Cleavage	(non-hydrolytic)%3B	by	autolysis
+P28904	UniProtKB	Site	325	325	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00691
+P23003	UniProtKB	Site	190	190	.	.	.	Note=Interaction	with	RNA
+P23003	UniProtKB	Site	299	299	.	.	.	Note=Interaction	with	RNA
+P23003	UniProtKB	Site	302	302	.	.	.	Note=Interaction	with	RNA
+P07649	UniProtKB	Site	58	58	.	.	.	Note=Interaction	with	tRNA%3B	Important	for	base-flipping
+P07649	UniProtKB	Site	78	78	.	.	.	Note=Interaction	with	tRNA
+P07649	UniProtKB	Site	110	110	.	.	.	Note=Interaction	with	tRNA
+P07649	UniProtKB	Site	126	126	.	.	.	Note=Interaction	with	tRNA
+P07649	UniProtKB	Site	139	139	.	.	.	Note=Interaction	with	tRNA
+P39304	UniProtKB	Site	64	64	.	.	.	Note=Transition	state	stabilizer
+P39304	UniProtKB	Site	67	67	.	.	.	Note=Transition	state	stabilizer
+P0AAR3	UniProtKB	Site	29	29	.	.	.	Note=Participates	in	proton	transfer	during	catalysis
+P76330	UniProtKB	Site	441	441	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P38097	UniProtKB	Site	725	725	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P77302	UniProtKB	Site	296	296	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P31129	UniProtKB	Site	170	170	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P76237	UniProtKB	Site	387	387	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P76245	UniProtKB	Site	217	217	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P75908	UniProtKB	Site	323	323	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P33222	UniProtKB	Site	101	101	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250
+G0ZKW2	UniProtKB	Site	358	358	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_01687
+G0ZKW2	UniProtKB	Site	392	392	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_01687
+B8LFD6	UniProtKB	Site	358	358	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_01687
+B8LFD6	UniProtKB	Site	392	392	.	.	.	Note=Transition	state	stabilizer;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_01687

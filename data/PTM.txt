@@ -1,0 +1,424 @@
+P0ABI8	Cross-link	288	1'-histidyl-3'-tyrosine	(His-Tyr)
+Q24247	Glycosylation	68	N-linked	(GlcNAc...)
+Q24247	Glycosylation	86	N-linked	(GlcNAc...)
+Q24247	Glycosylation	147	N-linked	(GlcNAc...)
+Q24247	Glycosylation	470	N-linked	(GlcNAc...)
+Q24247	Glycosylation	511	N-linked	(GlcNAc...)
+Q24247	Glycosylation	657	N-linked	(GlcNAc...)
+Q24247	Glycosylation	680	N-linked	(GlcNAc...)
+Q24247	Glycosylation	711	N-linked	(GlcNAc...)
+Q24247	Glycosylation	718	N-linked	(GlcNAc...)
+Q24247	Glycosylation	761	N-linked	(GlcNAc...)
+Q24247	Glycosylation	928	N-linked	(GlcNAc...)
+Q24247	Glycosylation	1027	N-linked	(GlcNAc...)
+P0ACJ8	Modified	101	N6-acetyllysine
+P0A817	Modified	3	N6-acetyllysine
+P0A6F5	Modified	34	N6-succinyllysine
+P0A6F5	Modified	51	N6-succinyllysine
+P0A6F5	Modified	117	N6-acetyllysine%3B	alternate
+P0A6F5	Modified	117	N6-succinyllysine%3B	alternate
+P0A6F5	Modified	277	N6-succinyllysine
+P0A6F5	Modified	321	N6-succinyllysine
+P0A6F5	Modified	390	N6-succinyllysine
+P0CE47	Modified	2	N-acetylserine
+P0CE47	Modified	57	N6%2CN6-dimethyllysine%3B	alternate
+P0CE47	Modified	57	N6-methyllysine%3B	alternate
+P0CE47	Modified	314	N6-acetyllysine
+P0CE47	Modified	383	Phosphothreonine
+P0ADI4	Modified	245	O-(pantetheine	4'-phosphoryl)serine
+P0A825	Modified	54	N6-acetyllysine
+P0A825	Modified	62	N6-succinyllysine
+P0A825	Modified	229	N6-(pyridoxal	phosphate)lysine
+P0A825	Modified	242	N6-succinyllysine
+P0A825	Modified	250	N6-acetyllysine%3B	alternate
+P0A825	Modified	250	N6-succinyllysine%3B	alternate
+P0A825	Modified	277	N6-succinyllysine
+P0A825	Modified	285	N6-acetyllysine
+P0A825	Modified	293	N6-succinyllysine
+P0A825	Modified	331	N6-succinyllysine
+P0A825	Modified	346	N6-succinyllysine
+P0A825	Modified	354	N6-acetyllysine%3B	alternate
+P0A825	Modified	354	N6-succinyllysine%3B	alternate
+P0A825	Modified	375	N6-acetyllysine
+P00509	Modified	246	N6-(pyridoxal	phosphate)lysine
+P52697	Modified	287	N6-acetyllysine
+P0A6A8	Modified	37	O-(pantetheine	4'-phosphoryl)serine
+P0A9Q7	Modified	358	N6-acetyllysine
+P28629	Modified	386	N6-(pyridoxal	phosphate)lysine
+P46883	Modified	496	2'%2C4'%2C5'-topaquinone
+P0A959	Modified	240	N6-(pyridoxal	phosphate)lysine
+P29012	Modified	35	N6-(pyridoxal	phosphate)lysine
+P27550	Modified	609	N6-acetyllysine
+P0AE08	Modified	17	N6-acetyllysine
+P0AE08	Modified	93	N6-acetyllysine
+P0AE08	Modified	153	N6-acetyllysine
+P0AE08	Modified	169	N6-acetyllysine
+P0AE08	Modified	171	N6-acetyllysine
+P0A991	Modified	208	N6-acetyllysine
+P0A991	Modified	262	N6-acetyllysine
+P0AB71	Modified	9	N6-acetyllysine%3B	alternate
+P0AB71	Modified	9	N6-malonyllysine%3B	alternate
+P0AB71	Modified	9	N6-succinyllysine%3B	alternate
+P0AB71	Modified	72	N6-succinyllysine
+P0AB71	Modified	115	N6-succinyllysine
+P0AB71	Modified	231	N6-succinyllysine
+P0AB71	Modified	251	N6-succinyllysine
+P0AB71	Modified	319	N6-succinyllysine
+P0AB71	Modified	326	N6-succinyllysine
+P0AB71	Modified	348	N6-succinyllysine
+P35340	Modified	53	N6-acetyllysine
+P35340	Modified	354	N6-acetyllysine
+P77434	Modified	244	N6-(pyridoxal	phosphate)lysine
+P0A6B4	Modified	34	N6-(pyridoxal	phosphate)lysine
+P0A6B4	Modified	122	N6-carboxylysine
+P77671	Modified	146	N6-carboxylysine
+P0AEC3	Modified	576	4-aspartylphosphate
+P0AEC3	Modified	717	Phosphohistidine
+P77690	Modified	188	N6-(pyridoxal	phosphate)lysine
+P0A9Q1	Modified	54	4-aspartylphosphate
+P77581	Modified	252	N6-(pyridoxal	phosphate)lysine
+P18335	Modified	255	N6-(pyridoxal	phosphate)lysine
+P0AB91	Modified	244	N6-acetyllysine
+P25549	Modified	136	3-oxoalanine	(Ser)
+P69228	Modified	61	4-aspartylphosphate
+Q06065	Modified	55	4-aspartylphosphate
+P68699	Modified	1	N-formylmethionine
+P0ABD8	Modified	122	N6-biotinyllysine
+P30843	Modified	51	4-aspartylphosphate
+P0AEC5	Modified	718	4-aspartylphosphate
+P0AEC5	Modified	861	Phosphohistidine
+P09053	Modified	249	N6-(pyridoxal	phosphate)lysine
+P12995	Modified	274	N6-(pyridoxal	phosphate)lysine
+P12998	Modified	236	N6-(pyridoxal	phosphate)lysine
+P21179	Cross-link	415	3'-histidyl-3-tyrosine	(His-Tyr)
+P0A6F9	Modified	34	N6-succinyllysine
+P07330	Modified	56	4-aspartylphosphate
+P0AE67	Modified	57	4-aspartylphosphate
+P0AE67	Modified	92	N6-acetyllysine
+P0AE67	Modified	109	N6-acetyllysine
+P0ABH7	Modified	283	N6-acetyllysine
+P63284	Modified	96	N6-acetyllysine
+P63284	Modified	176	N6-acetyllysine
+P63284	Modified	640	N6-acetyllysine
+P0AE88	Modified	51	4-aspartylphosphate
+P08368	Modified	54	4-aspartylphosphate
+Q46925	Modified	222	N6-(pyridoxal	phosphate)lysine
+P0ABK2	Modified	1	N-formylmethionine
+P0AEA8	Modified	128	Phosphoserine
+P16703	Modified	41	N6-(pyridoxal	phosphate)lysine
+P0ABJ9	Modified	1	N-formylmethionine
+P0ACZ8	Modified	51	4-aspartylphosphate
+P00861	Modified	54	N6-(pyridoxal	phosphate)lysine
+P21169	Modified	347	N6-(pyridoxal	phosphate)lysine
+P24169	Modified	355	N6-(pyridoxal	phosphate)lysine
+P76316	Modified	51	N6-(pyridoxal	phosphate)lysine
+P0A6K6	Modified	287	N6-acetyllysine
+P0A6L0	Modified	167	N6-acetyllysine
+P0ABP8	Modified	27	N6-acetyllysine
+P0AD01	Modified	56	4-aspartylphosphate
+P52095	Modified	367	N6-(pyridoxal	phosphate)lysine
+P0A9P0	Modified	220	N6-acetyllysine
+P69910	Modified	276	N6-(pyridoxal	phosphate)lysine
+P69910	Modified	446	N6-acetyllysine
+P69910	Modified	453	N6-acetyllysine
+P69910	Modified	464	N6-acetyllysine
+P0ABK5	Modified	42	N6-(pyridoxal	phosphate)lysine
+P69908	Modified	276	N6-(pyridoxal	phosphate)lysine
+P0AEF4	Modified	57	4-aspartylphosphate
+P66899	Modified	77	N6-(pyridoxal	phosphate)lysine
+P0A6Y8	Modified	70	N6-succinyllysine
+P0A6Y8	Modified	109	N6-acetyllysine
+P0A6Y8	Modified	245	N6-acetyllysine%3B	alternate
+P0A6Y8	Modified	245	N6-succinyllysine%3B	alternate
+P0A6Y8	Modified	246	N6-succinyllysine
+P0A6Y8	Modified	304	N6-acetyllysine%3B	alternate
+P0A6Y8	Modified	304	N6-succinyllysine%3B	alternate
+P0A6Y8	Modified	359	N6-succinyllysine
+P0A6Y8	Modified	421	N6-acetyllysine
+P0A6Y8	Modified	502	N6-succinyllysine
+P0A6Y8	Modified	528	N6-succinyllysine
+P0A6Y8	Modified	556	N6-acetyllysine
+P0A6Y8	Modified	587	N6-succinyllysine
+P33195	Modified	708	N6-(pyridoxal	phosphate)lysine
+P22256	Modified	268	N6-(pyridoxal	phosphate)lysine
+P0A6T1	Modified	80	N6-acetyllysine
+P0A6T1	Modified	228	N6-acetyllysine
+P0A6T1	Modified	234	N6-acetyllysine
+P0A9Z1	Modified	51	O-UMP-tyrosine
+P0A6T9	Modified	65	N6-lipoyllysine
+P77454	Modified	294	N6-acetyllysine
+P0A9C5	Modified	398	O-AMP-tyrosine
+P0AC55	Modified	51	O-UMP-tyrosine
+P0A6F3	Modified	233	N6-malonyllysine
+P62707	Modified	18	N6-acetyllysine
+P62707	Modified	100	N6-acetyllysine
+P62707	Modified	106	N6-acetyllysine
+P68066	Modified	48	N6-acetyllysine
+P68066	Modified	88	N6-acetyllysine
+P68066	Modified	92	N6-acetyllysine
+P68066	Modified	102	Glycine	radical
+P75825	Modified	405	Cysteine	persulfide
+P45760	Modified	7	N-methylmethionine
+P69776	Modified	1	N-formylmethionine
+P21599	Modified	351	N6-acetyllysine
+P0A9H3	Modified	367	N6-(pyridoxal	phosphate)lysine
+P30748	Modified	81	1-thioglycine%3B	alternate
+P09424	Modified	269	N6-acetyllysine
+P22188	Modified	225	N6-carboxylysine
+P40874	Modified	308	S-8alpha-FAD	cysteine
+P0AA16	Modified	55	4-aspartylphosphate
+P0AFG6	Modified	44	N6-lipoyllysine
+P0AFG6	Modified	148	N6-acetyllysine
+P0AFG8	Modified	716	N6-acetyllysine
+P0AFB8	Modified	54	4-aspartylphosphate
+P36647	Modified	7	N-methylphenylalanine
+P26647	Modified	1	N-formylmethionine
+P77366	Modified	9	4-aspartylphosphate
+P23836	Modified	51	4-aspartylphosphate
+P15639	Modified	287	N6-acetyllysine
+P50457	Modified	267	N6-(pyridoxal	phosphate)lysine
+P52076	Modified	51	4-aspartylphosphate
+P05020	Modified	103	N6-carboxylysine
+P0DMC7	Modified	56	4-aspartylphosphate
+P0DMC5	Modified	875	4-aspartylphosphate
+P39838	Modified	842	Phosphohistidine
+P0A7K2	Modified	82	N6-methyllysine%3B	partial
+P62399	Modified	3	N6-acetyllysine
+P60422	Modified	242	N6-acetyllysine
+P0A7N9	Modified	2	N-methylalanine
+P0A7L0	Modified	105	N6-succinyllysine
+P0A7L0	Modified	154	N6-succinyllysine
+P0A7L0	Modified	186	N6-succinyllysine
+P0A7L0	Modified	197	N6-succinyllysine
+P0A7M9	Modified	8	N6-acetyllysine
+P0A7R1	Modified	71	N6-succinyllysine
+P0A7R1	Modified	83	N6-succinyllysine
+P0A7R1	Modified	89	N6-acetyllysine
+P0A7R1	Modified	112	N6-succinyllysine
+P0AG55	Modified	44	N6-acetyllysine
+P60438	Modified	38	N6-succinyllysine
+P60438	Modified	150	N5-methylglutamine
+P0A7Z4	Modified	297	N6-acetyllysine
+P0A7S3	Modified	89	3-methylthioaspartic	acid
+P0A7S3	Modified	108	N6-acetyllysine
+P0AC41	Modified	45	Tele-8alpha-FAD	histidine
+P0AC41	Modified	267	N6-acetyllysine
+P00926	Modified	118	N6-(pyridoxal	phosphate)lysine
+P23721	Modified	198	N6-(pyridoxal	phosphate)lysine
+P0A821	Modified	295	N6-(pyridoxal	phosphate)lysine
+P0AGJ9	Modified	144	N6-acetyllysine
+P0AF96	Modified	36	N6-acetyllysine
+P0A8M3	Modified	286	N6-acetyllysine
+P00957	Modified	74	N6-acetyllysine
+P0A8N5	Modified	114	N6-acetyllysine
+P0A8N5	Modified	156	N6-acetyllysine
+P39321	Modified	1	N-formylmethionine
+P0AGL2	Modified	58	N6-(pyridoxal	phosphate)lysine
+P0AGF6	Modified	58	N6-(pyridoxal	phosphate)lysine
+P42632	Modified	739	Glycine	radical
+P33570	Modified	342	N6-acetyllysine
+P00934	Modified	107	N6-(pyridoxal	phosphate)lysine
+P38684	Modified	53	4-aspartylphosphate
+O32583	Modified	66	1-thioglycine%3B	alternate
+P0AA25	Modified	70	N6-acetyllysine
+P27302	Modified	46	N6-acetyllysine
+P0A884	Modified	1	N-formylmethionine
+P0AGA6	Modified	54	4-aspartylphosphate
+P0AED5	Modified	54	4-aspartylphosphate
+P69822	Modified	9	Phosphocysteine
+P76387	Modified	708	Phosphotyrosine
+P76387	Modified	710	Phosphotyrosine
+P76387	Modified	711	Phosphotyrosine
+P76387	Modified	713	Phosphotyrosine
+P76387	Modified	715	Phosphotyrosine
+P27833	Modified	181	N6-(pyridoxal	phosphate)lysine
+P0AE39	Modified	53	4-aspartylphosphate
+P14375	Modified	56	4-aspartylphosphate
+P67080	Modified	36	N6-(pyridoxal	phosphate)lysine
+P0CE48	Modified	2	N-acetylserine
+P0CE48	Modified	38	N6-succinyllysine
+P0CE48	Modified	57	N6%2CN6-dimethyllysine%3B	alternate
+P0CE48	Modified	57	N6-methyllysine%3B	alternate
+P0CE48	Modified	177	N6-succinyllysine
+P0CE48	Modified	249	N6-succinyllysine
+P0CE48	Modified	253	N6-succinyllysine
+P0CE48	Modified	295	N6-succinyllysine
+P0CE48	Modified	314	N6-acetyllysine%3B	alternate
+P0CE48	Modified	314	N6-succinyllysine%3B	alternate
+P0CE48	Modified	383	Phosphothreonine
+P0AEH5	Modified	35	N6-acetyllysine
+P0A6M8	Modified	504	N6-acetyllysine
+P0A6M8	Modified	643	N6-acetyllysine
+P0A6N4	Modified	34	N6-(3%2C6-diaminohexanoyl)-5-hydroxylysine
+P0A6P9	Modified	257	N6-acetyllysine
+P11454	Modified	1006	O-(pantetheine	4'-phosphoryl)serine
+P0ACZ4	Modified	52	4-aspartylphosphate
+P39280	Modified	332	N6-(pyridoxal	phosphate)lysine
+P30855	Modified	1009	4-aspartylphosphate
+P30855	Modified	1137	Phosphohistidine
+P0A9B2	Modified	115	N6-succinyllysine
+P0A9B2	Modified	124	N6-succinyllysine
+P0A9B2	Modified	132	N6-acetyllysine%3B	alternate
+P0A9B2	Modified	132	N6-succinyllysine%3B	alternate
+P0A9B2	Modified	138	N6-acetyllysine
+P0A9B2	Modified	192	N6-acetyllysine%3B	alternate
+P0A9B2	Modified	192	N6-succinyllysine%3B	alternate
+P0A9B2	Modified	213	N6-succinyllysine
+P0A9B2	Modified	217	N6-succinyllysine
+P0A9B2	Modified	225	N6-succinyllysine
+P0A9B2	Modified	249	N6-acetyllysine
+P0A9B2	Modified	249	N6-succinyllysine
+P0A9B2	Modified	257	N6-succinyllysine
+P0A9B2	Modified	261	N6-succinyllysine
+P0A9B2	Modified	331	N6-malonyllysine%3B	alternate
+P0A9B2	Modified	331	N6-succinyllysine%3B	alternate
+P14407	Modified	192	N6-acetyllysine
+P00363	Modified	45	Tele-8alpha-FAD	histidine
+P0AEL8	Modified	56	4-aspartylphosphate
+P23893	Modified	265	N6-(pyridoxal	phosphate)lysine
+P45761	Modified	8	N-methylphenylalanine
+P41442	Modified	10	N-methylphenylalanine
+P41443	Modified	7	N-methylphenylalanine
+P0AFU4	Modified	56	4-aspartylphosphate
+P0AET2	Modified	93	N6-acetyllysine
+P06983	Modified	242	S-(dipyrrolylmethanemethyl)cysteine
+P06986	Modified	214	N6-(pyridoxal	phosphate)lysine
+P67910	Modified	267	N6-acetyllysine
+P76658	Modified	179	N6-acetyllysine
+P0AB77	Modified	244	N6-(pyridoxal	phosphate)lysine
+P0A6B7	Modified	206	N6-(pyridoxal	phosphate)lysine
+P21866	Modified	52	4-aspartylphosphate
+P0ADG7	Modified	267	N6-acetyllysine
+P0ADG7	Modified	428	N6-acetyllysine
+P39377	Modified	162	N6-carboxylysine
+P0A705	Modified	808	N6-acetyllysine
+P08200	Modified	100	N6-succinyllysine
+P08200	Modified	113	Phosphoserine
+P08200	Modified	142	N6-acetyllysine
+P08200	Modified	242	N6-succinyllysine
+P69441	Modified	192	N6-acetyllysine
+P04968	Modified	62	N6-(pyridoxal	phosphate)lysine
+P0AB80	Modified	160	N6-(pyridoxal	phosphate)lysine
+P0AD61	Modified	76	N6-acetyllysine
+P0AD61	Modified	319	N6-acetyllysine
+P02920	Modified	1	N-formylmethionine%3B	partial
+P75823	Modified	197	N6-(pyridoxal	phosphate)lysine
+P23256	Modified	233	N6-(pyridoxal	phosphate)lysine
+P00935	Modified	198	N6-(pyridoxal	phosphate)lysine
+P00946	Modified	280	N6-acetyllysine
+P76558	Modified	56	N6-acetyllysine
+P06721	Modified	210	N6-(pyridoxal	phosphate)lysine
+P31802	Modified	59	4-aspartylphosphate
+P0A763	Modified	119	Phosphoserine
+P0A763	Modified	121	Phosphoserine
+P0AF28	Modified	59	4-aspartylphosphate
+P77567	Modified	214	N6-acetyllysine
+P77567	Modified	281	N6-acetyllysine
+P11350	Modified	1	N-formylmethionine
+P0A8G6	Modified	50	N6-acetyllysine
+P28903	Modified	681	Glycine	radical
+P37013	Modified	57	4-aspartylphosphate
+P06959	Modified	41	N6-lipoyllysine
+P06959	Modified	144	N6-lipoyllysine
+P06959	Modified	245	N6-lipoyllysine
+P06959	Modified	396	N6-acetyllysine
+P0ACQ4	Modified	199	S-nitrosocysteine%3B	alternate
+P0C0L2	Modified	16	N6-acetyllysine
+P28305	Modified	140	N6-(pyridoxal	phosphate)lysine
+P15288	Modified	296	N6-acetyllysine
+P42588	Modified	300	N6-(pyridoxal	phosphate)lysine
+P22259	Modified	87	N6-acetyllysine
+P22259	Modified	523	N6-acetyllysine
+P0A799	Modified	84	N6-acetyllysine
+P0AFJ5	Modified	53	4-aspartylphosphate
+Q46806	Modified	151	N6-carboxylysine
+P00490	Modified	251	N6-acetyllysine
+P00490	Modified	646	N6-(pyridoxal	phosphate)lysine
+P09373	Modified	63	N6-acetyllysine%3B	alternate
+P09373	Modified	63	N6-succinyllysine%3B	alternate
+P09373	Modified	107	N6-succinyllysine
+P09373	Modified	117	N6-acetyllysine%3B	alternate
+P09373	Modified	117	N6-succinyllysine%3B	alternate
+P09373	Modified	124	N6-succinyllysine
+P09373	Modified	195	N6-acetyllysine%3B	alternate
+P09373	Modified	195	N6-succinyllysine%3B	alternate
+P09373	Modified	454	N6-acetyllysine%3B	alternate
+P09373	Modified	454	N6-succinyllysine%3B	alternate
+P09373	Modified	467	N6-succinyllysine
+P09373	Modified	541	N6-acetyllysine
+P09373	Modified	591	N6-acetyllysine
+P09373	Modified	654	N6-succinyllysine
+P09373	Modified	735	Glycine	radical
+P75793	Modified	786	Glycine	radical
+P32674	Modified	741	Glycine	radical
+P0AC86	Modified	662	N6-(pyridoxal	phosphate)lysine
+P08372	Modified	11	N-methylphenylalanine
+P08371	Modified	8	N-methylphenylalanine
+P33554	Modified	7	N-methyltyrosine
+P69797	Modified	55	N6-acetyllysine
+P69797	Modified	234	N6-acetyllysine
+P69801	Modified	1	N-formylmethionine
+P69786	Modified	421	Phosphocysteine
+P0AB89	Modified	94	N6-acetyllysine
+P0AB89	Modified	366	N6-acetyllysine
+P33221	Modified	179	N6-acetyllysine
+P0A8K1	Modified	1	N-formylmethionine
+P69805	Modified	1	N-formylmethionine
+P00452	Modified	283	N6-acetyllysine
+P07012	Modified	252	N5-methylglutamine
+P0A7I0	Modified	235	N5-methylglutamine
+P0A894	Modified	251	N6-acetyllysine
+P0A7J3	Modified	37	N6-acetyllysine
+P0A7J3	Modified	105	N6-acetyllysine
+P0A7J7	Modified	2	N%2CN%2CN-trimethylalanine
+P0A7J7	Modified	4	N6%2CN6%2CN6-trimethyllysine
+P0A7J7	Modified	40	N6%2CN6%2CN6-trimethyllysine
+P0A7J7	Modified	72	N6-succinyllysine
+P0A7J7	Modified	81	N6-succinyllysine
+P0ADY7	Modified	1	N-methylmethionine
+P0ADY7	Modified	81	(3R)-3-hydroxyarginine
+P0A8V2	Modified	1022	N6-acetyllysine
+P0A8V2	Modified	1200	N6-acetyllysine
+P0A8T7	Modified	983	N6-acetyllysine
+P0A7R9	Modified	2	N-methylalanine
+P0A805	Modified	162	N6-acetyllysine
+P0A7T7	Modified	2	N-acetylalanine
+P0AG67	Modified	229	N6-acetyllysine
+P0AG67	Modified	279	N6-acetyllysine
+P0AG67	Modified	363	N6-acetyllysine
+P52108	Modified	52	4-aspartylphosphate
+P02358	Modified	93	N6-acetyllysine
+P0A7V0	Modified	115	N6-succinyllysine
+P0AEV1	Modified	58	4-aspartylphosphate
+P0A7W1	Modified	2	N-acetylalanine
+P21170	Modified	127	N6-(pyridoxal	phosphate)lysine
+P0AGD3	Modified	51	N6-acetyllysine
+P77444	Modified	226	N6-(pyridoxal	phosphate)lysine
+P04805	Modified	239	Phosphoserine
+P00956	Modified	183	N6-acetyllysine
+P39453	Modified	733	4-aspartylphosphate
+P39453	Modified	860	Phosphohistidine
+P0A853	Modified	5	N6-acetyllysine
+P0A853	Modified	115	N6-acetyllysine
+P0A853	Modified	156	N6-acetyllysine
+P0A853	Modified	270	N6-(pyridoxal	phosphate)lysine
+P0A853	Modified	450	N6-acetyllysine
+P0A879	Modified	87	N6-(pyridoxal	phosphate)lysine
+P04693	Modified	247	N6-(pyridoxal	phosphate)lysine
+P69820	Modified	68	Phosphohistidine
+P77806	Modified	236	N6-(pyridoxal	phosphate)lysine
+P0AD49	Modified	66	N6-acetyllysine
+P0AFT5	Modified	54	4-aspartylphosphate
+P76046	Modified	249	N6-acetyllysine
+P76340	Modified	51	4-aspartylphosphate
+P29217	Modified	80	N6-acetyllysine
+P39389	Modified	313	N6-(pyridoxal	phosphate)lysine
+A5A618	Modified	1	N-formylmethionine
+P0AG84	Modified	39	N6-acetyllysine
+P0AG27	Modified	91	N6-acetyllysine
+P77730	Modified	312	N6-(pyridoxal	phosphate)lysine
+P77318	Modified	132	3-oxoalanine	(Ser)
+P64463	Modified	52	S-selanylcysteine
+P31447	Modified	52	3-oxoalanine	(Cys)
+P0ADN2	Modified	15	N6-acetyllysine
+P0AF36	Modified	10	N6-acetyllysine

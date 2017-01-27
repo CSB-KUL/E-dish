@@ -1,0 +1,263 @@
+P0ACF8	UniProtKB	DNA	binding	112	117	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A1S2
+P0ACJ8	UniProtKB	DNA	binding	180	186	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00387
+P06134	UniProtKB	DNA	binding	102	121	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0A9E5	UniProtKB	DNA	binding	197	216	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00387
+P77744	UniProtKB	DNA	binding	22	41	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P67662	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ACS9	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P33234	UniProtKB	DNA	binding	165	184	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0ACK2	UniProtKB	DNA	binding	32	51	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P33997	UniProtKB	DNA	binding	12	31	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P05052	UniProtKB	DNA	binding	155	174	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0ACN4	UniProtKB	DNA	binding	43	62	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P0ACR0	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0A9E0	UniProtKB	DNA	binding	197	216	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0A9Q1	UniProtKB	DNA	binding	134	234	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0ACI6	UniProtKB	DNA	binding	25	44	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00319
+P37309	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00340
+P0A8S1	UniProtKB	DNA	binding	21	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00513
+P24242	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P69228	UniProtKB	DNA	binding	131	234	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+Q06065	UniProtKB	DNA	binding	433	452	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P75989	UniProtKB	DNA	binding	6	25	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00254
+P30843	UniProtKB	DNA	binding	124	218	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P39334	UniProtKB	DNA	binding	38	57	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P39404	UniProtKB	DNA	binding	170	189	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P17446	UniProtKB	DNA	binding	31	50	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00768
+P06709	UniProtKB	DNA	binding	22	41	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00978
+P23890	UniProtKB	DNA	binding	3	102	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+Q47083	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P17410	UniProtKB	DNA	binding	242	261	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P75952	UniProtKB	DNA	binding	41	60	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P0ACP1	UniProtKB	DNA	binding	3	22	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P0AE88	UniProtKB	DNA	binding	131	230	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P08368	UniProtKB	DNA	binding	129	228	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0A9G4	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00254
+P52106	UniProtKB	DNA	binding	173	192	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0A9F3	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P37338	UniProtKB	DNA	binding	29	48	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P27111	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ACZ8	UniProtKB	DNA	binding	125	223	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P31460	UniProtKB	DNA	binding	31	50	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P0ACN7	UniProtKB	DNA	binding	12	31	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P37195	UniProtKB	DNA	binding	133	152	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0AD01	UniProtKB	DNA	binding	181	200	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06965	UniProtKB	DNA	binding	13	33	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0ACK5	UniProtKB	DNA	binding	22	41	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P76250	UniProtKB	DNA	binding	22	41	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P76016	UniProtKB	DNA	binding	608	626	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AEF4	UniProtKB	DNA	binding	180	199	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06966	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P46068	UniProtKB	DNA	binding	32	51	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P06846	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P37639	UniProtKB	DNA	binding	161	180	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P63204	UniProtKB	DNA	binding	133	152	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0A9F6	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P63201	UniProtKB	DNA	binding	155	174	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P25748	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P0ACL5	UniProtKB	DNA	binding	34	53	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P0ACL0	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+Q47141	UniProtKB	DNA	binding	18	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P15081	UniProtKB	DNA	binding	23	29	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P10151	UniProtKB	DNA	binding	39	58	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P39399	UniProtKB	DNA	binding	31	50	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ACL7	UniProtKB	DNA	binding	34	53	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P03023	UniProtKB	DNA	binding	6	25	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P0A7C2	UniProtKB	DNA	binding	28	48	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00015
+P36771	UniProtKB	DNA	binding	28	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0AA16	UniProtKB	DNA	binding	135	234	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0AFB8	UniProtKB	DNA	binding	445	464	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AF63	UniProtKB	DNA	binding	28	51	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77333	UniProtKB	DNA	binding	21	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P23836	UniProtKB	DNA	binding	124	222	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P03014	UniProtKB	DNA	binding	161	180	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P52076	UniProtKB	DNA	binding	124	218	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0DMC9	UniProtKB	DNA	binding	155	174	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00982
+P0DMC7	UniProtKB	DNA	binding	168	187	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00981
+P77379	UniProtKB	DNA	binding	197	218	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P77379	UniProtKB	DNA	binding	245	268	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P07648	UniProtKB	DNA	binding	971	971	.	.	.	.
+P07648	UniProtKB	DNA	binding	1001	1001	.	.	.	.
+P07648	UniProtKB	DNA	binding	1078	1081	.	.	.	.
+P0ACI0	UniProtKB	DNA	binding	24	43	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P24255	UniProtKB	DNA	binding	366	385	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ACS7	UniProtKB	DNA	binding	50	69	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00390
+P0AGB3	UniProtKB	DNA	binding	253	272	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00961
+P27434	UniProtKB	DNA	binding	30	49	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AGB6	UniProtKB	DNA	binding	156	175	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P38035	UniProtKB	DNA	binding	485	504	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P07026	UniProtKB	DNA	binding	197	216	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0ACU2	UniProtKB	DNA	binding	39	58	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P0ACH1	UniProtKB	DNA	binding	50	69	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A823	UniProtKB	DNA	binding	201	220	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00095
+P39361	UniProtKB	DNA	binding	22	41	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P33595	UniProtKB	DNA	binding	26	49	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0C093	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01839
+P0A9E2	UniProtKB	DNA	binding	24	43	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P08956	UniProtKB	DNA	binding	431	450	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ACQ7	UniProtKB	DNA	binding	24	43	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P38684	UniProtKB	DNA	binding	132	227	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0AGA6	UniProtKB	DNA	binding	155	174	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0AED5	UniProtKB	DNA	binding	167	186	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P39161	UniProtKB	DNA	binding	36	55	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P0ACI3	UniProtKB	DNA	binding	304	323	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P23841	UniProtKB	DNA	binding	24	43	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ACS5	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00254
+P14375	UniProtKB	DNA	binding	421	440	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77396	UniProtKB	DNA	binding	200	219	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P52044	UniProtKB	DNA	binding	21	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ADD7	UniProtKB	DNA	binding	171	190	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P39356	UniProtKB	DNA	binding	72	91	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+Q46855	UniProtKB	DNA	binding	229	248	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P77295	UniProtKB	DNA	binding	41	60	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00340
+P52598	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P71301	UniProtKB	DNA	binding	162	181	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0ACT2	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P10805	UniProtKB	DNA	binding	165	184	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0ACZ4	UniProtKB	DNA	binding	161	180	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0ACU5	UniProtKB	DNA	binding	52	71	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+Q47129	UniProtKB	DNA	binding	216	235	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P23484	UniProtKB	DNA	binding	139	158	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ACL2	UniProtKB	DNA	binding	35	54	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P0A8V6	UniProtKB	DNA	binding	34	69	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11279025,ECO:0000269|PubMed:11296236;Dbxref=PMID:11279025,PMID:11296236
+P36547	UniProtKB	DNA	binding	259	278	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P19323	UniProtKB	DNA	binding	663	682	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P03024	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P0A6R3	UniProtKB	DNA	binding	74	93	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00166
+P0ACK8	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P0AEM6	UniProtKB	DNA	binding	207	226	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00962
+P32152	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AEL8	UniProtKB	DNA	binding	167	186	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P45544	UniProtKB	DNA	binding	38	57	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P0AFU4	UniProtKB	DNA	binding	414	433	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0ACP5	UniProtKB	DNA	binding	8	27	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P0A8R9	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P67697	UniProtKB	DNA	binding	93	112	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P23873	UniProtKB	DNA	binding	21	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00257,ECO:0000269|PubMed:19150849;Dbxref=PMID:19150849
+P67701	UniProtKB	DNA	binding	95	114	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P23874	UniProtKB	DNA	binding	379	382	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150849;Dbxref=PMID:19150849
+P46118	UniProtKB	DNA	binding	37	56	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00390
+P16528	UniProtKB	DNA	binding	46	65	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P21866	UniProtKB	DNA	binding	126	225	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P76268	UniProtKB	DNA	binding	34	53	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P71229	UniProtKB	DNA	binding	641	660	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AAP5	UniProtKB	DNA	binding	163	182	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02072
+P39343	UniProtKB	DNA	binding	8	27	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P05827	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0AGK8	UniProtKB	DNA	binding	28	51	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P03030	UniProtKB	DNA	binding	21	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P18811	UniProtKB	DNA	binding	9	28	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P0ACJ0	UniProtKB	DNA	binding	31	50	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00319
+P76141	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0ACH5	UniProtKB	DNA	binding	29	50	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0ACH5	UniProtKB	DNA	binding	77	100	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P06993	UniProtKB	DNA	binding	853	872	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0ACH8	UniProtKB	DNA	binding	210	229	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P76114	UniProtKB	DNA	binding	37	56	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P77569	UniProtKB	DNA	binding	34	53	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P50456	UniProtKB	DNA	binding	33	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9F9	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P13669	UniProtKB	DNA	binding	32	51	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P33358	UniProtKB	DNA	binding	6	25	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00254
+Q46864	UniProtKB	DNA	binding	85	104	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P0A9G8	UniProtKB	DNA	binding	33	79	.	.	.	Note=H-T-H	motif
+Q47005	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P27278	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P77245	UniProtKB	DNA	binding	37	56	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A8W0	UniProtKB	DNA	binding	58	77	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01236
+P0AF20	UniProtKB	DNA	binding	35	44	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31802	UniProtKB	DNA	binding	171	190	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P0AF28	UniProtKB	DNA	binding	173	192	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P67430	UniProtKB	DNA	binding	30	49	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P0A9G2	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P76241	UniProtKB	DNA	binding	178	199	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P76241	UniProtKB	DNA	binding	225	248	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P37013	UniProtKB	DNA	binding	479	498	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ACQ4	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ACL9	UniProtKB	DNA	binding	37	56	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+Q57083	UniProtKB	DNA	binding	24	44	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0AFJ5	UniProtKB	DNA	binding	129	227	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P16684	UniProtKB	DNA	binding	38	57	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P77743	UniProtKB	DNA	binding	508	527	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ACP7	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif
+P0ACP7	UniProtKB	DNA	binding	48	56	.	.	.	.
+P37344	UniProtKB	DNA	binding	302	321	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9U6	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P09378	UniProtKB	DNA	binding	195	214	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P09378	UniProtKB	DNA	binding	244	267	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77732	UniProtKB	DNA	binding	28	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P09377	UniProtKB	DNA	binding	190	209	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P09377	UniProtKB	DNA	binding	239	262	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P08394	UniProtKB	DNA	binding	252	254	.	.	.	.
+P08394	UniProtKB	DNA	binding	511	512	.	.	.	.
+P08394	UniProtKB	DNA	binding	560	561	.	.	.	.
+P08394	UniProtKB	DNA	binding	761	761	.	.	.	.
+P04993	UniProtKB	DNA	binding	247	247	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305
+P75811	UniProtKB	DNA	binding	30	49	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P0ACQ0	UniProtKB	DNA	binding	4	23	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P00579	UniProtKB	DNA	binding	573	592	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00963
+P13445	UniProtKB	DNA	binding	288	307	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00959
+P52108	UniProtKB	DNA	binding	136	235	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0ACM2	UniProtKB	DNA	binding	38	57	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P0ACS2	UniProtKB	DNA	binding	14	33	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00254
+P0AGE0	UniProtKB	DNA	binding	55	61	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00984
+P15082	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P0A8W2	UniProtKB	DNA	binding	49	72	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01819
+P77626	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P0ACG1	UniProtKB	DNA	binding	112	117	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A1S2
+P0A881	UniProtKB	DNA	binding	68	91	.	.	.	.
+P36673	UniProtKB	DNA	binding	7	26	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P45463	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P07604	UniProtKB	DNA	binding	483	502	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0ACT6	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P0A9W0	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30864	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P76369	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P33634	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P77700	UniProtKB	DNA	binding	22	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P52696	UniProtKB	DNA	binding	20	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0A9E9	UniProtKB	DNA	binding	158	181	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00387
+P0ACU0	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00335
+P75836	UniProtKB	DNA	binding	20	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P77402	UniProtKB	DNA	binding	199	218	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P77300	UniProtKB	DNA	binding	25	45	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P76034	UniProtKB	DNA	binding	18	37	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P76340	UniProtKB	DNA	binding	122	220	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P0ACR4	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P37640	UniProtKB	DNA	binding	159	178	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00411
+P37682	UniProtKB	DNA	binding	23	42	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ACR7	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P39360	UniProtKB	DNA	binding	27	46	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P77309	UniProtKB	DNA	binding	18	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P67660	UniProtKB	DNA	binding	24	43	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0A9V5	UniProtKB	DNA	binding	49	68	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P31453	UniProtKB	DNA	binding	28	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P77171	UniProtKB	DNA	binding	28	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P76135	UniProtKB	DNA	binding	153	172	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0ACR2	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P52133	UniProtKB	DNA	binding	28	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P77634	UniProtKB	DNA	binding	181	200	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P77746	UniProtKB	DNA	binding	27	46	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P77615	UniProtKB	DNA	binding	5	24	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00111
+P67699	UniProtKB	DNA	binding	24	43	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P77721	UniProtKB	DNA	binding	20	39	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P37671	UniProtKB	DNA	binding	45	64	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00393
+P77698	UniProtKB	DNA	binding	175	290	.	.	.	Note=Recombinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01073
+P30979	UniProtKB	DNA	binding	46	65	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P37767	UniProtKB	DNA	binding	37	56	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00390
+P37641	UniProtKB	DNA	binding	19	38	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P0ACM9	UniProtKB	DNA	binding	33	52	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P32144	UniProtKB	DNA	binding	25	44	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00349
+P32677	UniProtKB	DNA	binding	188	207	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P0ACJ5	UniProtKB	DNA	binding	21	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00319
+P0A9T6	UniProtKB	DNA	binding	27	46	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00257
+P0ACM5	UniProtKB	DNA	binding	50	69	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+Q46802	UniProtKB	DNA	binding	567	585	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31449	UniProtKB	DNA	binding	204	225	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P31449	UniProtKB	DNA	binding	252	275	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00593
+P31463	UniProtKB	DNA	binding	25	44	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31475	UniProtKB	DNA	binding	40	59	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00307
+P76639	UniProtKB	DNA	binding	4	103	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091
+P39376	UniProtKB	DNA	binding	28	47	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+P77559	UniProtKB	DNA	binding	20	40	.	.	.	Note=H-T-H	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253
+Q46942	UniProtKB	DNA	binding	3	105	.	.	.	Note=OmpR/PhoB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01091

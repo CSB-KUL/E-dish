@@ -1,0 +1,8 @@
+P0ABI8	UniProtKB	Cross-link	284	288	.	.	.	Note=1'-histidyl-3'-tyrosine	(His-Tyr);Ontology_term=ECO:0000250;evidence=ECO:0000250
+P21179	UniProtKB	Cross-link	392	415	.	.	.	Note=3'-histidyl-3-tyrosine	(His-Tyr)
+P30749	UniProtKB	Cross-link	119	119	.	.	.	Note=Glycyl	lysine	isopeptide	(Lys-Gly)	(interchain	with	G-Cter	in	MoaD)
+P30748	UniProtKB	Cross-link	81	81	.	.	.	Note=Glycyl	lysine	isopeptide	(Gly-Lys)	(interchain	with	K-119	in	MoaE)
+P30138	UniProtKB	Cross-link	184	184	.	.	.	Note=Glycyl	cysteine	dithioester	(Cys-Gly)	(interchain	with	G-Cter	in	ThiS)
+O32583	UniProtKB	Cross-link	66	66	.	.	.	Note=Glycyl	cysteine	dithioester	(Gly-Cys)	(interchain	with	C-184	in	ThiF)%3B	alternate
+P13029	UniProtKB	Cross-link	105	226	.	.	.	Note=Tryptophyl-tyrosyl-methioninium	(Trp-Tyr)	(with	M-252);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12832453;Dbxref=PMID:12832453
+P13029	UniProtKB	Cross-link	226	252	.	.	.	Note=Tryptophyl-tyrosyl-methioninium	(Tyr-Met)	(with	W-105);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12832453;Dbxref=PMID:12832453

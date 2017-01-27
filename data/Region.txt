@@ -1,0 +1,1009 @@
+P0ACF8	UniProtKB	Region	21	63	.	.	.	Note=Involved	in	dimerization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9398522;Dbxref=PMID:9398522
+P0ACF8	UniProtKB	Region	92	137	.	.	.	Note=Required	for	DNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8913298;Dbxref=PMID:8913298
+P0AES6	UniProtKB	Region	2	220	.	.	.	Note=ATPase	domain;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:10734094,ECO:0000305|PubMed:1646964;Dbxref=PMID:10734094,PMID:1646964
+P0AES6	UniProtKB	Region	221	392	.	.	.	Note=Transducer	domain;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:10734094,ECO:0000305|PubMed:1646964;Dbxref=PMID:10734094,PMID:1646964
+P15042	UniProtKB	Region	330	334	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17466627;Dbxref=PMID:17466627
+P15042	UniProtKB	Region	453	458	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17466627;Dbxref=PMID:17466627
+P15042	UniProtKB	Region	519	524	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17466627;Dbxref=PMID:17466627
+P15042	UniProtKB	Region	551	556	.	.	.	Note=Interaction	with	target	DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17466627;Dbxref=PMID:17466627
+P60472	UniProtKB	Region	26	30	.	.	.	Note=Substrate	binding
+P60472	UniProtKB	Region	71	73	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P60472	UniProtKB	Region	200	202	.	.	.	Note=Substrate	binding
+P0ACJ8	UniProtKB	Region	20	22	.	.	.	Note=Activating	region	2	(AR2)%3B	probablcontacts	the	N-terminus	of	RpoA
+P0ACJ8	UniProtKB	Region	53	59	.	.	.	Note=Activating	region	3	(AR3)%3B	probablcontacts	sigma-70	(RpoD)
+P0ACJ8	UniProtKB	Region	154	163	.	.	.	Note=Activating	region	1	(AR1)%3B	probablcontacts	the	C-terminus	of	RpoA
+P06134	UniProtKB	Region	1	171	.	.	.	Note=Methylphosphotriester-DNA--protein-cysteine	methyltransferase
+P06134	UniProtKB	Region	181	354	.	.	.	Note=Methylated-DNA--protein-cysteine	methyltransferase
+P0AES0	UniProtKB	Region	2	195	.	.	.	Note=Gsp	amidase
+P0AES0	UniProtKB	Region	78	81	.	.	.	Note=Gsp	binding
+P0AES0	UniProtKB	Region	196	205	.	.	.	Note=Linker
+P0AES0	UniProtKB	Region	206	619	.	.	.	Note=Gsp	synthetase
+P0A817	UniProtKB	Region	99	109	.	.	.	Note=Flexible	loop;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00086,ECO:0000269|PubMed:14967023;Dbxref=PMID:14967023
+P0AES4	UniProtKB	Region	531	841	.	.	.	Note=C-terminal	domain	(CTD);Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15897198;Dbxref=PMID:15897198
+P0AES4	UniProtKB	Region	842	875	.	.	.	Note=Acidic	tail;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22457353;Dbxref=PMID:22457353
+P0ABQ0	UniProtKB	Region	2	188	.	.	.	Note=Phosphopantothenoylcysteine	decarboxylase
+P0ABQ0	UniProtKB	Region	189	406	.	.	.	Note=Phosphopantothenate--cysteine	ligase
+Q46896	UniProtKB	Region	96	278	.	.	.	Note=Sufficient	for	cleavage	of	ssRNA%2ssDNA	and	Holliday	junction	DNA
+P45563	UniProtKB	Region	85	87	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1YQQ,ECO:0000244|PDB:1YQU,ECO:0000269|PubMed:15808857;Dbxref=PMID:15808857
+P0CE47	UniProtKB	Region	19	26	.	.	.	Note=G1;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE47	UniProtKB	Region	60	64	.	.	.	Note=G2;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE47	UniProtKB	Region	81	84	.	.	.	Note=G3;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE47	UniProtKB	Region	136	139	.	.	.	Note=G4;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE47	UniProtKB	Region	174	176	.	.	.	Note=G5;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ADI4	UniProtKB	Region	2	213	.	.	.	Note=Isochorismatase;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9214294;Dbxref=PMID:9214294
+P0A9E5	UniProtKB	Region	20	29	.	.	.	Note=Essential	for	the	oxygen-regulated	activity
+P0A9E5	UniProtKB	Region	47	50	.	.	.	Note=Activating	region	2A;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	60	61	.	.	.	Note=Activating	region	3A;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	71	75	.	.	.	Note=Activating	region	1A;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	81	81	.	.	.	Note=Activating	region	3B;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	85	87	.	.	.	Note=Activating	region	3C;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	112	112	.	.	.	Note=Activating	region	3D;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	116	121	.	.	.	Note=Activating	region	1B;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	123	124	.	.	.	Note=Activating	region	2B;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	127	128	.	.	.	Note=Activating	region	2C;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	140	159	.	.	.	Note=Dimerization;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E5	UniProtKB	Region	181	191	.	.	.	Note=Activating	region	1C;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A825	UniProtKB	Region	125	127	.	.	.	Note=Substrate	binding
+P0A825	UniProtKB	Region	355	357	.	.	.	Note=Substrate	binding
+P76491	UniProtKB	Region	18	19	.	.	.	Note=Substrate	binding
+P76491	UniProtKB	Region	77	80	.	.	.	Note=Substrate	binding
+P00350	UniProtKB	Region	128	130	.	.	.	Note=Substrate	binding
+P00350	UniProtKB	Region	186	187	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P36683	UniProtKB	Region	244	246	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992126;Dbxref=PMID:11992126
+P36683	UniProtKB	Region	414	416	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992126;Dbxref=PMID:11992126
+P0AE06	UniProtKB	Region	172	397	.	.	.	Note=Interaction	with	AcrB
+P0AE06	UniProtKB	Region	313	397	.	.	.	Note=Required	for	growth	on	efflux	drugs
+P31119	UniProtKB	Region	15	138	.	.	.	Note=Acyltransferase
+P31119	UniProtKB	Region	233	646	.	.	.	Note=AMP-binding
+P08660	UniProtKB	Region	2	245	.	.	.	Note=Aspartokinase
+P08660	UniProtKB	Region	198	201	.	.	.	Note=Substrate	binding
+P08660	UniProtKB	Region	246	449	.	.	.	Note=Interface
+P08660	UniProtKB	Region	299	449	.	.	.	Note=Required	for	homodimerization
+P08660	UniProtKB	Region	318	321	.	.	.	Note=Allosteric	inhibitor	binding	1
+P08660	UniProtKB	Region	324	325	.	.	.	Note=Allosteric	inhibitor	binding	1
+P08660	UniProtKB	Region	338	340	.	.	.	Note=Allosteric	inhibitor	binding	2
+P08660	UniProtKB	Region	345	346	.	.	.	Note=Allosteric	inhibitor	binding	1
+P0A9G6	UniProtKB	Region	91	93	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11526312;Dbxref=PMID:11526312
+P0A9G6	UniProtKB	Region	196	197	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WKK7
+P0A9G6	UniProtKB	Region	317	321	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WKK7
+P33224	UniProtKB	Region	445	541	.	.	.	Note=dsDNA-binding
+Q93K97	UniProtKB	Region	28	29	.	.	.	Note=Substrate	binding
+Q93K97	UniProtKB	Region	51	52	.	.	.	Note=Substrate	binding%3B	shared	with	dimericpartner
+Q93K97	UniProtKB	Region	133	135	.	.	.	Note=Substrate	binding%3B	shared	with	dimericpartner
+P19926	UniProtKB	Region	311	313	.	.	.	Note=Substrate	binding
+P32719	UniProtKB	Region	140	143	.	.	.	Note=Substrate	binding
+P32719	UniProtKB	Region	173	175	.	.	.	Note=Substrate	binding
+P32719	UniProtKB	Region	195	197	.	.	.	Note=Substrate	binding
+P46883	UniProtKB	Region	411	422	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1D6U,ECO:0000244|PDB:1D6Y,ECO:0000244|PDB:1D6Z,ECO:0000269|PubMed:10576737;Dbxref=PMID:10576737
+P46883	UniProtKB	Region	493	498	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1D6U,ECO:0000244|PDB:1D6Y,ECO:0000244|PDB:1D6Z,ECO:0000244|PDB:1LVN,ECO:0000244|PDB:1SPU,ECO:0000269|PubMed:10576737,ECO:0000269|PubMed:9048544;Dbxref=PMID:10576737,PMID:9048544
+P05050	UniProtKB	Region	76	78	.	.	.	Note=Substrate	binding
+P05050	UniProtKB	Region	120	122	.	.	.	Note=Alpha-ketoglutarate	binding
+P05050	UniProtKB	Region	204	210	.	.	.	Note=Alpha-ketoglutarate	binding
+P27550	UniProtKB	Region	191	194	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01123
+P0AB71	UniProtKB	Region	266	268	.	.	.	Note=Dihydroxyacetone	phosphate	binding
+P0AB71	UniProtKB	Region	287	290	.	.	.	Note=Dihydroxyacetone	phosphate	binding
+P00561	UniProtKB	Region	1	249	.	.	.	Note=Aspartokinase
+P00561	UniProtKB	Region	250	470	.	.	.	Note=Interface
+P00561	UniProtKB	Region	471	820	.	.	.	Note=Homoserine	dehydrogenase
+P00562	UniProtKB	Region	2	252	.	.	.	Note=Aspartokinase
+P00562	UniProtKB	Region	253	463	.	.	.	Note=Interface
+P00562	UniProtKB	Region	464	810	.	.	.	Note=Homoserine	dehydrogenase
+P0A955	UniProtKB	Region	8	9	.	.	.	Note=Substrate	binding
+P0ACN4	UniProtKB	Region	154	156	.	.	.	Note=Glyoxylate	binding
+P0ACN4	UniProtKB	Region	234	236	.	.	.	Note=Glyoxylate	binding
+P75820	UniProtKB	Region	51	52	.	.	.	Note=Substrate	binding
+P0AE22	UniProtKB	Region	137	138	.	.	.	Note=Substrate	binding
+P00811	UniProtKB	Region	331	333	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P04825	UniProtKB	Region	261	265	.	.	.	Note=Substrate	binding
+P0A6E1	UniProtKB	Region	112	126	.	.	.	Note=LID	domain
+P0AC38	UniProtKB	Region	143	145	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A962	UniProtKB	Region	59	61	.	.	.	Note=Substrate	binding
+P0A962	UniProtKB	Region	91	92	.	.	.	Note=Substrate	binding
+P0A962	UniProtKB	Region	271	273	.	.	.	Note=Allosteric	activator	binding
+P15770	UniProtKB	Region	14	16	.	.	.	Note=Shikimate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222
+P77398	UniProtKB	Region	1	304	.	.	.	Note=Formyltransferase	ArnAFT
+P77398	UniProtKB	Region	86	88	.	.	.	Note=10-formyltetrahydrofolate	binding
+P77398	UniProtKB	Region	136	140	.	.	.	Note=10-formyltetrahydrofolate	binding
+P77398	UniProtKB	Region	314	660	.	.	.	Note=Dehydrogenase	ArnADH
+P77398	UniProtKB	Region	432	433	.	.	.	Note=UDP-glucuronate	binding
+P77398	UniProtKB	Region	526	535	.	.	.	Note=UDP-glucuronate	binding
+P0A6D3	UniProtKB	Region	22	23	.	.	.	Note=Shikimate-3-phosphate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00210,ECO:0000269|PubMed:11171958,ECO:0000269|PubMed:12430021,ECO:0000269|PubMed:13129913,ECO:0000269|PubMed:15736934,ECO:0000269|PubMed:16225867,ECO:0000269|PubMed:17855366,ECO:0000269|PubMed:17958399,ECO:0000269|PubMed:19211556;Dbxref=PMID:11171958,PMID:12430021,PMID:13129913,PMID:15736934,PMID:16225867,PMID:17855366,PMID:17958399,PMID:19211556
+P0A6D3	UniProtKB	Region	94	97	.	.	.	Note=Phosphoenolpyruvate;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00210,ECO:0000269|PubMed:11171958,ECO:0000269|PubMed:16225867,ECO:0000269|PubMed:17855366,ECO:0000269|PubMed:19211556;Dbxref=PMID:11171958,PMID:16225867,PMID:17855366,PMID:19211556
+P0A6D3	UniProtKB	Region	169	171	.	.	.	Note=Shikimate-3-phosphate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00210,ECO:0000269|PubMed:11171958,ECO:0000269|PubMed:12430021,ECO:0000269|PubMed:13129913,ECO:0000269|PubMed:15736934,ECO:0000269|PubMed:16225867,ECO:0000269|PubMed:17855366,ECO:0000269|PubMed:17958399,ECO:0000269|PubMed:19211556;Dbxref=PMID:11171958,PMID:12430021,PMID:13129913,PMID:15736934,PMID:16225867,PMID:17855366,PMID:17958399,PMID:19211556
+P00805	UniProtKB	Region	80	81	.	.	.	Note=Substrate	binding
+P00805	UniProtKB	Region	111	112	.	.	.	Note=Substrate	binding
+P22106	UniProtKB	Region	50	54	.	.	.	Note=Glutamine	binding
+P22106	UniProtKB	Region	75	77	.	.	.	Note=Glutamine	binding
+P0A6C8	UniProtKB	Region	44	45	.	.	.	Note=Substrate	binding
+P18335	UniProtKB	Region	108	109	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01107
+P18335	UniProtKB	Region	226	229	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01107
+P76458	UniProtKB	Region	24	30	.	.	.	Note=CoA-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P05194	UniProtKB	Region	46	48	.	.	.	Note=3-dehydroquinate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00214
+P0A6D7	UniProtKB	Region	116	127	.	.	.	Note=Lid	domain
+P76216	UniProtKB	Region	19	28	.	.	.	Note=Substrate	binding
+P76216	UniProtKB	Region	137	138	.	.	.	Note=Substrate	binding
+P0A951	UniProtKB	Region	85	87	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9KL03
+P12995	UniProtKB	Region	112	113	.	.	.	Note=Pyridoxal	phosphate	binding
+P12995	UniProtKB	Region	308	309	.	.	.	Note=Pyridoxal	phosphate	binding
+P13001	UniProtKB	Region	82	83	.	.	.	Note=Substrate	binding
+P13001	UniProtKB	Region	143	147	.	.	.	Note=Substrate	binding
+P37653	UniProtKB	Region	271	364	.	.	.	Note=Catalytic	subdomain	A
+P37653	UniProtKB	Region	441	501	.	.	.	Note=Catalytic	subdomain	B
+P00722	UniProtKB	Region	538	541	.	.	.	Note=Substrate	binding
+P00968	UniProtKB	Region	2	403	.	.	.	Note=Carboxyphosphate	synthetic	domain;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01210
+P00968	UniProtKB	Region	404	553	.	.	.	Note=Oligomerization	domain;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01210
+P00968	UniProtKB	Region	554	936	.	.	.	Note=Carbamoyl	phosphate	synthetic	domain;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01210
+P00968	UniProtKB	Region	937	1073	.	.	.	Note=Allosteric	domain;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01210
+P12998	UniProtKB	Region	108	109	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10642176,ECO:0000269|PubMed:16557306;Dbxref=PMID:10642176,PMID:16557306
+P06709	UniProtKB	Region	89	91	.	.	.	Note=Biotin	binding
+P06709	UniProtKB	Region	116	118	.	.	.	Note=Biotin	binding
+P06129	UniProtKB	Region	108	112	.	.	.	Note=Cobalamin-binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12652322;Dbxref=PMID:12652322
+P06129	UniProtKB	Region	249	251	.	.	.	Note=Cobalamin-binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12652322;Dbxref=PMID:12652322
+P06129	UniProtKB	Region	515	518	.	.	.	Note=Cobalamin-binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12652322;Dbxref=PMID:12652322
+P75990	UniProtKB	Region	98	144	.	.	.	Note=Joining	helix
+P37028	UniProtKB	Region	242	246	.	.	.	Note=Cobalamin-binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01000,ECO:0000269|PubMed:12468528,ECO:0000269|PubMed:12475936;Dbxref=PMID:12468528,PMID:12475936
+P0ABF6	UniProtKB	Region	89	91	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305,ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:8289286,ECO:0000305|PubMed:8634261,ECO:0000305|PubMed:9125497;Dbxref=PMID:8289286,PMID:8634261,PMID:9125497
+P0A6F1	UniProtKB	Region	1	189	.	.	.	Note=CPSase
+P64524	UniProtKB	Region	1	73	.	.	.	Note=Remains	toxic%2C	toxin	less	stabile%3B	cells	filament%2C	do	not	interact	with	MreB	but	probably	still	interact	with	FtsZ
+P64524	UniProtKB	Region	74	124	.	.	.	Note=Required	for	interaction	with	MreB
+P07364	UniProtKB	Region	212	213	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P07364	UniProtKB	Region	230	231	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P76291	UniProtKB	Region	152	154	.	.	.	Note=Carboxy-S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000255;evidence=ECO:0000244|PDB:4QNU,ECO:0000244|PDB:4QNV,ECO:0000255|HAMAP-Rule:MF_01590
+P76291	UniProtKB	Region	181	182	.	.	.	Note=Carboxy-S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000255;evidence=ECO:0000244|PDB:4QNU,ECO:0000244|PDB:4QNV,ECO:0000255|HAMAP-Rule:MF_01590
+P39163	UniProtKB	Region	49	54	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O75223
+P63284	UniProtKB	Region	1	143	.	.	.	Note=N-terminal
+P63284	UniProtKB	Region	159	340	.	.	.	Note=NBD1
+P63284	UniProtKB	Region	341	545	.	.	.	Note=Linker
+P63284	UniProtKB	Region	555	765	.	.	.	Note=NBD2
+P63284	UniProtKB	Region	766	857	.	.	.	Note=C-terminal
+P13656	UniProtKB	Region	647	897	.	.	.	Note=Catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9H7	UniProtKB	Region	137	138	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9H7	UniProtKB	Region	171	179	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9H7	UniProtKB	Region	197	202	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABH9	UniProtKB	Region	169	417	.	.	.	Note=I
+P0ABH9	UniProtKB	Region	421	609	.	.	.	Note=II
+P76290	UniProtKB	Region	64	66	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01589,ECO:0000269|PubMed:23676670,ECO:0000269|PubMed:23695253;Dbxref=PMID:23676670,PMID:23695253
+P76290	UniProtKB	Region	89	90	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01589,ECO:0000269|PubMed:23676670,ECO:0000269|PubMed:23695253;Dbxref=PMID:23676670,PMID:23695253
+P76290	UniProtKB	Region	117	118	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01589,ECO:0000269|PubMed:23676670,ECO:0000269|PubMed:23695253;Dbxref=PMID:23676670,PMID:23695253
+P36566	UniProtKB	Region	52	53	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q8XDG3,ECO:0000255|HAMAP-Rule:MF_02057
+P36566	UniProtKB	Region	102	103	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q8XDG3,ECO:0000255|HAMAP-Rule:MF_02057
+P0DM85	UniProtKB	Region	41	45	.	.	.	Note=Clamp-binding	consensus
+P0A6I6	UniProtKB	Region	7	11	.	.	.	Note=Product-binding	(3'-dephospho-CoA);Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1B6T,ECO:0000269|PubMed:10205156;Dbxref=PMID:10205156
+P0A6I6	UniProtKB	Region	88	89	.	.	.	Note=Product-binding	(3'-dephospho-CoA);Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1B6T,ECO:0000269|PubMed:10205156;Dbxref=PMID:10205156
+P0A6I6	UniProtKB	Region	124	127	.	.	.	Note=Product-binding	(3'-dephospho-CoA);Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1B6T,ECO:0000269|PubMed:10205156;Dbxref=PMID:10205156
+P0AE85	UniProtKB	Region	55	61	.	.	.	Note=Important	for	protein	stability%2C	probablinteracts	with	CpxA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16166523;Dbxref=PMID:16166523
+P0AE85	UniProtKB	Region	151	166	.	.	.	Note=Not	required	for	activation	of	CpxA	or	to	induce	degradation	of	misfolded	P	pili	subunits;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21239493;Dbxref=PMID:21239493
+P08331	UniProtKB	Region	544	550	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P24251	UniProtKB	Region	99	122	.	.	.	Note=Essential	for	activity
+P13518	UniProtKB	Region	152	219	.	.	.	Note=HAMP-like
+P0AEA8	UniProtKB	Region	4	204	.	.	.	Note=Precorrin-2	dehydrogenase	/	sirohydrochlorin	ferrochelatase;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AEA8	UniProtKB	Region	216	448	.	.	.	Note=Uroporphyrinogen-III	C-methyltransferase;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01646
+P0AEA8	UniProtKB	Region	301	303	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01646
+P0AEA8	UniProtKB	Region	331	332	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01646
+P16703	UniProtKB	Region	174	178	.	.	.	Note=Pyridoxal	phosphate	binding
+P23845	UniProtKB	Region	34	41	.	.	.	Note=G1;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23845	UniProtKB	Region	92	96	.	.	.	Note=G2;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23845	UniProtKB	Region	113	116	.	.	.	Note=G3;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23845	UniProtKB	Region	168	171	.	.	.	Note=G4;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23845	UniProtKB	Region	206	208	.	.	.	Note=G5;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P08506	UniProtKB	Region	383	400	.	.	.	Note=Required	for	inner	membrane	binding
+Q46824	UniProtKB	Region	1	96	.	.	.	Note=Not	required	to	inhibit	FtsZ	or	MreB	polymerization
+P00936	UniProtKB	Region	1	535	.	.	.	Note=Catalytic
+P00936	UniProtKB	Region	541	848	.	.	.	Note=Regulatory
+P24228	UniProtKB	Region	90	263	.	.	.	Note=Absent	in	class-A	beta-lactamases
+P04036	UniProtKB	Region	169	170	.	.	.	Note=Substrate	binding
+P00861	UniProtKB	Region	268	271	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_02120,ECO:0000269|Ref.10
+P22255	UniProtKB	Region	85	88	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABP8	UniProtKB	Region	88	91	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11786017;Dbxref=PMID:11786017
+P0ABP8	UniProtKB	Region	180	182	.	.	.	Note=Purine	nucleoside	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P50389
+P0ABP8	UniProtKB	Region	204	205	.	.	.	Note=Purine	nucleoside	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P50389
+P0A6K1	UniProtKB	Region	8	9	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A6K1	UniProtKB	Region	73	75	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A6K1	UniProtKB	Region	208	209	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A6K1	UniProtKB	Region	218	219	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39099	UniProtKB	Region	212	214	.	.	.	Note=Substrate	binding
+P39099	UniProtKB	Region	230	234	.	.	.	Note=Substrate	binding
+P39099	UniProtKB	Region	269	273	.	.	.	Note=Substrate	binding
+P0AEC8	UniProtKB	Region	140	142	.	.	.	Note=C4-dicarboxylate	binding
+P00582	UniProtKB	Region	324	928	.	.	.	Note=Klenow	fragment
+P00582	UniProtKB	Region	521	928	.	.	.	Note=Polymerase
+Q6BF16	UniProtKB	Region	176	177	.	.	.	Note=Substrate	binding
+P37349	UniProtKB	Region	264	472	.	.	.	Note=PTS	EI-like%2C	N-terminal	part;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11350937;Dbxref=PMID:11350937
+P66817	UniProtKB	Region	190	191	.	.	.	Note=Important	for	interaction	with	DnaA
+P69910	UniProtKB	Region	126	127	.	.	.	Note=Pyridoxal	phosphate	binding
+P0ABK5	UniProtKB	Region	177	181	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P21693	UniProtKB	Region	383	457	.	.	.	Note=Involved	in	23S	rRNA	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00965
+P76015	UniProtKB	Region	53	56	.	.	.	Note=Substrate	binding
+P0AC13	UniProtKB	Region	255	257	.	.	.	Note=6-hydroxymethyl-7%2C8-dihydropterin	diphosphate	binding;Ontology_term=ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:1AJ2,ECO:0000305|PubMed:9187658;Dbxref=PMID:9187658
+P69908	UniProtKB	Region	126	127	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AEE3	UniProtKB	Region	259	264	.	.	.	Note=Substrate	binding
+P18775	UniProtKB	Region	172	176	.	.	.	Note=MGD	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	244	245	.	.	.	Note=MGD	2	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	270	271	.	.	.	Note=MGD	2	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	291	293	.	.	.	Note=MGD	2	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	386	387	.	.	.	Note=MGD	2	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	512	513	.	.	.	Note=MGD	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	701	701	.	.	.	Note=MGD	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	707	709	.	.	.	Note=MGD	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P18775	UniProtKB	Region	804	805	.	.	.	Note=MGD	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P29680	UniProtKB	Region	27	31	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00218
+P0C0V0	UniProtKB	Region	234	236	.	.	.	Note=Substrate	binding
+P0C0V0	UniProtKB	Region	252	256	.	.	.	Note=Substrate	binding
+P0C0V0	UniProtKB	Region	291	295	.	.	.	Note=Substrate	binding
+P76016	UniProtKB	Region	1	318	.	.	.	Note=Sensor	domain
+P31545	UniProtKB	Region	236	238	.	.	.	Note=Heme	binding
+P31545	UniProtKB	Region	334	336	.	.	.	Note=Heme	binding
+P0A988	UniProtKB	Region	1	125	.	.	.	Note=I
+P0A988	UniProtKB	Region	126	253	.	.	.	Note=II
+P0A988	UniProtKB	Region	254	366	.	.	.	Note=III
+P45568	UniProtKB	Region	222	228	.	.	.	Note=Binding	to	substrate	phosphate	group
+P18956	UniProtKB	Region	462	463	.	.	.	Note=Glutamate	binding
+P18956	UniProtKB	Region	483	484	.	.	.	Note=Glutamate	binding
+P22256	UniProtKB	Region	111	112	.	.	.	Note=Pyridoxal	phosphate	binding
+P22256	UniProtKB	Region	239	242	.	.	.	Note=Pyridoxal	phosphate	binding
+P09147	UniProtKB	Region	199	200	.	.	.	Note=Substrate	binding
+P09147	UniProtKB	Region	216	218	.	.	.	Note=Substrate	binding
+P09147	UniProtKB	Region	292	295	.	.	.	Note=Substrate	binding
+P05042	UniProtKB	Region	98	100	.	.	.	Note=Substrate	binding
+P05042	UniProtKB	Region	129	132	.	.	.	Note=B	site
+P05042	UniProtKB	Region	139	141	.	.	.	Note=Substrate	binding
+P05042	UniProtKB	Region	187	188	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P05042	UniProtKB	Region	324	326	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A6T3	UniProtKB	Region	34	37	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00246
+P0ACC7	UniProtKB	Region	1	229	.	.	.	Note=Pyrophosphorylase;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01631,ECO:0000269|PubMed:10428949,ECO:0000269|PubMed:8555230;Dbxref=PMID:10428949,PMID:8555230
+P0ACC7	UniProtKB	Region	11	14	.	.	.	Note=UDP-GlcNAc	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01631,ECO:0000269|PubMed:10428949,ECO:0000269|PubMed:11329257,ECO:0000269|PubMed:17473010;Dbxref=PMID:10428949,PMID:11329257,PMID:17473010
+P0ACC7	UniProtKB	Region	81	82	.	.	.	Note=UDP-GlcNAc	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01631,ECO:0000269|PubMed:10428949,ECO:0000269|PubMed:11329257,ECO:0000269|PubMed:17473010;Dbxref=PMID:10428949,PMID:11329257,PMID:17473010
+P0ACC7	UniProtKB	Region	103	105	.	.	.	Note=UDP-GlcNAc	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01631,ECO:0000269|PubMed:10428949,ECO:0000269|PubMed:11329257,ECO:0000269|PubMed:17473010;Dbxref=PMID:10428949,PMID:11329257,PMID:17473010
+P0ACC7	UniProtKB	Region	230	250	.	.	.	Note=Linker;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01631,ECO:0000269|PubMed:10428949,ECO:0000269|PubMed:8555230;Dbxref=PMID:10428949,PMID:8555230
+P0ACC7	UniProtKB	Region	251	456	.	.	.	Note=N-acetyltransferase;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01631,ECO:0000269|PubMed:10428949,ECO:0000269|PubMed:8555230;Dbxref=PMID:10428949,PMID:8555230
+P0ACC7	UniProtKB	Region	386	387	.	.	.	Note=Acetyl-CoA	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01631
+P30870	UniProtKB	Region	91	302	.	.	.	Note=GlnE	1
+P30870	UniProtKB	Region	609	830	.	.	.	Note=GlnE	2
+P21437	UniProtKB	Region	87	89	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P21437	UniProtKB	Region	163	165	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P21437	UniProtKB	Region	185	187	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27305	UniProtKB	Region	19	23	.	.	.	Note=Glutamate	binding
+P0C8J6	UniProtKB	Region	209	211	.	.	.	Note=Dihydroxyacetone	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0C8J6	UniProtKB	Region	230	233	.	.	.	Note=Dihydroxyacetone	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AC69	UniProtKB	Region	84	85	.	.	.	Note=Glutathione	binding
+P63224	UniProtKB	Region	54	55	.	.	.	Note=Substrate	binding
+P63224	UniProtKB	Region	93	94	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P63224	UniProtKB	Region	119	121	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A6F3	UniProtKB	Region	84	85	.	.	.	Note=Substrate	binding
+P0A6F3	UniProtKB	Region	234	236	.	.	.	Note=Allosteric	FBP	inhibitor	binding
+P0A6F3	UniProtKB	Region	246	247	.	.	.	Note=Substrate	binding
+P63228	UniProtKB	Region	11	13	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20050614,ECO:0000269|PubMed:20050699;Dbxref=PMID:20050614,PMID:20050699
+P63228	UniProtKB	Region	19	22	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20050614;Dbxref=PMID:20050614
+P63228	UniProtKB	Region	53	56	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20050614,ECO:0000269|PubMed:20050699;Dbxref=PMID:20050614,PMID:20050699
+P63228	UniProtKB	Region	110	111	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20050614;Dbxref=PMID:20050614
+P62707	UniProtKB	Region	10	17	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01039,ECO:0000269|PubMed:11884145;Dbxref=PMID:11884145
+P62707	UniProtKB	Region	23	24	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01039,ECO:0000269|PubMed:11038361,ECO:0000269|PubMed:11884145;Dbxref=PMID:11038361,PMID:11884145
+P62707	UniProtKB	Region	89	92	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01039,ECO:0000269|PubMed:11884145;Dbxref=PMID:11884145
+P62707	UniProtKB	Region	116	117	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01039,ECO:0000269|PubMed:11038361,ECO:0000269|PubMed:11884145;Dbxref=PMID:11038361,PMID:11884145
+P62707	UniProtKB	Region	185	186	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01039,ECO:0000269|PubMed:11884145;Dbxref=PMID:11884145
+P69931	UniProtKB	Region	6	11	.	.	.	Note=Beta	clamp	binding	motif
+P36553	UniProtKB	Region	108	110	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00333
+P36553	UniProtKB	Region	240	275	.	.	.	Note=Important	for	dimerization;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00333
+P36553	UniProtKB	Region	258	260	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00333
+P32131	UniProtKB	Region	113	114	.	.	.	Note=S-adenosyl-L-methionine	2	binding
+P0A6S7	UniProtKB	Region	259	260	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00394
+P32662	UniProtKB	Region	13	15	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A7A2	UniProtKB	Region	8	15	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P62707,ECO:0000255|HAMAP-Rule:MF_01040
+P0A7A2	UniProtKB	Region	21	22	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P62707,ECO:0000255|HAMAP-Rule:MF_01040
+P0A7A2	UniProtKB	Region	82	85	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P62707,ECO:0000255|HAMAP-Rule:MF_01040
+P0A7A2	UniProtKB	Region	104	105	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P62707,ECO:0000255|HAMAP-Rule:MF_01040
+P0A7A2	UniProtKB	Region	151	152	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P62707,ECO:0000255|HAMAP-Rule:MF_01040
+P0ACA7	UniProtKB	Region	67	68	.	.	.	Note=Glutathione	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AES2	UniProtKB	Region	235	237	.	.	.	Note=Substrate	binding
+P0AES2	UniProtKB	Region	339	341	.	.	.	Note=Substrate	binding
+P0A6X1	UniProtKB	Region	49	52	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0A6X1	UniProtKB	Region	114	116	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0A722	UniProtKB	Region	73	76	.	.	.	Note=Substrate	binding
+P0A720	UniProtKB	Region	147	159	.	.	.	Note=LID
+P60720	UniProtKB	Region	71	78	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00013
+P60720	UniProtKB	Region	138	140	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00013
+P60720	UniProtKB	Region	151	153	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00013
+P23930	UniProtKB	Region	425	431	.	.	.	Note=Could	contain	a	copper-binding	motif
+P30749	UniProtKB	Region	37	39	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30749	UniProtKB	Region	103	104	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30749	UniProtKB	Region	126	128	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P76342	UniProtKB	Region	91	92	.	.	.	Note=Molybdopterin	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15355966;Dbxref=PMID:15355966
+P76342	UniProtKB	Region	249	251	.	.	.	Note=Molybdopterin	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15355966;Dbxref=PMID:15355966
+P22523	UniProtKB	Region	645	804	.	.	.	Note=Sufficient	for	ParC	binding
+P22523	UniProtKB	Region	666	783	.	.	.	Note=Flexible	hinge
+P60293	UniProtKB	Region	208	236	.	.	.	Note=Leucine-zipper
+P0A749	UniProtKB	Region	22	23	.	.	.	Note=Phosphoenolpyruvate	binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305,ECO:0000305;evidence=ECO:0000244|PDB:3KR6,ECO:0000244|PDB:3SWD,ECO:0000305|PubMed:20392080,ECO:0000305|PubMed:22378791;Dbxref=PMID:20392080,PMID:22378791
+P0A749	UniProtKB	Region	120	124	.	.	.	Note=UDP-N-acetylglucosamine	binding;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3KR6,ECO:0000269|PubMed:20392080,ECO:0000269|PubMed:22378791;Dbxref=PMID:20392080,PMID:22378791
+P0A749	UniProtKB	Region	160	163	.	.	.	Note=UDP-N-acetylglucosamine	binding;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3KR6,ECO:0000269|PubMed:20392080,ECO:0000269|PubMed:22378791;Dbxref=PMID:20392080,PMID:22378791
+P22188	UniProtKB	Region	44	46	.	.	.	Note=UDP-MurNAc-L-Ala-D-Glu	binding
+P22188	UniProtKB	Region	158	159	.	.	.	Note=UDP-MurNAc-L-Ala-D-Glu	binding
+P22188	UniProtKB	Region	414	417	.	.	.	Note=Meso-diaminopimelate	binding
+P0AF12	UniProtKB	Region	173	174	.	.	.	Note=Substrate	binding
+P77788	UniProtKB	Region	34	39	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0AFC0	UniProtKB	Region	81	84	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P42641	UniProtKB	Region	341	390	.	.	.	Note=Not	required	for	50S	ribosomsubunit	association	nor	70S	dissociation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24844575;Dbxref=PMID:24844575
+P42641	UniProtKB	Region	360	390	.	.	.	Note=Not	essential%2C	but	deletion	increases	sensitivity	to	DNA	replication	inhibitor	hydroxyurea	(HU);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22863262;Dbxref=PMID:22863262
+P0A910	UniProtKB	Region	197	208	.	.	.	Note=Hinge-like
+P0A910	UniProtKB	Region	201	208	.	.	.	Note=4	X	2	AA	tandem	repeats	of	A-P
+P0AFF6	UniProtKB	Region	364	489	.	.	.	Note=2	X	51	AA	approximate	repeats
+P33599	UniProtKB	Region	2	186	.	.	.	Note=NADH	dehydrogenase	I	subunit	C
+P33599	UniProtKB	Region	210	596	.	.	.	Note=NADH	dehydrogenase	I	subunit	D
+P06996	UniProtKB	Region	116	133	.	.	.	Note=Loop	L3%3B	may	constrict	the	pore
+P07102	UniProtKB	Region	42	46	.	.	.	Note=Substrate	binding
+P07102	UniProtKB	Region	325	327	.	.	.	Note=Substrate	binding
+P00914	UniProtKB	Region	109	110	.	.	.	Note=MTF	binding
+P00914	UniProtKB	Region	275	282	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P00914	UniProtKB	Region	342	343	.	.	.	Note=Interaction	with	DNA;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77366	UniProtKB	Region	9	11	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77366	UniProtKB	Region	44	49	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77366	UniProtKB	Region	116	120	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A924	UniProtKB	Region	97	105	.	.	.	Note=Phosphatase	sequence	motif	I
+P0A924	UniProtKB	Region	160	163	.	.	.	Note=Phosphatase	sequence	motif	II
+P0A924	UniProtKB	Region	200	211	.	.	.	Note=Phosphatase	sequence	motif	III
+P05055	UniProtKB	Region	77	80	.	.	.	Note=FFRR	loop%3B	important	for	RNA	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19327365;Dbxref=PMID:19327365
+P05055	UniProtKB	Region	327	331	.	.	.	Note=Interaction	with	RNase	E;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19327365;Dbxref=PMID:19327365
+P0AFK9	UniProtKB	Region	168	171	.	.	.	Note=Spermidine-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8897598;Dbxref=PMID:8897598
+P0A7E5	UniProtKB	Region	2	266	.	.	.	Note=Amidoligase	domain;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15157079;Dbxref=PMID:15157079
+P0A7E5	UniProtKB	Region	380	383	.	.	.	Note=L-glutamine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01227
+P77439	UniProtKB	Region	119	650	.	.	.	Note=PTS	EI;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11361063;Dbxref=PMID:11361063
+P77439	UniProtKB	Region	563	564	.	.	.	Note=PEP	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P08839
+P09546	UniProtKB	Region	228	574	.	.	.	Note=Proline	dehydrogenase
+P09546	UniProtKB	Region	653	1119	.	.	.	Note=Aldehyde	dehydrogenase
+P07117	UniProtKB	Region	27	66	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	88	124	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	151	162	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	185	189	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	214	231	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	249	274	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	296	319	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	341	370	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	392	397	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	424	430	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	446	448	.	.	.	Note=Hydrophilic
+P07117	UniProtKB	Region	476	502	.	.	.	Note=Hydrophilic
+Q46920	UniProtKB	Region	88	90	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+Q46920	UniProtKB	Region	229	230	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P50457	UniProtKB	Region	110	111	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P50457	UniProtKB	Region	238	241	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A7E1	UniProtKB	Region	111	115	.	.	.	Note=Substrate	binding
+P0A7E1	UniProtKB	Region	246	247	.	.	.	Note=Substrate	binding
+P08244	UniProtKB	Region	71	80	.	.	.	Note=Substrate	binding
+P0A7D4	UniProtKB	Region	14	17	.	.	.	Note=IMP	binding
+P0A7D4	UniProtKB	Region	39	42	.	.	.	Note=IMP	binding
+P0A7D4	UniProtKB	Region	300	306	.	.	.	Note=Substrate	binding
+P0A7E9	UniProtKB	Region	23	28	.	.	.	Note=Involved	in	allosteric	activation	by	GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P64554	UniProtKB	Region	12	14	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00917
+P64554	UniProtKB	Region	136	138	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00917
+P69811	UniProtKB	Region	156	284	.	.	.	Note=M	domain;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P44715
+P0A7E3	UniProtKB	Region	34	35	.	.	.	Note=Orotate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01208
+P0A7E3	UniProtKB	Region	72	73	.	.	.	Note=5-phosphoribose	1-diphosphate	binding;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01208,ECO:0000305|PubMed:8620002;Dbxref=PMID:8620002
+P0A7E3	UniProtKB	Region	124	132	.	.	.	Note=5-phosphoribose	1-diphosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01208
+P24554	UniProtKB	Region	357	460	.	.	.	Note=Lon-protease-like;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01498,ECO:0000305|PubMed:1327967;Dbxref=PMID:1327967
+P39838	UniProtKB	Region	468	678	.	.	.	Note=Histidine-like	kinase
+P0A9J6	UniProtKB	Region	14	16	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01987,ECO:0000269|PubMed:10438599,ECO:0000269|PubMed:11786021,ECO:0000269|PubMed:9519409;Dbxref=PMID:10438599,PMID:11786021,PMID:9519409
+P0A9J6	UniProtKB	Region	42	46	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01987,ECO:0000269|PubMed:10438599,ECO:0000269|PubMed:11786021,ECO:0000269|PubMed:9519409;Dbxref=PMID:10438599,PMID:11786021,PMID:9519409
+P0A7K2	UniProtKB	Region	54	121	.	.	.	Note=Required	for	recruitment	of	EF-Tu	and	EF-G%2C	and	for	EF-Tu	and	EF-G-promoted	GTP	hydrolysis
+P36999	UniProtKB	Region	96	97	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14999102;Dbxref=PMID:14999102
+P75864	UniProtKB	Region	1	397	.	.	.	Note=RlmL
+P75864	UniProtKB	Region	398	702	.	.	.	Note=RlmK
+P36979	UniProtKB	Region	179	180	.	.	.	Note=S-adenosyl-L-methionine	binding
+P36979	UniProtKB	Region	233	235	.	.	.	Note=S-adenosyl-L-methionine	binding
+P37745	UniProtKB	Region	168	169	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27830	UniProtKB	Region	134	136	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27830	UniProtKB	Region	199	200	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27830	UniProtKB	Region	215	217	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27830	UniProtKB	Region	294	297	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37634	UniProtKB	Region	143	144	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23945937;Dbxref=PMID:23945937
+P37759	UniProtKB	Region	133	135	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37759	UniProtKB	Region	206	207	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37759	UniProtKB	Region	222	224	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37759	UniProtKB	Region	297	300	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P55135	UniProtKB	Region	23	40	.	.	.	Note=Interaction	with	RNA
+P55135	UniProtKB	Region	58	63	.	.	.	Note=Interaction	with	RNA
+P0ADR6	UniProtKB	Region	221	224	.	.	.	Note=S-adenosyl-L-methionine	binding
+P32684	UniProtKB	Region	105	108	.	.	.	Note=Interaction	with	RNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19298824;Dbxref=PMID:19298824
+P32684	UniProtKB	Region	187	190	.	.	.	Note=Interaction	with	RNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19298824;Dbxref=PMID:19298824
+P37760	UniProtKB	Region	104	105	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27431	UniProtKB	Region	125	127	.	.	.	Note=Substrate-binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24814345;Dbxref=PMID:24814345
+P0AGB3	UniProtKB	Region	53	122	.	.	.	Note=Sigma-70	factor	domain-2;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00961
+P0AGB3	UniProtKB	Region	228	280	.	.	.	Note=Sigma-70	factor	domain-4;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00961
+P0A7Z0	UniProtKB	Region	28	31	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12517338;Dbxref=PMID:12517338
+P0A7Z0	UniProtKB	Region	81	84	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12517338;Dbxref=PMID:12517338
+P0A7Z0	UniProtKB	Region	94	97	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12517338;Dbxref=PMID:12517338
+P21513	UniProtKB	Region	57	112	.	.	.	Note=Interaction	with	RNA
+P21513	UniProtKB	Region	169	170	.	.	.	Note=Interaction	with	RNA	5'-terminal	monophosphate
+P21513	UniProtKB	Region	404	407	.	.	.	Note=Required	for	zinc-mediated	homotetramerization	and	catalytic	activity
+P21513	UniProtKB	Region	833	850	.	.	.	Note=Interaction	with	enolase
+P21513	UniProtKB	Region	1021	1061	.	.	.	Note=Interaction	with	PNPase
+P0AGB6	UniProtKB	Region	1	153	.	.	.	Note=Binds	RNAP	core;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12016219;Dbxref=PMID:12016219
+P0AGB6	UniProtKB	Region	25	92	.	.	.	Note=Sigma-70	factor	domain-2
+P0AGB6	UniProtKB	Region	129	180	.	.	.	Note=Sigma-70	factor	domain-4
+P0AG07	UniProtKB	Region	144	147	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AG07	UniProtKB	Region	199	200	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37351	UniProtKB	Region	67	72	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A7Z4	UniProtKB	Region	1	235	.	.	.	Note=Alpha	N-terminal	domain	(alpha-NTD)
+P0A7Z4	UniProtKB	Region	162	165	.	.	.	Note=Required	for	interaction	with	Crp	at	class	II	promoters
+P0A7Z4	UniProtKB	Region	249	329	.	.	.	Note=Alpha	C-terminal	domain	(alpha-CTD)%3B	not	required	for	RNAP	assembly	or	function
+P0AFX9	UniProtKB	Region	24	203	.	.	.	Note=Responsible	for	oligomerization
+P0AFX9	UniProtKB	Region	222	318	.	.	.	Note=Interaction	with	RseA
+P0AG74	UniProtKB	Region	13	16	.	.	.	Note=DNA	binding
+P0AG74	UniProtKB	Region	66	73	.	.	.	Note=DNA	binding
+P14081	UniProtKB	Region	7	14	.	.	.	Note=G1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01059
+P14081	UniProtKB	Region	35	39	.	.	.	Note=G2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01059
+P14081	UniProtKB	Region	57	60	.	.	.	Note=G3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01059
+P14081	UniProtKB	Region	112	115	.	.	.	Note=G4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01059
+P14081	UniProtKB	Region	147	149	.	.	.	Note=G5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01059
+P68567	UniProtKB	Region	101	102	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01523
+P68567	UniProtKB	Region	117	118	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01523
+P68567	UniProtKB	Region	153	154	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01523
+P52045	UniProtKB	Region	64	68	.	.	.	Note=Substrate	binding
+P0AFY8	UniProtKB	Region	87	88	.	.	.	Note=Interaction	with	DNA
+P0AFY8	UniProtKB	Region	116	120	.	.	.	Note=Interaction	with	DNA
+P0AFY8	UniProtKB	Region	150	156	.	.	.	Note=Interaction	with	DNA
+P0AGB0	UniProtKB	Region	10	12	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AGB0	UniProtKB	Region	204	205	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23721	UniProtKB	Region	76	77	.	.	.	Note=Pyridoxal	phosphate	binding
+P23721	UniProtKB	Region	239	240	.	.	.	Note=Pyridoxal	phosphate	binding
+P39362	UniProtKB	Region	140	143	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39362	UniProtKB	Region	191	192	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9K9	UniProtKB	Region	1	69	.	.	.	Note=PPIase	first	part
+P0A9K9	UniProtKB	Region	76	120	.	.	.	Note=IF-chaperone
+P0A9K9	UniProtKB	Region	129	151	.	.	.	Note=PPIase	second	part
+P0A9K9	UniProtKB	Region	152	196	.	.	.	Note=Metal-binding
+P52043	UniProtKB	Region	260	264	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B3EY95
+P0AGC3	UniProtKB	Region	492	582	.	.	.	Note=Slt-type	domain
+P33012	UniProtKB	Region	89	96	.	.	.	Note=Required	for	interaction	with	DNA	gyrase	and	inhibition	of	its	activity
+P0AG90	UniProtKB	Region	279	426	.	.	.	Note=Required	for	protein	export
+P33595	UniProtKB	Region	163	492	.	.	.	Note=Solute-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0AEU7	UniProtKB	Region	97	108	.	.	.	Note=Lipopolysaccharide	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A8M3	UniProtKB	Region	243	534	.	.	.	Note=Catalytic
+P00957	UniProtKB	Region	2	461	.	.	.	Note=Catalytic
+P00957	UniProtKB	Region	553	705	.	.	.	Note=Editing
+P00957	UniProtKB	Region	699	808	.	.	.	Note=Important	for	oligomerization
+P00957	UniProtKB	Region	766	875	.	.	.	Note=C-Ala	domain
+P0A8L1	UniProtKB	Region	237	239	.	.	.	Note=Serine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ADE4	UniProtKB	Region	244	577	.	.	.	Note=Sufficient	for	outer	membrane	targeting
+P0AGL2	UniProtKB	Region	105	107	.	.	.	Note=Substrate	binding
+P0A847	UniProtKB	Region	89	93	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00168
+P0A847	UniProtKB	Region	245	251	.	.	.	Note=RNA	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00168
+P0A847	UniProtKB	Region	269	273	.	.	.	Note=RNA	binding%3B	important	for	wobble	base	34	recognition;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00168
+P30139	UniProtKB	Region	182	183	.	.	.	Note=DXP	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30139	UniProtKB	Region	204	205	.	.	.	Note=DXP	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30137	UniProtKB	Region	37	41	.	.	.	Note=HMP-PP	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30137	UniProtKB	Region	134	136	.	.	.	Note=THZ-P	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30137	UniProtKB	Region	186	187	.	.	.	Note=THZ-P	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P08957	UniProtKB	Region	148	153	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P08957	UniProtKB	Region	178	180	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P25397	UniProtKB	Region	86	87	.	.	.	Note=S-adenosyl-L-methionine
+P30136	UniProtKB	Region	353	355	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00089
+P30136	UniProtKB	Region	394	397	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00089
+P31142	UniProtKB	Region	238	244	.	.	.	Note=Substrate	specificity;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P06612	UniProtKB	Region	192	197	.	.	.	Note=Interaction	with	DNA
+P19934	UniProtKB	Region	48	310	.	.	.	Note=Domain	II	(alpha-helical)
+P19934	UniProtKB	Region	224	292	.	.	.	Note=13	X	tandem	repeats	of	[EDA]-K(1%2C2)-A(2%2C4)
+P19934	UniProtKB	Region	311	421	.	.	.	Note=Domain	III	(functional)
+P23849	UniProtKB	Region	113	118	.	.	.	Note=Selectivity	filter	part	1;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23849	UniProtKB	Region	222	227	.	.	.	Note=Selectivity	filter	part	2;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23849	UniProtKB	Region	319	324	.	.	.	Note=Selectivity	filter	part	3;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P23849	UniProtKB	Region	436	441	.	.	.	Note=Selectivity	filter	part	4;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P02929	UniProtKB	Region	70	81	.	.	.	Note=6	X	2	AA	approximate	tandem	repeats	of	E-P
+P02929	UniProtKB	Region	91	102	.	.	.	Note=6	X	2	AA	tandem	repeats	of	K-P
+P0AFZ7	UniProtKB	Region	110	115	.	.	.	Note=Selectivity	filter	part	1;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFZ7	UniProtKB	Region	219	224	.	.	.	Note=Selectivity	filter	part	2;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFZ7	UniProtKB	Region	317	322	.	.	.	Note=Selectivity	filter	part	3;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFZ7	UniProtKB	Region	434	439	.	.	.	Note=Selectivity	filter	part	4;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A850	UniProtKB	Region	1	112	.	.	.	Note=Ribosome-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14726952;Dbxref=PMID:14726952
+P0A850	UniProtKB	Region	148	251	.	.	.	Note=Dispensable	for	chaperone	activity%2C	although	its	removal	significantly	decreases	antiaggregation	activity;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14726952,ECO:0000269|PubMed:24812405;Dbxref=PMID:14726952,PMID:24812405
+P14294	UniProtKB	Region	194	199	.	.	.	Note=Interaction	with	DNA
+P39301	UniProtKB	Region	86	87	.	.	.	Note=Ascorbate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25686089;Dbxref=PMID:25686089
+P39301	UniProtKB	Region	135	139	.	.	.	Note=Ascorbate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25686089;Dbxref=PMID:25686089
+P39301	UniProtKB	Region	194	195	.	.	.	Note=Ascorbate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25686089;Dbxref=PMID:25686089
+P0A8F0	UniProtKB	Region	130	138	.	.	.	Note=5-phospho-alpha-D-ribose	1-diphosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A8F0	UniProtKB	Region	198	200	.	.	.	Note=Uracil	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P07024	UniProtKB	Region	375	379	.	.	.	Note=Substrate	binding
+P07024	UniProtKB	Region	498	504	.	.	.	Note=Substrate	binding
+P27828	UniProtKB	Region	290	292	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_02028,ECO:0000269|PubMed:11106477,ECO:0000269|PubMed:16021622;Dbxref=PMID:11106477,PMID:16021622
+P0AGF4	UniProtKB	Region	288	294	.	.	.	Note=Monosaccharide	binding
+P0A9M5	UniProtKB	Region	37	38	.	.	.	Note=5-phosphoribose	1-diphosphate	binding
+P0A9M5	UniProtKB	Region	92	96	.	.	.	Note=5-phosphoribose	1-diphosphate	binding
+P38506	UniProtKB	Region	184	189	.	.	.	Note=Interaction	with	DNA
+P27832	UniProtKB	Region	168	174	.	.	.	Note=Acetyl-CoA	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_02027
+P0A8D6	UniProtKB	Region	121	127	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P64581	UniProtKB	Region	1	12	.	.	.	Note=Required	for	binding	to	30S	subunitin	vitro
+P39409	UniProtKB	Region	37	39	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P39409	UniProtKB	Region	174	176	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P77247	UniProtKB	Region	13	15	.	.	.	Note=Substrate	binding
+P77247	UniProtKB	Region	115	116	.	.	.	Note=Substrate	binding
+P42620	UniProtKB	Region	130	133	.	.	.	Note=Glutathione	binding
+P42620	UniProtKB	Region	148	149	.	.	.	Note=Glutathione	binding
+P42620	UniProtKB	Region	203	311	.	.	.	Note=Dimerization
+P31467	UniProtKB	Region	10	12	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ADP0	UniProtKB	Region	16	18	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P64636	UniProtKB	Region	9	11	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A8Y8	UniProtKB	Region	54	55	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25010423;Dbxref=PMID:25010423
+P0A8Y8	UniProtKB	Region	89	92	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25010423;Dbxref=PMID:25010423
+P0AEJ2	UniProtKB	Region	214	215	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20079748;Dbxref=PMID:20079748
+P77488	UniProtKB	Region	121	123	.	.	.	Note=Thiamine	pyrophosphate	binding
+P77488	UniProtKB	Region	153	154	.	.	.	Note=Thiamine	pyrophosphate	binding
+P0A9B6	UniProtKB	Region	154	156	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9B6	UniProtKB	Region	213	214	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0CE48	UniProtKB	Region	19	26	.	.	.	Note=G1;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE48	UniProtKB	Region	60	64	.	.	.	Note=G2;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE48	UniProtKB	Region	81	84	.	.	.	Note=G3;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE48	UniProtKB	Region	136	139	.	.	.	Note=G4;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0CE48	UniProtKB	Region	174	176	.		.	.	Note=G5;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06968	UniProtKB	Region	70	72	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06968	UniProtKB	Region	87	89	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0A6P1	UniProtKB	Region	80	83	.	.	.	Note=Involved	in	Mg(2+)	ion	dislocation	from	EF-Tu
+P10378	UniProtKB	Region	438	439	.	.	.	Note=Phosphopantetheine	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22365602,ECO:0000269|PubMed:23897471;Dbxref=PMID:22365602,PMID:23897471
+P0A9W3	UniProtKB	Region	95	139	.	.	.	Note=Arm
+P0A9W3	UniProtKB	Region	242	322	.	.	.	Note=PtIM
+P0A6P9	UniProtKB	Region	5	34	.	.	.	Note=Interaction	with	RNase	E
+P0A6P9	UniProtKB	Region	369	372	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00318
+P11454	UniProtKB	Region	1	301	.	.	.	Note=Elongation/condensation
+P11454	UniProtKB	Region	482	887	.	.	.	Note=Adenylation
+P11454	UniProtKB	Region	1066	1293	.	.	.	Note=Thioesterase
+P0A8N7	UniProtKB	Region	76	78	.	.	.	Note=Substrate	binding
+P77399	UniProtKB	Region	1	190	.	.	.	Note=Enoyl-CoA	hydratase
+P77399	UniProtKB	Region	306	714	.	.	.	Note=3-hydroxyacyl-CoA	dehydrogenase
+P0A6R0	UniProtKB	Region	245	249	.	.	.	Note=ACP-binding
+P21177	UniProtKB	Region	1	189	.	.	.	Note=Enoyl-CoA	hydratase/isomerase;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01621
+P21177	UniProtKB	Region	311	729	.	.	.	Note=3-hydroxyacyl-CoA	dehydrogenase;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01621
+P0A8V6	UniProtKB	Region	103	107	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11296236;Dbxref=PMID:11296236
+P0A8V6	UniProtKB	Region	215	230	.	.	.	Note=Binds	acyl-CoA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:7836365;Dbxref=PMID:7836365
+P0A993	UniProtKB	Region	3	5	.	.	.	Note=Allosteric	activator	binding
+P0A993	UniProtKB	Region	113	116	.	.	.	Note=Substrate	binding
+P0A993	UniProtKB	Region	257	259	.	.	.	Note=Substrate	binding
+P69902	UniProtKB	Region	17	18	.	.	.	Note=Coenzyme	A	binding
+P69902	UniProtKB	Region	72	75	.	.	.	Note=Coenzyme	A	binding
+P69902	UniProtKB	Region	96	98	.	.	.	Note=Coenzyme	A	binding
+P69902	UniProtKB	Region	137	140	.	.	.	Note=Coenzyme	A	binding
+P69902	UniProtKB	Region	248	250	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P69902	UniProtKB	Region	273	275	.	.	.	Note=Coenzyme	A	binding
+P32177	UniProtKB	Region	260	265	.	.	.	Note=Molybdenum	binding;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_00187,ECO:0000305|PubMed:25649206;Dbxref=PMID:25649206
+P07658	UniProtKB	Region	110	112	.	.	.	Note=MGD	1	binding
+P07658	UniProtKB	Region	173	180	.	.	.	Note=MGD	2	binding
+P07658	UniProtKB	Region	201	204	.	.	.	Note=MGD	2	binding
+P07658	UniProtKB	Region	221	223	.	.	.	Note=MGD	2	binding
+P07658	UniProtKB	Region	402	410	.	.	.	Note=MGD	1	binding
+P07658	UniProtKB	Region	428	429	.	.	.	Note=MGD	1	binding
+P07658	UniProtKB	Region	579	581	.	.	.	Note=MGD	1	binding
+P07658	UniProtKB	Region	581	587	.	.	.	Note=MGD	2	binding
+P07658	UniProtKB	Region	661	662	.	.	.	Note=MGD	1	binding
+P75942	UniProtKB	Region	148	313	.	.	.	Note=Catalytic
+P0ABY2	UniProtKB	Region	1	50	.	.	.	Note=Required	for	homodimerization;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01180
+P0ABY2	UniProtKB	Region	60	98	.	.	.	Note=FliD	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01180
+P0AEN8	UniProtKB	Region	129	131	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P29131	UniProtKB	Region	4	6	.	.	.	Note=Mediates	interaction	with	FtsA;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_02039,ECO:0000269|PubMed:25496259;Dbxref=PMID:25496259
+P29131	UniProtKB	Region	115	150	.	.	.	Note=2	X	6	AA	repeats
+P29131	UniProtKB	Region	197	223	.	.	.	Note=2	X	4	AA	repeats
+P0A9B2	UniProtKB	Region	149	151	.	.	.	Note=Glyceraldehyde	3-phosphate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978154;Dbxref=PMID:10978154
+P0A9B2	UniProtKB	Region	209	210	.	.	.	Note=Glyceraldehyde	3-phosphate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978154;Dbxref=PMID:10978154
+P0A6R3	UniProtKB	Region	17	44	.	.	.	Note=Required	for	the	stimulation	of	HIN-mediated	recombination
+P0A9A9	UniProtKB	Region	2	84	.	.	.	Note=DNA-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9A9	UniProtKB	Region	85	148	.	.	.	Note=Dimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AEM6	UniProtKB	Region	16	88	.	.	.	Note=Sigma-70	factor	domain-2
+P0AEM6	UniProtKB	Region	96	166	.	.	.	Note=Sigma-70	factor	domain-3
+P0AEM6	UniProtKB	Region	185	233	.	.	.	Note=Sigma-70	factor	domain-4
+P23882	UniProtKB	Region	2	189	.	.	.	Note=N-terminal	domain
+P23882	UniProtKB	Region	113	116	.	.	.	Note=Tetrahydrofolate	(THF)	binding
+P23882	UniProtKB	Region	210	315	.	.	.	Note=C-terminal	domain
+P06971	UniProtKB	Region	148	149	.	.	.	Note=Ferrichrome	binding
+P46889	UniProtKB	Region	184	817	.	.	.	Note=Linker
+P46889	UniProtKB	Region	818	943	.	.	.	Note=Alpha
+P46889	UniProtKB	Region	944	1258	.	.	.	Note=Beta
+P46889	UniProtKB	Region	1259	1329	.	.	.	Note=Gamma
+P0AC16	UniProtKB	Region	72	73	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:2O90,ECO:0000305|PubMed:25264482;Dbxref=PMID:25264482
+Q46915	UniProtKB	Region	234	236	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+Q46915	UniProtKB	Region	338	340	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37689	UniProtKB	Region	155	156	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01038
+P37689	UniProtKB	Region	263	266	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01038
+P17115	UniProtKB	Region	68	69	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P17115	UniProtKB	Region	107	116	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P17115	UniProtKB	Region	141	143	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9D2	UniProtKB	Region	65	66	.	.	.	Note=Glutathione	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:9680481;Dbxref=PMID:9680481
+P0A9D2	UniProtKB	Region	103	106	.	.	.	Note=Glutathione	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:9680481;Dbxref=PMID:9680481
+P32056	UniProtKB	Region	2	3	.	.	.	Note=Substrate	binding
+P27249	UniProtKB	Region	1	349	.	.	.	Note=Uridylyltransferase
+P27249	UniProtKB	Region	350	708	.	.	.	Note=Uridylyl-removing
+P0A9C9	UniProtKB	Region	88	90	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19073594;Dbxref=PMID:19073594
+P0A9C9	UniProtKB	Region	164	166	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19073594;Dbxref=PMID:19073594
+P0A9C9	UniProtKB	Region	186	188	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19073594;Dbxref=PMID:19073594
+P75824	UniProtKB	Region	111	213	.	.	.	Note=Oxidoreductase
+P06989	UniProtKB	Region	1	114	.	.	.	Note=Phosphoribosyl-AMP	cyclohydrolase
+P06989	UniProtKB	Region	115	203	.	.	.	Note=Phosphoribosyl-ATP	pyrophosphohydrolase
+P51020	UniProtKB	Region	14	15	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06987	UniProtKB	Region	1	166	.	.	.	Note=Histidinol-phosphatase;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01022
+P06987	UniProtKB	Region	167	355	.	.	.	Note=Imidazoleglycerol-phosphate	dehydratase;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01022
+P67910	UniProtKB	Region	201	204	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10896473;Dbxref=PMID:10896473
+P24232	UniProtKB	Region	1	138	.	.	.	Note=Globin
+P24232	UniProtKB	Region	147	396	.	.	.	Note=Reductase
+P24232	UniProtKB	Region	259	396	.	.	.	Note=NAD	or	NADP-binding
+P16528	UniProtKB	Region	160	161	.	.	.	Note=Glyoxylate	binding
+P16528	UniProtKB	Region	239	241	.	.	.	Note=Glyoxylate	binding
+P0A6Z3	UniProtKB	Region	1	336	.	.	.	Note=A%3B	substrate-binding
+P0A6Z3	UniProtKB	Region	337	552	.	.	.	Note=B
+P0A6Z3	UniProtKB	Region	553	624	.	.	.	Note=C
+P0A6Z3	UniProtKB	Region	585	624	.	.	.	Note=Mediates	dimerization
+P76658	UniProtKB	Region	1	318	.	.	.	Note=Ribokinase
+P76658	UniProtKB	Region	344	477	.	.	.	Note=Cytidylyltransferase
+P0AB77	UniProtKB	Region	111	112	.	.	.	Note=Pyridoxal	phosphate	binding
+P0AB77	UniProtKB	Region	210	213	.	.	.	Note=Pyridoxal	phosphate	binding
+P0AB77	UniProtKB	Region	241	244	.	.	.	Note=Pyridoxal	phosphate	binding
+P0AB77	UniProtKB	Region	274	275	.	.	.	Note=Pyridoxal	phosphate	binding%3B	shared	with	dimeric	partner
+P0A6B7	UniProtKB	Region	75	76	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00331
+P0A6B7	UniProtKB	Region	203	205	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00331,ECO:0000269|PubMed:12860127;Dbxref=PMID:12860127
+P37647	UniProtKB	Region	102	104	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AB74	UniProtKB	Region	209	211	.	.	.	Note=Dihydroxyacetone	phosphate	binding
+P0AB74	UniProtKB	Region	230	233	.	.	.	Note=Dihydroxyacetone	phosphate	binding
+P0AC75	UniProtKB	Region	268	269	.	.	.	Note=CMP-Kdo	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AC75	UniProtKB	Region	309	311	.	.	.	Note=CMP-Kdo	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AC75	UniProtKB	Region	335	338	.	.	.	Note=CMP-Kdo	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABZ4	UniProtKB	Region	32	34	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABZ4	UniProtKB	Region	55	59	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0ABZ4	UniProtKB	Region	76	77	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P45395	UniProtKB	Region	75	76	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P45395	UniProtKB	Region	114	123	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P45395	UniProtKB	Region	148	150	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30131	UniProtKB	Region	19	23	.	.	.	Note=Substrate	binding
+P00893	UniProtKB	Region	397	477	.	.	.	Note=Thiamine	pyrophosphate	binding
+P0ADG7	UniProtKB	Region	338	340	.	.	.	Note=IMP	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01964
+P0ADG7	UniProtKB	Region	361	362	.	.	.	Note=IMP	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01964
+P0ADG7	UniProtKB	Region	385	389	.	.	.	Note=IMP	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01964
+P37595	UniProtKB	Region	207	210	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2ZAL,ECO:0000269|PubMed:15946951;Dbxref=PMID:15946951
+P37595	UniProtKB	Region	230	233	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2ZAL,ECO:0000269|PubMed:15946951;Dbxref=PMID:15946951
+P39377	UniProtKB	Region	75	77	.	.	.	Note=Substrate	binding
+P0A705	UniProtKB	Region	1	103	.	.	.	Note=1
+P0A705	UniProtKB	Region	104	287	.	.	.	Note=2
+P0A705	UniProtKB	Region	288	391	.	.	.	Note=3
+P0A705	UniProtKB	Region	398	405	.	.	.	Note=G1;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A705	UniProtKB	Region	423	427	.	.	.	Note=G2;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A705	UniProtKB	Region	444	447	.	.	.	Note=G3;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A705	UniProtKB	Region	498	501	.	.	.	Note=G4;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A705	UniProtKB	Region	534	536	.	.	.	Note=G5;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A705	UniProtKB	Region	541	668	.	.	.	Note=5
+P0A705	UniProtKB	Region	669	890	.	.	.	Note=6
+P62617	UniProtKB	Region	8	10	.	.	.	Note=Substrate	binding
+P62617	UniProtKB	Region	34	35	.	.	.	Note=Substrate	binding
+P62617	UniProtKB	Region	38	46	.	.	.	Note=Substrate	binding
+P62617	UniProtKB	Region	56	58	.	.	.	Note=Substrate	binding
+P62617	UniProtKB	Region	61	65	.	.	.	Note=Substrate	binding
+P62617	UniProtKB	Region	100	106	.	.	.	Note=Substrate	binding
+P62617	UniProtKB	Region	131	135	.	.	.	Note=Substrate	binding
+P69441	UniProtKB	Region	30	59	.	.	.	Note=NMPbind;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00235,ECO:0000269|PubMed:8805521;Dbxref=PMID:8805521
+P69441	UniProtKB	Region	122	159	.	.	.	Note=LID;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00235,ECO:0000269|PubMed:8805521;Dbxref=PMID:8805521
+P62623	UniProtKB	Region	225	227	.	.	.	Note=Substrate	binding
+P08142	UniProtKB	Region	393	473	.	.	.	Note=Thiamine	pyrophosphate	binding
+P04968	UniProtKB	Region	189	192	.	.	.	Note=Pyridoxal	phosphate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9562556;Dbxref=PMID:9562556
+P03819	UniProtKB	Region	259	267	.	.	.	Note=Important	for	the	regulation	of	potassium	conductance
+P03819	UniProtKB	Region	498	500	.	.	.	Note=Glutathione	binding
+P0A717	UniProtKB	Region	194	196	.	.	.	Note=Ribose-5-phosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00583
+P0A717	UniProtKB	Region	221	228	.	.	.	Note=Ribose-5-phosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00583
+P0A717	UniProtKB	Region	308	310	.	.	.	Note=Ribose-5-phosphate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00583
+P06993	UniProtKB	Region	1	241	.	.	.	Note=DT1
+P06993	UniProtKB	Region	242	436	.	.	.	Note=DT2
+P06993	UniProtKB	Region	437	806	.	.	.	Note=DT3
+P0ABU0	UniProtKB	Region	84	89	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21830810,ECO:0000269|PubMed:23658663;Dbxref=PMID:21830810,PMID:23658663
+P0ABU0	UniProtKB	Region	129	133	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01934,ECO:0000269|PubMed:21830810,ECO:0000269|PubMed:23658663;Dbxref=PMID:21830810,PMID:23658663
+P0ABU0	UniProtKB	Region	154	156	.	.	.	Note=Hydrogencarbonate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01934,ECO:0000269|PubMed:22606952;Dbxref=PMID:22606952
+P77781	UniProtKB	Region	89	92	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01936,ECO:0000269|PubMed:25010423;Dbxref=PMID:25010423
+P77781	UniProtKB	Region	106	111	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01936,ECO:0000269|PubMed:25010423;Dbxref=PMID:25010423
+P07017	UniProtKB	Region	64	73	.	.	.	Note=The	3	Arg	may	form	a	positively	charged	pocket%2C	which	binds	the	alpha-carboxyl	group	of	the	attractant	AA
+P0AE70	UniProtKB	Region	17	28	.	.	.	Note=Loop	1%2C	participates	in	catalytic	activity;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23280569;Dbxref=PMID:23280569
+P0AE70	UniProtKB	Region	53	61	.	.	.	Note=Loop	2%2C	involved	in	substrate	recognition;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23280569;Dbxref=PMID:23280569
+P02942	UniProtKB	Region	64	73	.	.	.	Note=The	3	Arg	may	form	a	positively	charged	pocket%2C	which	binds	the	alpha-carboxyl	group	of	the	attractant	AA
+P76558	UniProtKB	Region	1	428	.	.	.	Note=Malic	enzyme
+P76558	UniProtKB	Region	429	759	.	.	.	Note=Phosphate	acetyltransferase%3B	required	for	oligomerization%2C	inhibition	by	acetyl-CoA	and	activation	by	glutamate%2C	aspartate%2C	and	glucose-6-phosphate
+P37330	UniProtKB	Region	125	126	.	.	.	Note=Acetyl-CoA	binding
+P37330	UniProtKB	Region	452	455	.	.	.	Note=Glyoxylate	binding
+P0AGC5	UniProtKB	Region	22	269	.	.	.	Note=Non-LT	domain
+P0AGC5	UniProtKB	Region	270	518	.	.	.	Note=LT	domain
+P0AEZ7	UniProtKB	Region	113	198	.	.	.	Note=Slt-type	domain
+P16384	UniProtKB	Region	19	24	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P16384	UniProtKB	Region	42	45	.	.	.	Note=Interaction	with	substrate	tRNA
+P16384	UniProtKB	Region	120	124	.	.	.	Note=Interaction	with	substrate	tRNA
+P16384	UniProtKB	Region	166	170	.	.	.	Note=Interaction	with	substrate	tRNA
+P16384	UniProtKB	Region	206	229	.	.	.	Note=Interaction	with	isopentenylpyrophosphattransferase
+P16384	UniProtKB	Region	247	252	.	.	.	Note=Interaction	with	substrate	tRNA
+P16384	UniProtKB	Region	280	287	.	.	.	Note=Interaction	with	substrate	tRNA
+P13009	UniProtKB	Region	834	835	.	.	.	Note=Cobalamin-binding
+P13009	UniProtKB	Region	1189	1190	.	.	.	Note=S-adenosyl-L-methionine	binding
+P77182	UniProtKB	Region	1	245	.	.	.	Note=tRNA	(mnm(5)s(2)U34)-methyltransferase
+P77182	UniProtKB	Region	270	668	.	.	.	Note=FAD-dependent	cmnm(5)s(2)U34	oxidoreductase
+P25745	UniProtKB	Region	97	99	.	.	.	Note=Interaction	with	target	base	in	tRNA
+P25745	UniProtKB	Region	149	151	.	.	.	Note=Interaction	with	tRNA
+P25745	UniProtKB	Region	243	252	.	.	.	Note=Interaction	with	tRNA
+P25745	UniProtKB	Region	311	312	.	.	.	Note=Interaction	with	tRNA
+P0A9G8	UniProtKB	Region	1	121	.	.	.	Note=I
+P0A9G8	UniProtKB	Region	122	183	.	.	.	Note=IIA	(MOP1A)
+P0A9G8	UniProtKB	Region	125	133	.	.	.	Note=Required	for	dimer	formation	and	molybdate	binding
+P0A9G8	UniProtKB	Region	184	255	.	.	.	Note=IIB	(MOP2)
+P0A9G8	UniProtKB	Region	256	262	.	.	.	Note=IIA	(MOP1B)
+P27278	UniProtKB	Region	63	229	.	.	.	Note=Nicotinamide	mononucleotide	adenylyltransferase
+P27278	UniProtKB	Region	230	410	.	.	.	Note=Ribosylnicotinamide	kinase
+P22634	UniProtKB	Region	28	29	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:2JFN,ECO:0000255|HAMAP-Rule:MF_00258,ECO:0000269|PubMed:17568739;Dbxref=PMID:17568739
+P22634	UniProtKB	Region	60	61	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:2JFN,ECO:0000255|HAMAP-Rule:MF_00258,ECO:0000269|PubMed:17568739;Dbxref=PMID:17568739
+P22634	UniProtKB	Region	93	94	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:2JFN,ECO:0000255|HAMAP-Rule:MF_00258,ECO:0000269|PubMed:17568739;Dbxref=PMID:17568739
+P22634	UniProtKB	Region	113	119	.	.	.	Note=UDP-MurNAc-Ala	binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2JFN,ECO:0000269|PubMed:17568739;Dbxref=PMID:17568739
+P22634	UniProtKB	Region	205	206	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:2JFN,ECO:0000255|HAMAP-Rule:MF_00258,ECO:0000269|PubMed:17568739;Dbxref=PMID:17568739
+P0AF24	UniProtKB	Region	42	43	.	.	.	Note=Substrate	binding
+P0AF24	UniProtKB	Region	202	205	.	.	.	Note=Substrate	binding
+P39411	UniProtKB	Region	8	13	.	.	.	Note=Substrate	binding
+P39411	UniProtKB	Region	68	69	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30011	UniProtKB	Region	152	154	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30011	UniProtKB	Region	259	261	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P30011	UniProtKB	Region	280	282	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A6L4	UniProtKB	Region	47	48	.	.	.	Note=Substrate	binding
+P08337	UniProtKB	Region	6	8	.	.	.	Note=Substrate	binding
+P08337	UniProtKB	Region	34	38	.	.	.	Note=Substrate	binding
+P75949	UniProtKB	Region	163	164	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00364
+P0ADA3	UniProtKB	Region	66	97	.	.	.	Note=4	X	8	AA	tandem	repeats	of	Q-Q-P-Q-I-Q-P-V
+P0ADA3	UniProtKB	Region	205	252	.	.	.	Note=4	X	7	AA	approximate	repeats
+Q46877	UniProtKB	Region	30	210	.	.	.	Note=Zinc	metallo-hydrolase
+P31806	UniProtKB	Region	1	227	.	.	.	Note=NAD(P)H-hydrate	epimerase;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31806	UniProtKB	Region	71	75	.	.	.	Note=NAD(P)HX	(for	epimerase	activity);Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31806	UniProtKB	Region	139	145	.	.	.	Note=NAD(P)HX	(for	epimerase	activity);Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31806	UniProtKB	Region	235	515	.	.	.	Note=ADP-dependent	(S)-NAD(P)H-hydrate	dehydratase;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P31806	UniProtKB	Region	375	381	.	.	.	Note=NAD(P)HX	(for	dehydratase	activity);Ontology_term=ECO:0000250;evidence=ECO:0000250
+P13738	UniProtKB	Region	45	58	.	.	.	Note=Important	for	dimerization
+P0AF18	UniProtKB	Region	142	143	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17567048;Dbxref=PMID:17567048
+P0AF18	UniProtKB	Region	219	220	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17567048;Dbxref=PMID:17567048
+P0AF18	UniProtKB	Region	248	251	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17567048;Dbxref=PMID:17567048
+P0AF18	UniProtKB	Region	306	308	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17567048;Dbxref=PMID:17567048
+P77258	UniProtKB	Region	182	185	.	.	.	Note=Substrate-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9N8	UniProtKB	Region	32	34	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P40710	UniProtKB	Region	21	100	.	.	.	Note=N-terminal	domain;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17698001;Dbxref=PMID:17698001
+P40710	UniProtKB	Region	126	236	.	.	.	Note=C-terminal	domain;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17698001;Dbxref=PMID:17698001
+P40710	UniProtKB	Region	144	156	.	.	.	Note=Could	contain	a	copper-binding	motif;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7635807;Dbxref=PMID:7635807
+P37013	UniProtKB	Region	1	186	.	.	.	Note=NO	sensor	or	transducer;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P06959	UniProtKB	Region	317	630	.	.	.	Note=Subunit	binding%2C	catalytic
+P06959	UniProtKB	Region	373	389	.	.	.	Note=Hydrophobic
+P06959	UniProtKB	Region	542	567	.	.	.	Note=Hydrophobic
+P31678	UniProtKB	Region	20	22	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P05041	UniProtKB	Region	43	46	.	.	.	Note=Tryptophan	binding
+P05041	UniProtKB	Region	240	242	.	.	.	Note=Tryptophan	binding
+P04391	UniProtKB	Region	56	60	.	.	.	Note=Carbamoyl	phosphate	binding
+P04391	UniProtKB	Region	134	137	.	.	.	Note=Carbamoyl	phosphate	binding
+P04391	UniProtKB	Region	236	237	.	.	.	Note=Ornithine	binding
+P04391	UniProtKB	Region	273	276	.	.	.	Note=Carbamoyl	phosphate	binding
+P06960	UniProtKB	Region	56	60	.	.	.	Note=Carbamoyl	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06960	UniProtKB	Region	134	137	.	.	.	Note=Carbamoyl	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06960	UniProtKB	Region	236	237	.	.	.	Note=Ornithine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P06960	UniProtKB	Region	273	276	.	.	.	Note=Carbamoyl	phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P76079	UniProtKB	Region	76	79	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P76079	UniProtKB	Region	177	179	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77455	UniProtKB	Region	1	333	.	.	.	Note=Aldehyde	dehydrogenase
+P31677	UniProtKB	Region	22	23	.	.	.	Note=UDP-glucose	binding
+P31677	UniProtKB	Region	366	370	.	.	.	Note=UDP-glucose	binding
+P0AFI0	UniProtKB	Region	261	265	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0AFI0	UniProtKB	Region	396	398	.	.	.	Note=Thiamine	pyrophosphate	binding
+P0AFI0	UniProtKB	Region	403	404	.	.	.	Note=Substrate	binding
+P0AFI0	UniProtKB	Region	421	423	.	.	.	Note=Thiamine	pyrophosphate	binding
+P0AFI0	UniProtKB	Region	448	449	.	.	.	Note=Thiamine	pyrophosphate	binding
+P0AFI0	UniProtKB	Region	550	552	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P37613	UniProtKB	Region	66	68	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_02018,ECO:0000269|Ref.5
+P37613	UniProtKB	Region	72	79	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_02018,ECO:0000269|Ref.5
+P02919	UniProtKB	Region	88	250	.	.	.	Note=Membrane	association
+P02919	UniProtKB	Region	109	200	.	.	.	Note=UvrB	domain	2	homolog
+P02919	UniProtKB	Region	195	367	.	.	.	Note=Transglycosylase
+P02919	UniProtKB	Region	444	736	.	.	.	Note=Transpeptidase
+P76081	UniProtKB	Region	112	228	.	.	.	Note=Oxidoreductase;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P31057	UniProtKB	Region	45	46	.	.	.	Note=Alpha-ketoisovalerate	binding
+P77150	UniProtKB	Region	45	46	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15547280;Dbxref=PMID:15547280
+P76077	UniProtKB	Region	103	106	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21247899;Dbxref=PMID:21247899
+P76077	UniProtKB	Region	202	204	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21247899;Dbxref=PMID:21247899
+P0A790	UniProtKB	Region	73	75	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFI2	UniProtKB	Region	497	752	.	.	.	Note=Sufficient	for	MukB	binding
+P0A794	UniProtKB	Region	11	12	.	.	.	Note=1-deoxy-D-xylulose	5-phosphate	binding
+P0A794	UniProtKB	Region	215	216	.	.	.	Note=3-amino-2-oxopropyl	phosphate	binding
+P02918	UniProtKB	Region	48	216	.	.	.	Note=Transglycosylase
+P02918	UniProtKB	Region	400	710	.	.	.	Note=Transpeptidase
+P76577	UniProtKB	Region	43	213	.	.	.	Note=Transglycosylase
+P76577	UniProtKB	Region	278	559	.	.	.	Note=Transpeptidase
+P0A796	UniProtKB	Region	22	26	.	.	.	Note=Allosteric	activator	ADP	binding%3B	shared	with	dimeric	partner;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00339,ECO:0000269|PubMed:2975709;Dbxref=PMID:2975709
+P0A796	UniProtKB	Region	55	60	.	.	.	Note=Allosteric	activator	ADP	binding%3B	shared	with	dimeric	partner;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00339,ECO:0000269|PubMed:2975709;Dbxref=PMID:2975709
+P0A796	UniProtKB	Region	126	128	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00339,ECO:0000269|PubMed:2975709;Dbxref=PMID:2975709
+P0A796	UniProtKB	Region	170	172	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P00512,ECO:0000255|HAMAP-Rule:MF_00339
+P0A796	UniProtKB	Region	186	188	.	.	.	Note=Allosteric	activator	ADP	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00339,ECO:0000269|PubMed:2975709;Dbxref=PMID:2975709
+P0A796	UniProtKB	Region	214	216	.	.	.	Note=Allosteric	activator	ADP	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00339,ECO:0000269|PubMed:2975709;Dbxref=PMID:2975709
+P0A796	UniProtKB	Region	250	253	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00339,ECO:0000269|PubMed:2975709;Dbxref=PMID:2975709
+P0A9N4	UniProtKB	Region	36	38	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18852451;Dbxref=PMID:18852451
+P0A9N4	UniProtKB	Region	130	132	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18852451;Dbxref=PMID:18852451
+P0A799	UniProtKB	Region	21	23	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A799	UniProtKB	Region	59	62	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P36938	UniProtKB	Region	146	147	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00949
+P36938	UniProtKB	Region	308	309	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00949
+P36938	UniProtKB	Region	390	392	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00949
+P32675	UniProtKB	Region	53	55	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P32675	UniProtKB	Region	175	177	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P0A9J8	UniProtKB	Region	286	386	.	.	.	Note=Regulatory	(Phe-binding)
+P75794	UniProtKB	Region	31	33	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P75794	UniProtKB	Region	181	183	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9N4
+P06999	UniProtKB	Region	12	14	.	.	.	Note=Substrate	binding
+P06999	UniProtKB	Region	27	29	.	.	.	Note=Substrate	binding
+P06999	UniProtKB	Region	39	43	.	.	.	Note=Substrate	binding
+P06999	UniProtKB	Region	90	92	.	.	.	Note=Substrate	binding
+P06999	UniProtKB	Region	187	189	.	.	.	Note=Allosteric	inhibitor	ATP	binding
+P0AFI7	UniProtKB	Region	14	17	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11786019;Dbxref=PMID:11786019
+P0AFI7	UniProtKB	Region	197	199	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11786019;Dbxref=PMID:11786019
+P77541	UniProtKB	Region	45	47	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01939,ECO:0000269|PubMed:15723538;Dbxref=PMID:15723538
+P77541	UniProtKB	Region	123	124	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01939,ECO:0000269|PubMed:15723538;Dbxref=PMID:15723538
+P77541	UniProtKB	Region	210	212	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01939,ECO:0000269|PubMed:15723538;Dbxref=PMID:15723538
+P0AFM2	UniProtKB	Region	161	163	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14612446;Dbxref=PMID:14612446
+P08839	UniProtKB	Region	454	455	.	.	.	Note=PEP	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17053069;Dbxref=PMID:17053069
+P31660	UniProtKB	Region	268	272	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O34002
+P25889	UniProtKB	Region	134	136	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P25889	UniProtKB	Region	201	202	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9M8	UniProtKB	Region	391	714	.	.	.	Note=Phosphate	acetyltransferase
+P0AG82	UniProtKB	Region	34	36	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WGT7
+P0AG82	UniProtKB	Region	164	166	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WGT7
+P69797	UniProtKB	Region	137	155	.	.	.	Note=Hinge;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:2681202;Dbxref=PMID:2681202
+P32670	UniProtKB	Region	143	653	.	.	.	Note=PTS	EI;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:7773398;Dbxref=PMID:7773398
+P32670	UniProtKB	Region	566	567	.	.	.	Note=PEP	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P08839
+P08179	UniProtKB	Region	11	13	.	.	.	Note=5'-phosphoribosylglycinamide	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01930,ECO:0000269|PubMed:10606510,ECO:0000269|PubMed:1631098;Dbxref=PMID:10606510,PMID:1631098
+P08179	UniProtKB	Region	89	92	.	.	.	Note=10-formyltetrahydrofolate	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01930,ECO:0000269|PubMed:10606510,ECO:0000269|PubMed:1631098;Dbxref=PMID:10606510,PMID:1631098
+P08179	UniProtKB	Region	140	144	.	.	.	Note=10-formyltetrahydrofolate	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10606510,ECO:0000269|PubMed:1631098;Dbxref=PMID:10606510,PMID:1631098
+P08179	UniProtKB	Region	170	173	.	.	.	Note=5'-phosphoribosylglycinamide	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10606510,ECO:0000269|PubMed:1631098;Dbxref=PMID:10606510,PMID:1631098
+P0ACC1	UniProtKB	Region	117	121	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_02126,ECO:0000305|PubMed:15223314;Dbxref=PMID:15223314
+P0ACC1	UniProtKB	Region	183	186	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16364916;Dbxref=PMID:16364916
+P33025	UniProtKB	Region	147	149	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01876,ECO:0000269|PubMed:23066817;Dbxref=PMID:23066817
+P0AB89	UniProtKB	Region	15	16	.	.	.	Note=Substrate	binding
+P0AB89	UniProtKB	Region	90	92	.	.	.	Note=Substrate	binding
+P0AB89	UniProtKB	Region	122	123	.	.	.	Note=Substrate	binding
+P0AB89	UniProtKB	Region	301	303	.	.	.	Note=Substrate	binding
+P0AB89	UniProtKB	Region	340	344	.	.	.	Note=Substrate	binding
+P33221	UniProtKB	Region	22	23	.	.	.	Note=5'-phosphoribosylglycinamide	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10913290,ECO:0000269|PubMed:11953435;Dbxref=PMID:10913290,PMID:11953435
+P33221	UniProtKB	Region	362	363	.	.	.	Note=5'-phosphoribosylglycinamide	binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10913290,ECO:0000269|PubMed:11953435;Dbxref=PMID:10913290,PMID:11953435
+P23830	UniProtKB	Region	119	154	.	.	.	Note=Hydrophobic
+P23830	UniProtKB	Region	239	284	.	.	.	Note=Hydrophobic
+P37177	UniProtKB	Region	128	170	.	.	.	Note=Linker;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:8973315;Dbxref=PMID:8973315
+P37177	UniProtKB	Region	171	748	.	.	.	Note=PTS	EI;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:8973315;Dbxref=PMID:8973315
+P37177	UniProtKB	Region	620	621	.	.	.	Note=PEP	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P08839
+P04982	UniProtKB	Region	128	130	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P32156	UniProtKB	Region	76	77	.	.	.	Note=Substrate	binding
+P0AG30	UniProtKB	Region	61	66	.	.	.	Note=RNA-binding	1
+P0AG30	UniProtKB	Region	78	80	.	.	.	Note=RNA-binding	1
+P0AG30	UniProtKB	Region	108	110	.	.	.	Note=RNA-binding	1
+P0AG30	UniProtKB	Region	284	288	.	.	.	Note=RNA-binding	2
+P16916	UniProtKB	Region	330	1186	.	.	.	Note=28	X	approximate	tandem	repeats
+P16917	UniProtKB	Region	330	1186	.	.	.	Note=28	X	approximate	tandem	repeats
+P0A7J0	UniProtKB	Region	37	38	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A7J0	UniProtKB	Region	150	154	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P00452	UniProtKB	Region	15	21	.	.	.	Note=Allosteric	activator	binding
+P00452	UniProtKB	Region	224	225	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P00452	UniProtKB	Region	437	441	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P00452	UniProtKB	Region	621	625	.	.	.	Note=Substrate	binding
+P39452	UniProtKB	Region	177	178	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Region	386	390	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P39452	UniProtKB	Region	588	592	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P61714	UniProtKB	Region	57	59	.	.	.	Note=5-amino-6-(D-ribitylamino)uracil	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P61714	UniProtKB	Region	81	83	.	.	.	Note=5-amino-6-(D-ribitylamino)uracil	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P61714	UniProtKB	Region	86	87	.	.	.	Note=1-deoxy-L-glycero-tetrulose	4-phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFU8	UniProtKB	Region	4	6	.	.	.	Note=Substrate	1	binding;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:Q2YN92,ECO:0000305|PubMed:12927541;Dbxref=PMID:12927541
+P0AFU8	UniProtKB	Region	48	50	.	.	.	Note=Substrate	2	binding%3B	shared	with	one	trimeric	partner;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:Q2YN92,ECO:0000305|PubMed:12927541;Dbxref=PMID:12927541
+P0AFU8	UniProtKB	Region	62	67	.	.	.	Note=Substrate	2	binding%3B	shared	with	one	trimeric	partner;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:Q2YN92,ECO:0000305|PubMed:12927541;Dbxref=PMID:12927541
+P0AFU8	UniProtKB	Region	101	103	.	.	.	Note=Substrate	2	binding%3B	shared	with	one	trimeric	partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2YN92
+P0AFU8	UniProtKB	Region	146	148	.	.	.	Note=Substrate	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2YN92
+P0AFU8	UniProtKB	Region	160	165	.	.	.	Note=Substrate	1	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2YN92
+P32171	UniProtKB	Region	236	238	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01535,ECO:0000269|PubMed:16674975;Dbxref=PMID:16674975
+P25539	UniProtKB	Region	1	145	.	.	.	Note=Deaminase
+P25539	UniProtKB	Region	146	367	.	.	.	Note=Reductase
+P69411	UniProtKB	Region	32	50	.	.	.	Note=PRR
+P08394	UniProtKB	Region	2	927	.	.	.	Note=ATPase%2C	DNA-binding	and	helicase	activity%2C	interacts	with	RecC
+P08394	UniProtKB	Region	928	1180	.	.	.	Note=Nuclease	activity%2C	interacts	with	RecD	and	RecA
+P0A894	UniProtKB	Region	266	284	.	.	.	Note=RNA-binding;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_00636,ECO:0000305|PubMed:23475961;Dbxref=PMID:23475961
+P52061	UniProtKB	Region	8	13	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01405
+P52061	UniProtKB	Region	69	70	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01405
+P16918	UniProtKB	Region	330	1186	.	.	.	Note=28	X	approximate	tandem	repeats
+P0C018	UniProtKB	Region	1	17	.	.	.	Note=Required	for	binding	of	the	5S	rRNA/L5/L18	complex	to	the	23S	rRNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:353728;Dbxref=PMID:353728
+P00579	UniProtKB	Region	2	80	.	.	.	Note=Sigma-70	factor	domain-1
+P00579	UniProtKB	Region	379	449	.	.	.	Note=Sigma-70	factor	domain-2
+P00579	UniProtKB	Region	458	534	.	.	.	Note=Sigma-70	factor	domain-3
+P00579	UniProtKB	Region	547	600	.	.	.	Note=Sigma-70	factor	domain-4
+P00579	UniProtKB	Region	584	599	.	.	.	Note=Interaction	with	anti-sigma	factors
+P13445	UniProtKB	Region	56	89	.	.	.	Note=Sigma-70	factor	domain-1
+P13445	UniProtKB	Region	94	164	.	.	.	Note=Sigma-70	factor	domain-2
+P13445	UniProtKB	Region	174	249	.	.	.	Note=Sigma-70	factor	domain-3
+P13445	UniProtKB	Region	262	315	.	.	.	Note=Sigma-70	factor	domain-4
+P0A6U5	UniProtKB	Region	124	125	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00074
+P60390	UniProtKB	Region	35	37	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77223	UniProtKB	Region	1	26	.	.	.	Note=Hydrophobic;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00463
+P36929	UniProtKB	Region	254	260	.	.	.	Note=S-adenosyl-L-methionine	binding
+P0AFX7	UniProtKB	Region	1	97	.	.	.	Note=Sufficient	to	repress	sigma-E
+P0AFX7	UniProtKB	Region	169	186	.	.	.	Note=Primary	binding	site	for	RseB
+P0AFX7	UniProtKB	Region	190	200	.	.	.	Note=Poly-Gln	(Q2)
+P76273	UniProtKB	Region	125	131	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFX4	UniProtKB	Region	59	71	.	.	.	Note=Interaction	with	RpoD
+P0AFX4	UniProtKB	Region	101	108	.	.	.	Note=Interaction	with	RpoD
+P39286	UniProtKB	Region	1	113	.	.	.	Note=Necessary	for	association	with	the	ribosome
+P39286	UniProtKB	Region	1	20	.	.	.	Note=Necessary	for	GMP-PNP-dependent	association	with	the	30S	ribosomal	subunit
+P0AFZ5	UniProtKB	Region	106	112	.	.	.	Note=FtsZ	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0AFZ5	UniProtKB	Region	162	169	.	.	.	Note=Lon	protease	binding
+P21170	UniProtKB	Region	307	317	.	.	.	Note=Substrate-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P32138	UniProtKB	Region	301	304	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26878550;Dbxref=PMID:26878550
+P0ACS2	UniProtKB	Region	119	130	.	.	.	Note=Might	be	part	of	a	sensor	region
+P09158	UniProtKB	Region	53	54	.	.	.	Note=Polyamine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00198
+P09158	UniProtKB	Region	140	141	.	.	.	Note=S-adenosylmethioninamine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00198
+P09158	UniProtKB	Region	159	161	.	.	.	Note=Polyamine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00198
+P0AFZ3	UniProtKB	Region	73	95	.	.	.	Note=Binds	SspB
+P0AFZ3	UniProtKB	Region	128	165	.	.	.	Note=Required	for	interaction	with	ClpX%2Cnot	required	for	ssrA	tag	recognition	or	dimerization
+P0AGE9	UniProtKB	Region	17	20	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01988,ECO:0000269|PubMed:10625475,ECO:0000269|PubMed:11781092,ECO:0000269|PubMed:8144675,ECO:0000269|PubMed:9917402;Dbxref=PMID:10625475,PMID:11781092,PMID:8144675,PMID:9917402
+P0AGE9	UniProtKB	Region	96	98	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01988,ECO:0000269|PubMed:10625475,ECO:0000269|PubMed:11781092,ECO:0000269|PubMed:8144675,ECO:0000269|PubMed:9917402;Dbxref=PMID:10625475,PMID:11781092,PMID:8144675,PMID:9917402
+P21889	UniProtKB	Region	195	198	.	.	.	Note=Aspartate;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00044
+P0A836	UniProtKB	Region	321	323	.	.	.	Note=Substrate	binding%3B	shared	with	subunitalpha;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00558
+P0ADG4	UniProtKB	Region	86	89	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P75792	UniProtKB	Region	44	45	.	.	.	Note=Phosphate	binding
+P0A858	UniProtKB	Region	9	11	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00147
+P0A858	UniProtKB	Region	233	234	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00147
+P76562	UniProtKB	Region	461	463	.	.	.	Note=Acetyl-CoA	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01886,ECO:0000269|PubMed:19322199;Dbxref=PMID:19322199
+P76562	UniProtKB	Region	468	474	.	.	.	Note=Acetyl-CoA	binding;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_01886,ECO:0000269|PubMed:19322199;Dbxref=PMID:19322199
+P0A8I5	UniProtKB	Region	150	155	.	.	.	Note=Interaction	with	RNA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01057
+P0A8I5	UniProtKB	Region	217	220	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01057
+P62601	UniProtKB	Region	175	176	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01059
+P62601	UniProtKB	Region	221	223	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01059
+P62601	UniProtKB	Region	292	294	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01059
+P0A873	UniProtKB	Region	133	138	.	.	.	Note=S-adenosyl-L-methionine	binding
+P00904	UniProtKB	Region	57	59	.	.	.	Note=Glutamine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00900
+P00904	UniProtKB	Region	134	135	.	.	.	Note=Glutamine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00900
+P00904	UniProtKB	Region	202	531	.	.	.	Note=Anthranilate	phosphoribosyltransferase
+P13482	UniProtKB	Region	159	160	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P13482	UniProtKB	Region	205	207	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P13482	UniProtKB	Region	277	279	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P36673	UniProtKB	Region	71	77	.	.	.	Note=Trehalose-6-phosphate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9865945;Dbxref=PMID:9865945
+P36673	UniProtKB	Region	187	190	.	.	.	Note=Trehalose-6-phosphate	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9865945;Dbxref=PMID:9865945
+P28634	UniProtKB	Region	23	25	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P28634	UniProtKB	Region	64	65	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P28634	UniProtKB	Region	127	130	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P60340	UniProtKB	Region	124	152	.	.	.	Note=RNA	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P00895	UniProtKB	Region	291	293	.	.	.	Note=Tryptophan	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00897
+P00895	UniProtKB	Region	328	329	.	.	.	Note=Chorismate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00897
+P00895	UniProtKB	Region	483	485	.	.	.	Note=Chorismate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00897
+P00909	UniProtKB	Region	1	257	.	.	.	Note=Indole-3-glycerol	phosphate	synthase
+P00909	UniProtKB	Region	258	453	.	.	.	Note=N-(5'-phosphoribosyl)anthranilate	isomerase
+P07649	UniProtKB	Region	107	111	.	.	.	Note=RNA	binding
+P07649	UniProtKB	Region	168	172	.	.	.	Note=Interaction	with	tRNA
+P0A887	UniProtKB	Region	123	124	.	.	.	Note=S-adenosyl-L-methionine	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01813
+Q57261	UniProtKB	Region	180	187	.	.	.	Note=RNA	binding;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P05852	UniProtKB	Region	134	138	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01445
+P0AAB4	UniProtKB	Region	175	180	.	.	.	Note=prenyl-FMN	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01636
+P0AAB4	UniProtKB	Region	197	198	.	.	.	Note=prenyl-FMN	binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01636
+P45508	UniProtKB	Region	919	948	.	.	.	Note=15	X	2	AA	approximate	tandem	repeats	of	[DTPE]-P
+P77625	UniProtKB	Region	9	11	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P77526	UniProtKB	Region	71	72	.	.	.	Note=Glutathione	1	binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19537707;Dbxref=PMID:19537707
+P0AD49	UniProtKB	Region	23	26	.	.	.	Note=Interaction	with	16S	rRNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25775268;Dbxref=PMID:25775268
+P0AD49	UniProtKB	Region	83	91	.	.	.	Note=Interaction	with	16S	rRNA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25775268;Dbxref=PMID:25775268
+P75809	UniProtKB	Region	44	45	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A9E9	UniProtKB	Region	19	97	.	.	.	Note=Sensory	domain;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A9E9	UniProtKB	Region	111	131	.	.	.	Note=Dimer	interface;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A8H6	UniProtKB	Region	1	45	.	.	.	Note=Not	required	for	interaction	with	Der/Enga
+P0A8H6	UniProtKB	Region	17	45	.	.	.	Note=Arg/Lys	rich
+P0A8H6	UniProtKB	Region	148	157	.	.	.	Note=Asp/Glu	rich
+P0A8Y3	UniProtKB	Region	6	8	.	.	.	Note=Substrate	binding
+P0A8Y3	UniProtKB	Region	107	108	.	.	.	Note=Substrate	binding
+P77475	UniProtKB	Region	11	13	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P0A8Y5	UniProtKB	Region	43	44	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P27848	UniProtKB	Region	42	43	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P75804	UniProtKB	Region	214	215	.	.	.	Note=PQQ
+P75804	UniProtKB	Region	312	314	.	.	.	Note=PQQ
+P75804	UniProtKB	Region	341	343	.	.	.	Note=PQQ
+P25714	UniProtKB	Region	24	264	.	.	.	Note=Can	be	removed	without	causing	lethality%2C	dispensible	for	M13	procoat	processing
+P25714	UniProtKB	Region	215	265	.	.	.	Note=Interaction	with	SecF%3B	not	requirefor	insertion	of	a	number	of	Sec-dependent	or	Sec-independent	substrates
+P25714	UniProtKB	Region	265	346	.	.	.	Note=Required	for	Sec-dependent	and	Sec-independent	protein	insertion
+P25714	UniProtKB	Region	527	548	.	.	.	Note=Can	be	removed	without	causing	lethality%2C	dispensible	for	M13	procoat	processing
+P0ACA1	UniProtKB	Region	62	63	.	.	.	Note=Glutathione	binding
+P21829	UniProtKB	Region	43	44	.	.	.	Note=Phosphate	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+P52062	UniProtKB	Region	67	68	.	.	.	Note=S-adenosyl-L-methionine	2	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250
+Q46845	UniProtKB	Region	52	54	.	.	.	Note=Glutathione	1	binding
+Q46845	UniProtKB	Region	117	118	.	.	.	Note=Glutathione	1	binding
+P42592	UniProtKB	Region	24	254	.	.	.	Note=N-terminal	domain
+P42592	UniProtKB	Region	254	299	.	.	.	Note=Linker
+P42592	UniProtKB	Region	300	783	.	.	.	Note=A	domain
+P76117	UniProtKB	Region	66	67	.	.	.	Note=Glutathione	binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0A9D2
+A0A0B0Z4G2	UniProtKB	Region	128	130	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|PIRSR:PIRSR000109-2
+A0A0B0Z4G2	UniProtKB	Region	186	187	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|PIRSR:PIRSR000109-2
+O66227	UniProtKB	Region	128	130	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|PIRSR:PIRSR000109-2
+O66227	UniProtKB	Region	186	187	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|PIRSR:PIRSR000109-2
+G0ZKW2	UniProtKB	Region	538	541	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_01687
+B8LFD6	UniProtKB	Region	538	541	.	.	.	Note=Substrate	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_01687
+A0A085P8W4	UniProtKB	Region	66	68	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_02018
+A0A085P8W4	UniProtKB	Region	72	79	.	.	.	Note=Coenzyme	A	binding;Ontology_term=ECO:0000256;evidence=ECO:0000256|HAMAP-Rule:MF_0201

@@ -1,0 +1,21 @@
+P08622	UniProtKB	Zinc	finger	131	209	.	.	.	Note=CR-type
+P0A9Q5	UniProtKB	Zinc	finger	27	49	.	.	.	Note=C4-type;Ontology_term=ECO:0000305;evidence=ECO:0000305
+P0A6H1	UniProtKB	Zinc	finger	15	40	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00175
+P0ABS1	UniProtKB	Zinc	finger	114	138	.	.	.	Note=dksA	C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00926
+P0ABS5	UniProtKB	Zinc	finger	40	64	.	.	.	Note=CHC2-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00974
+P0A7H6	UniProtKB	Zinc	finger	57	72	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00017
+P24554	UniProtKB	Zinc	finger	11	28	.	.	.	Note=C4-type;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01498,ECO:0000305|PubMed:1327967;Dbxref=PMID:1327967
+P06612	UniProtKB	Zinc	finger	599	630	.	.	.	Note=C4-type	1
+P06612	UniProtKB	Zinc	finger	662	689	.	.	.	Note=C4-type	2
+P06612	UniProtKB	Zinc	finger	711	736	.	.	.	Note=C4-type	3
+P0AGG4	UniProtKB	Zinc	finger	5	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A698	UniProtKB	Zinc	finger	253	280	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00205
+P0A698	UniProtKB	Zinc	finger	740	766	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00205
+P50465	UniProtKB	Zinc	finger	229	263	.	.	.	Note=FPG-type
+P05523	UniProtKB	Zinc	finger	235	269	.	.	.	Note=FPG-type
+P30131	UniProtKB	Zinc	finger	109	134	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P30131	UniProtKB	Zinc	finger	159	184	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255
+P0A8D0	UniProtKB	Zinc	finger	3	34	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250
+P17888	UniProtKB	Zinc	finger	436	448	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00983
+P17888	UniProtKB	Zinc	finger	463	479	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00983
+P41039	UniProtKB	Zinc	finger	39	63	.	.	.	Note=dksA	C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00510

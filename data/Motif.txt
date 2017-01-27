@@ -1,0 +1,114 @@
+P0AES4	UniProtKB	Motif	560	566	.	.	.	Note=GyrA-box;Ontology_term=ECO:0000255,ECO:0000303;evidence=ECO:0000255|HAMAP-Rule:MF_01897,ECO:0000303|PubMed:9426128;Dbxref=PMID:9426128
+Q93K97	UniProtKB	Motif	97	118	.	.	.	Note=Nudix	box
+P23872	UniProtKB	Motif	91	93	.	.	.	Note=Involved	in	the	stabilization	of	the	negatively	charged	intermediate	by	the	formation	of	the	oxyanion	hole;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5NUF3
+P60844	UniProtKB	Motif	63	65	.	.	.	Note=NPA	1
+P60844	UniProtKB	Motif	186	188	.	.	.	Note=NPA	2
+P06129	UniProtKB	Motif	26	33	.	.	.	Note=TonB	box
+P06129	UniProtKB	Motif	597	614	.	.	.	Note=TonB	C-terminal	box
+P38036	UniProtKB	Motif	452	455	.	.	.	Note=DEAH	box
+P37019	UniProtKB	Motif	106	110	.	.	.	Note=Selectivity	filter	part_1
+P37019	UniProtKB	Motif	146	150	.	.	.	Note=Selectivity	filter	part_2
+P37019	UniProtKB	Motif	355	359	.	.	.	Note=Selectivity	filter	part_3
+P17315	UniProtKB	Motif	31	38	.	.	.	Note=TonB	box
+P17315	UniProtKB	Motif	646	663	.	.	.	Note=TonB	C-terminal	box
+P0ABI4	UniProtKB	Motif	277	279	.	.	.	Note=Probable	selectivity	filter;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WZ31
+P0A9P6	UniProtKB	Motif	6	34	.	.	.	Note=Q	motif
+P0A9P6	UniProtKB	Motif	156	159	.	.	.	Note=DEAD	box
+P21693	UniProtKB	Motif	3	31	.	.	.	Note=Q	motif
+P21693	UniProtKB	Motif	153	156	.	.	.	Note=DEAD	box
+P27296	UniProtKB	Motif	248	251	.	.	.	Note=DEGH	box
+P0AEN4	UniProtKB	Motif	58	85	.	.	.	Note=Leucine	zipper-like
+P27305	UniProtKB	Motif	22	32	.	.	.	Note="HIGH"	region
+P27305	UniProtKB	Motif	238	242	.	.	.	Note="KMSKS"	region
+P0ACV2	UniProtKB	Motif	132	137	.	.	.	Note=HXXXXD	motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_01943
+P30015	UniProtKB	Motif	179	182	.	.	.	Note=DEVH	box
+P22188	UniProtKB	Motif	414	417	.	.	.	Note=Meso-diaminopimelate	recognition	motif
+P45799	UniProtKB	Motif	80	101	.	.	.	Note=Nudix	box
+P77788	UniProtKB	Motif	37	58	.	.	.	Note=Nudix	box
+P0AFC0	UniProtKB	Motif	41	62	.	.	.	Note=Nudix	box
+P32664	UniProtKB	Motif	159	180	.	.	.	Note=Nudix	box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00794
+P52006	UniProtKB	Motif	38	59	.	.	.	Note=Nudix	box
+P43337	UniProtKB	Motif	67	89	.	.	.	Note=Nudix	box
+P37128	UniProtKB	Motif	86	106	.	.	.	Note=Nudix	box
+P26647	UniProtKB	Motif	73	78	.	.	.	Note=HXXXXD	motif
+P0A7A7	UniProtKB	Motif	306	311	.	.	.	Note=HXXXXD	motif
+P60240	UniProtKB	Motif	280	283	.	.	.	Note=DEAH	box
+P24554	UniProtKB	Motif	258	262	.	.	.	Note=RadA	KNRFG	motif;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01498,ECO:0000305|PubMed:8759876;Dbxref=PMID:8759876
+P24230	UniProtKB	Motif	397	400	.	.	.	Note=DEQH	box
+P24255	UniProtKB	Motif	454	462	.	.	.	Note=RPON	box
+P0AGB3	UniProtKB	Motif	77	80	.	.	.	Note=Interaction	with	polymerase	core	subunit	RpoC
+P0AGB6	UniProtKB	Motif	48	61	.	.	.	Note=Polymerase	core	binding
+P07118	UniProtKB	Motif	42	52	.	.	.	Note="HIGH"	region
+P07118	UniProtKB	Motif	554	558	.	.	.		Note="KMSKS"	region
+P0AGJ9	UniProtKB	Motif	42	51	.	.	.	Note="HIGH"	region
+P0AGJ9	UniProtKB	Motif	235	239	.	.	.	Note="KMSKS"	region
+P11875	UniProtKB	Motif	122	132	.	.	.	Note="HIGH"	region
+P00962	UniProtKB	Motif	34	44	.	.	.	Note="HIGH"	region
+P00962	UniProtKB	Motif	268	272	.	.	.	Note="KMSKS"	region
+P00954	UniProtKB	Motif	12	20	.	.	.	Note="HIGH"	region
+P00954	UniProtKB	Motif	195	199	.	.	.	Note="KMSKS"	region
+P08956	UniProtKB	Motif	574	577	.	.	.	Note=DEAH	box
+P37025	UniProtKB	Motif	43	46	.	.	.	Note=HXTX	1;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01940,ECO:0000305
+P37025	UniProtKB	Motif	125	128	.	.	.	Note=HXTX	2;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01940,ECO:0000305
+P0A8F8	UniProtKB	Motif	92	115	.	.	.	Note=Beta-hairpin
+P76115	UniProtKB	Motif	680	700	.	.	.	Note=TonB	C-terminal	box
+P32129	UniProtKB	Motif	103	108	.	.	.	Note=HXXXXD	motif
+P0ABZ1	UniProtKB	Motif	125	128	.	.	.	Note=Part	of	the	EHPQR-motif
+P13036	UniProtKB	Motif	56	63	.	.	.	Note=TonB	box
+P13036	UniProtKB	Motif	757	774	.	.	.	Note=TonB	C-terminal	box
+P23484	UniProtKB	Motif	40	52	.	.	.	Note=Polymerase	core	binding
+P05825	UniProtKB	Motif	34	41	.	.	.	Note=TonB	box
+P05825	UniProtKB	Motif	729	746	.	.	.	Note=TonB	C-terminal	box
+P16869	UniProtKB	Motif	42	49	.	.	.	Note=TonB	box
+P16869	UniProtKB	Motif	712	729	.	.	.	Note=TonB	C-terminal	box
+P75780	UniProtKB	Motif	743	760	.	.	.	Note=TonB	C-terminal	box
+P0AEM6	UniProtKB	Motif	43	46	.	.	.	Note=Interaction	with	polymerase	core	subunit	RpoC
+P06971	UniProtKB	Motif	40	47	.	.	.	Note=TonB	box
+P06971	UniProtKB	Motif	730	747	.	.	.	Note=TonB	C-terminal	box
+P0A6S5	UniProtKB	Motif	41	72	.	.	.	Note=Leucine	zipper-like
+P32056	UniProtKB	Motif	50	71	.	.	.	Note=Nudix	box
+P0AER0	UniProtKB	Motif	68	70	.	.	.	Note=NPA	1
+P0AER0	UniProtKB	Motif	203	205	.	.	.	Note=NPA	2
+P0ACE7	UniProtKB	Motif	99	105	.	.	.	Note=Histidine	triad	motif;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20934431;Dbxref=PMID:20934431
+P37024	UniProtKB	Motif	123	126	.	.	.	Note=DEFH	box
+P31069	UniProtKB	Motif	185	190	.	.	.	Note=Selectivity	filter
+P43329	UniProtKB	Motif	197	200	.	.	.	Note=DEAH	box
+P24205	UniProtKB	Motif	139	144	.	.	.	Note=HXXXXD	motif;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01944,ECO:0000305
+P0ACV0	UniProtKB	Motif	132	137	.	.	.	Note=HXXXXD	motif;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_01942,ECO:0000305|PubMed:18656959;Dbxref=PMID:18656959
+P30958	UniProtKB	Motif	729	732	.	.	.	Note=DEEH	box
+P08337	UniProtKB	Motif	38	59	.	.	.	Note=Nudix	box
+P40710	UniProtKB	Motif	51	54	.	.	.	Note=CXXC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17698001;Dbxref=PMID:17698001
+P0AEI6	UniProtKB	Motif	36	57	.	.	.	Note=Nudix	box
+P17888	UniProtKB	Motif	320	323	.	.	.	Note=DEAH	box
+P25888	UniProtKB	Motif	1	29	.	.	.	Note=Q	motif
+P25888	UniProtKB	Motif	156	159	.	.	.	Note=DEAD	box
+P0A8J8	UniProtKB	Motif	9	37	.	.	.	Note=Q	motif
+P0A8J8	UniProtKB	Motif	165	168	.	.	.	Note=DEAD	box
+P15043	UniProtKB	Motif	146	149	.	.	.	Note=DEAH	box
+P00579	UniProtKB	Motif	403	406	.	.	.	Note=Interaction	with	polymerase	core	subunit	RpoC
+P0A776	UniProtKB	Motif	38	59	.	.	.	Note=Nudix	box
+P13445	UniProtKB	Motif	118	121	.	.	.	Note=Interaction	with	polymerase	core	subunit	RpoC
+P0AFR0	UniProtKB	Motif	39	43	.	.	.	Note=GXSXG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161
+P0AFR0	UniProtKB	Motif	155	157	.	.	.	Note=DGA/G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161
+P39286	UniProtKB	Motif	297	310	.	.	.	Note=Knuckle-like	cysteine	cluster
+P0AGE0	UniProtKB	Motif	173	178	.	.	.	Note=Important	for	interaction	with	partnerproteins
+P21507	UniProtKB	Motif	4	32	.	.	.	Note=Q	motif
+P21507	UniProtKB	Motif	157	160	.	.	.	Note=DEAD	box
+P04805	UniProtKB	Motif	9	19	.	.	.	Note="HIGH"	region
+P04805	UniProtKB	Motif	237	241	.	.	.	Note="KMSKS"	region
+P07813	UniProtKB	Motif	42	52	.	.	.	Note="HIGH"	region
+P07813	UniProtKB	Motif	619	623	.	.	.	Note="KMSKS"	region
+P21888	UniProtKB	Motif	30	40	.	.	.	Note="HIGH"	region
+P21888	UniProtKB	Motif	266	270	.	.	.	Note="KMSKS"	region
+P00956	UniProtKB	Motif	58	68	.	.	.	Note="HIGH"	region
+P00956	UniProtKB	Motif	602	606	.	.	.	Note="KMSKS"	region
+P00959	UniProtKB	Motif	15	25	.	.	.	Note="HIGH"	region
+P00959	UniProtKB	Motif	333	337	.	.	.	Note="KMSKS"	region
+P76055	UniProtKB	Motif	122	125	.	.	.	Note=CXXC
+P76055	UniProtKB	Motif	210	213	.	.	.	Note=CXXC
+P76257	UniProtKB	Motif	225	228	.	.	.	Note=DEAH	box
+Q47319	UniProtKB	Motif	137	140	.	.	.	Note=DXTW
+P65556	UniProtKB	Motif	72	94	.	.	.	Note=Nudix	box
+P39407	UniProtKB	Motif	31	36	.	.	.	Note=GXGXXG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161
+P39407	UniProtKB	Motif	59	63	.	.	.	Note=GXSXG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161
+P39407	UniProtKB	Motif	183	185	.	.	.	Note=DGA/G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161
