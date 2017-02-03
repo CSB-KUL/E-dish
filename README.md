@@ -12,6 +12,6 @@ with string db (http://string-db.org/))
 
 import edish
 
-from edish import d
+from edish import go
 
-d("enrichment.txt", "ecoli_id.txt","mutation.txt")
+go("enrichment.txt", "ecoli_id.txt","mutation.txt")
