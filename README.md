@@ -18,5 +18,5 @@ from edish import go
 
 go("enrichment.txt", "ecoli_id.txt","mutation.txt")
 
-# Contributors 
-http://www.biw.kuleuven.be/CSB/
+# Contributor
+Ahmed Arslan
